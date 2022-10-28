@@ -24,8 +24,9 @@ Data Sources are still being determined, some webscraping will be involved.
 - Once finished website will be hosted on AWS S3 with the domain:  https://www.oregonvineyards.wine/
 
 ## Tasks
-To get off start and form a clearer picture of our goal we need data. 
+To get off start and form a clearer picture of our goal we need data. A list of Oregon vineyards was found during a brainstorming session on the <a href=https://oregontails.org/things-to-do/eat-drink/oregon-wineries-list/>OregonTails.gov</a> website.  
 - Wine FAQ and FYI will be gathered by MichaylaGilchrist
 - Wine Reviews will be gathered by Shaobobei and DarrinM37
 - Vineyard and Winery locations will be gathered by Bag0niku (myself)
-    - sources so far:  (google maps search and https://oregontails.org/things-to-do/eat-drink/oregon-wineries-list/)
+    - Raw data from the google api maps search is saved in 2 csv files. The files will need cleaned before we can use them, only a small portion of each record looks usable to us at first glance.
+    
