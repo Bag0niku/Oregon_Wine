@@ -12,39 +12,37 @@ CREATE USER web;
 
 CREATE TABLE vineyards (
              place_id VARCHAR PRIMARY KEY, 
-             business_name VARCHAR,
+             business_name VARCHAR NOT NULL,
              location_name VARCHAR,   
              phone VARCHAR,
              rating REAL,
              user_ratings_total INTEGER,
-             formatted_address VARCHAR,
-             street_address_1 VARCHAR(100),
-             street_address_2 VARCHAR(100),
-             locality VARCHAR(50),
-             city VARCHAR(50),
-             province VARCHAR(50),
-             zipcode VARCHAR,
-             country VARCHAR(50),
+             formatted_address VARCHAR NOT NULL,
+             street_address VARCHAR(100),
+             city VARCHAR(50) NOT NULL,
+             province VARCHAR(50) NOT NULL,
+             zipcode VARCHAR NOT NULL,
+             country_code VARCHAR(50) NOT NULL,
              region VARCHAR(50),
              subregion VARCHAR(50),
-             status VARCHAR(50),
-             gmaps_url VARCHAR,
+             status VARCHAR(50) NOT NULL,
+             gmaps_url VARCHAR
 );
 
-CREATE TABLE reviews (
+CREATE TABLE reviews (review_id BIGSERIAL PRIMARY KEY,
              place_id VARCHAR REFERENCES vineyards(place_id) ON DELETE CASCADE,
              author_name VARCHAR(50), 
              author_url VARCHAR,
              original_language VARCHAR(50), 
              translated BOOLEAN,
-             utc_time TIMESTAMP,
-             relative_time_description VARCHAR(50),
+             utc_time BIGINT,
+	         relative_time_description VARCHAR(50),
              rating INTEGER,
              review_text VARCHAR
 );
 
 CREATE TABLE geometry (
-             place_id REFERENCES vineyards(place_id) ON DELETE CASCADE,
+             place_id varchar REFERENCES vineyards(place_id) ON DELETE CASCADE,
              center_lat REAL,
              center_lon REAL, 
              northeast_lat REAL, 
@@ -55,16 +53,15 @@ CREATE TABLE geometry (
   );
 
 CREATE TABLE photos (
-             photo_id INTEGER GENERATED ALWAYS AS IDENTITY,
+             photo_id BIGSERIAL PRIMARY KEY,
              height INTEGER,
              width INTEGER,
              photo_reference VARCHAR,
              place_id VARCHAR REFERENCES vineyards(place_id) ON DELETE CASCADE,
-             uploader_link VARCHAR,
-             uploader_name VARCHAR(50),
-             PRIMARY KEY (photo_id)  
+             uploader_url VARCHAR,
+             uploader_name VARCHAR(50)
   );
-  
+    
   
 GRANT CONNECT ON DATABASE vineyard_wine TO web;
 
