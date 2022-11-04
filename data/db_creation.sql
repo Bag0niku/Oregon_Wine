@@ -1,69 +1,109 @@
--- logged in as superuser -- 
 
-CREATE DATABASE vineyard_wine;
 
-DROP DATABASE postgres;
-
-REVOKE ALL ON SCHEMA public FROM public;
-
-REVOKE ALL ON DATABASE postgres FROM public;
-
-CREATE USER web;
-
-CREATE TABLE vineyards (
-             place_id VARCHAR PRIMARY KEY, 
-             business_name VARCHAR NOT NULL,
-             location_name VARCHAR,   
-             phone VARCHAR,
-             rating REAL,
-             user_ratings_total INTEGER,
-             formatted_address VARCHAR NOT NULL,
-             street_address VARCHAR(100),
-             city VARCHAR(50) NOT NULL,
-             province VARCHAR(50) NOT NULL,
-             zipcode VARCHAR NOT NULL,
-             country_code VARCHAR(50) NOT NULL,
-             region VARCHAR(50),
-             subregion VARCHAR(50),
-             status VARCHAR(50) NOT NULL,
-             gmaps_url VARCHAR
+CREATE TABLE "brand" (
+    "brand_name" VARCHAR PRIMARY KEY,
+    "grapes" JSON,
+    "style" VARCHAR ,
+    "rating" INTEGER
 );
 
-CREATE TABLE reviews (review_id BIGSERIAL PRIMARY KEY,
-             place_id VARCHAR REFERENCES vineyards(place_id) ON DELETE CASCADE,
-             author_name VARCHAR(50), 
-             author_url VARCHAR,
-             original_language VARCHAR(50), 
-             translated BOOLEAN,
-             utc_time BIGINT,
-	         relative_time_description VARCHAR(50),
-             rating INTEGER,
-             review_text VARCHAR
+CREATE TABLE "regions" (
+    "region_id" SERIAL PRIMARY KEY,
+    "region_name" VARCHAR(50)   NOT NULL,
+    "subregion" BOOLEAN   NOT NULL,
+    "gps_border" JSON 
 );
 
-CREATE TABLE geometry (
-             place_id varchar REFERENCES vineyards(place_id) ON DELETE CASCADE,
-             center_lat REAL,
-             center_lon REAL, 
-             northeast_lat REAL, 
-             northeast_lon REAL, 
-             southwest_lat REAL, 
-             southwest_lon REAL,
-             PRIMARY KEY (place_id)
-  );
+CREATE TABLE "vineyards" (
+    "place_id" VARCHAR   PRIMARY KEY,
+    "business_name" VARCHAR NOT NULL,
+    "location_name" VARCHAR,
+    "phone" VARCHAR ,
+    "rating" REAL ,
+    "user_ratings_total" INTEGER   NOT NULL,
+    "formatted_address" VARCHAR   NOT NULL,
+    "street_address" VARCHAR(100),
+    "city" VARCHAR(50)   NOT NULL,
+    "province" VARCHAR(50)   NOT NULL,
+    "zipcode" VARCHAR,
+    "country_code" VARCHAR(50)   NOT NULL,
+    "region" INTEGER  REFERENCES regions(region_id),
+    "subregion" INTEGER REFERENCES regions(region_id),
+    "status" VARCHAR(50),
+    "gmaps_url" VARCHAR ,
+    "brand_name" VARCHAR REFERENCES brand(brand_name) NOT NULL
+);
 
-CREATE TABLE photos (
-             photo_id BIGSERIAL PRIMARY KEY,
-             height INTEGER,
-             width INTEGER,
-             photo_reference VARCHAR,
-             place_id VARCHAR REFERENCES vineyards(place_id) ON DELETE CASCADE,
-             uploader_url VARCHAR,
-             uploader_name VARCHAR(50)
-  );
-    
-  
-GRANT CONNECT ON DATABASE vineyard_wine TO web;
+CREATE TABLE "vineyard_reviews" (
+    "place_id" VARCHAR  REFERENCES vineyards(place_id) NOT NULL,
+    "brand_name" VARCHAR  REFERENCES brand(brand_name) NOT NULL,
+    "author_name" VARCHAR(50)   NOT NULL,
+    "author_url" VARCHAR,
+    "original_language" VARCHAR(50)   NOT NULL,
+    "translated" BOOLEAN   NOT NULL,
+    "utc_time" BIGINT   NOT NULL,
+    "relative_time_description" VARCHAR(50),
+    "rating" INTEGER   NOT NULL,
+    "review_text" VARCHAR,
+    "review_source" VARCHAR  NOT NULL,
+    CONSTRAINT "pk_vineyard_reviews" PRIMARY KEY (
+        "place_id","author_name","utc_time"
+     )
+);
 
-GRANT SELECT ON vineyards, reviews, photos, geometry TO web;
-  
+CREATE TABLE "geometry" (
+    "place_id" varchar   PRIMARY KEY REFERENCES "vineyards" ("place_id"),
+    "center_lat" REAL   NOT NULL,
+    "center_lon" REAL   NOT NULL,
+    "northeast_lat" REAL   NOT NULL,
+    "northeast_lon" REAL   NOT NULL,
+    "southwest_lat" REAL   NOT NULL,
+    "southwest_lon" REAL   NOT NULL
+);
+
+CREATE TABLE "photos" (
+    "photo_id" BIGSERIAL  PRIMARY KEY,
+    "height" INTEGER   NOT NULL,
+    "width" INTEGER   NOT NULL,
+    "photo_reference" VARCHAR   NOT NULL,
+    "place_id" VARCHAR REFERENCES "vineyards" ("place_id")  NOT NULL,
+    "uploader_url" VARCHAR   NOT NULL,
+    "uploader_name" VARCHAR(50)   NOT NULL
+);
+
+CREATE TABLE "wine_reviews" (
+    "wine_id" VARCHAR REFERENCES wine(wine_id)  NOT NULL,
+    "brand_name" VARCHAR REFERENCES brand(brand_name)  NOT NULL,
+    "author_name" VARCHAR(50)   NOT NULL,
+    "author_url" VARCHAR   NOT NULL,
+    "original_language" VARCHAR(50)   NOT NULL,
+    "translated" BOOLEAN   NOT NULL,
+    "utc_time" BIGINT   NOT NULL,
+    "relative_time_description" VARCHAR(50)   NOT NULL,
+    "rating" INTEGER   NOT NULL,
+    "review_text" VARCHAR,
+    "review_source" VARCHAR   NOT NULL,
+    CONSTRAINT "pk_wine_reviews" PRIMARY KEY (
+        "wine_id","author_name","utc_time"
+     )
+);
+
+CREATE TABLE "wine" (
+    "wine_id" BIGSERIAL  PRIMARY KEY,
+    "brand_name" VARCHAR   REFERENCES brand(brand_name) NOT NULL,
+    "vinetage" INTEGER   NOT NULL,
+    "type" VARCHAR ,
+    "style" VARCHAR ,
+    "grapes" JSON ,
+    "region" VARCHAR  REFERENCES regions(region_id),
+    "subregion" VARCHAR  REFERENCES regions(region_id),
+    "country" VARCHAR   NOT NULL
+);
+
+CREATE TABLE "grapes" (
+    "varietal_id" SERIAL   NOT NULL,
+    "varietal_name" VARCHAR(50)   NOT NULL,
+    CONSTRAINT "pk_grapes" PRIMARY KEY (
+        "varietal_id"
+     )
+);
