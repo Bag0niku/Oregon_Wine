@@ -1,0 +1,742 @@
+price,rating,title,source,designation,winery,category,vintage,ava,region,province,country,varietal
+$13,88,The Great Oregon Wine Company 2021 Rascal Pinot Noir (Oregon),Wine Enthusiast,Rascal,The Great Oregon Wine Company,Red,2021,,Oregon Other,Oregon,US,Pinot Noir
+$19,86,Wine by Joe 2019 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2019,,Oregon Other,Oregon,US,Pinot Noir
+$15,88,Duck Pond Cellars 2021 Oregon Wine Co. Chardonnay (Oregon),Wine Enthusiast,Oregon Wine Co.,Duck Pond Cellars,White,2021,,Oregon Other,Oregon,US,Chardonnay
+$75,92,Domaine Drouhin 2019 Laurene Pinot Noir (Dundee Hills),Wine Enthusiast,Laurene,Domaine Drouhin,Red,2019,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$40,90,Portlandia 2019 Momtazi Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Momtazi Vineyard,Portlandia,Red,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$33,88,Matzinger Davies 2018 Unabridged Sauvignon Blanc (Columbia Gorge (OR)),Wine Enthusiast,Unabridged,Matzinger Davies,White,2018,Columbia Gorge (OR),Oregon Other,Oregon,US,Sauvignon Blanc
+$33,93,Élevée Winegrowers 2020 Ridgecrest Vineyard Riesling (Ribbon Ridge),Wine Enthusiast,Ridgecrest Vineyard,Élevée Winegrowers,White,2020,Ribbon Ridge,Willamette Valley,Oregon,US,Riesling
+$90,91,Granville 2017 Holstein Vineyard Blanc de Noir Sparkling (Dundee Hills),Wine Enthusiast,Holstein Vineyard Blanc de Noir,Granville,Sparkling,2017,Dundee Hills,Willamette Valley,Oregon,US,Sparkling Blend
+$25,88,Ashlyn 2019 Pinot Noir (Willamette Valley),Wine Enthusiast,,Ashlyn,Red,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$55,97,Domaine Divio 2020 Chardonnay (Willamette Valley),Wine Enthusiast,,Domaine Divio,White,2020,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$48,94,Day 2019 Belle Pente Vineyard Chardonnay (Yamhill-Carlton),Wine Enthusiast,Belle Pente Vineyard,Day,White,2019,Yamhill-Carlton,Willamette Valley,Oregon,US,Chardonnay
+$54,93,Day 2019 Momtazi Vineyard Pinot Noir (McMinnville),Wine Enthusiast,Momtazi Vineyard,Day,Red,2019,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$95,92,Adelsheim 2015 Sparkling Blanc de Blancs Sparkling (Willamette Valley),Wine Enthusiast,Sparkling Blanc de Blancs,Adelsheim,Sparkling,2015,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$35,92,Alexana 2019 Terroir Series Chardonnay (Willamette Valley),Wine Enthusiast,Terroir Series,Alexana,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$24,90,Day 2020 Isla Vermentino (Applegate Valley),Wine Enthusiast,Isla,Day,White,2020,Applegate Valley,Southern Oregon,Oregon,US,Vermentino
+$18,90,Domaine Loubejac 2020 Chardonnay (Willamette Valley),Wine Enthusiast,,Domaine Loubejac,White,2020,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+,88,J. Christopher 2020 Cristo Irresisto Oregon Pink Wine Rosé (Oregon),Wine Enthusiast,Cristo Irresisto Oregon Pink Wine,J. Christopher,Rose,2020,,Oregon Other,Oregon,US,Rosé
+$23,88,Chris Baker 2020 Pinot Gris (Willamette Valley),Wine Enthusiast,,Chris Baker,White,2020,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$35,87,Big Red Barn 2018 Pinot Noir (Willamette Valley),Wine Enthusiast,,Big Red Barn,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,86,Big Red Barn 2020 Chardonnay (Willamette Valley),Wine Enthusiast,,Big Red Barn,White,2020,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$33,86,Scott Kelley 2020 Chardonnay (Oregon),Wine Enthusiast,,Scott Kelley,White,2020,,Oregon Other,Oregon,US,Chardonnay
+$22,85,Elouan 2019 Pinot Noir (Oregon),Wine Enthusiast,,Elouan,Red,2019,,Oregon Other,Oregon,US,Pinot Noir
+$40,95,Shea 2018 Chardonnay (Willamette Valley),Wine Enthusiast,,Shea,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$35,95,Drouhin Oregon Roserock 2019 Chardonnay (Eola-Amity Hills),Wine Enthusiast,,Drouhin Oregon Roserock,White,2019,Eola-Amity Hills,Willamette Valley,Oregon,US,Chardonnay
+$65,93,Drouhin Oregon Roserock 2018 Zéphirine Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Zéphirine,Drouhin Oregon Roserock,Red,2018,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,93,Shea 2018 Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Estate,Shea,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$28,92,David Paige 2020 RPG Vineyard Pinot Blanc (Eola-Amity Hills),Wine Enthusiast,RPG Vineyard,David Paige,White,2020,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Blanc
+$40,92,King Estate 2017 Brut Cuvée Méthode Champenoise Sparkling (Willamette Valley),Wine Enthusiast,Brut Cuvée Méthode Champenoise,King Estate,Sparkling,2017,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$50,92,King Estate 2018 Crater View Vineyard & Seven Hills Vineyard Grenache-Syrah-Mourvèdre Red (Oregon),Wine Enthusiast,Crater View Vineyard & Seven Hills Vineyard Grenache-Syrah-Mourvèdre,King Estate,Red,2018,,Oregon Other,Oregon,US,Rhône-style Red Blend
+$35,92,Averaen 2019 Flood Line Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Flood Line,Averaen,Red,2019,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$55,92,Left Coast 2015 Estate Blanc de Noir Sparkling (Van Duzer Corridor),Wine Enthusiast,Estate Blanc de Noir,Left Coast,Sparkling,2015,Van Duzer Corridor,Willamette Valley,Oregon,US,Sparkling Blend
+$40,91,Ricochet 2019 Pinot Noir (Willamette Valley),Wine Enthusiast,,Ricochet,Red,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$21,90,Ricochet 2020 Grüner Veltliner (Willamette Valley),Wine Enthusiast,,Ricochet,White,2020,Willamette Valley,Willamette Valley,Oregon,US,Grüner Veltliner
+$28,89,Sokol Blosser 2020 Evolution Pinot Noir (Oregon),Wine Enthusiast,Evolution,Sokol Blosser,Red,2020,,Oregon Other,Oregon,US,Pinot Noir
+$24,87,Ricochet 2020 Red (Oregon),Wine Enthusiast,,Ricochet,Red,2020,,Oregon Other,Oregon,US,Red Blends
+$250,96,The Eyrie Vineyards 2016 The Eyrie South Block Pinot Noir (Dundee Hills),Wine Enthusiast,The Eyrie South Block,The Eyrie Vineyards,Red,2016,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,94,The Eyrie Vineyards 2018 Estate Pinot Noir (Dundee Hills),Wine Enthusiast,Estate,The Eyrie Vineyards,Red,2018,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,88,Dough 2018 Pinot Noir (Willamette Valley),Wine Enthusiast,,Dough,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$22,86,Dough 2020 Pinot Noir (Oregon),Wine Enthusiast,,Dough,Red,2020,,Oregon Other,Oregon,US,Pinot Noir
+$80,94,Argyle 2010 Extended Tirage Brut Sparkling (Willamette Valley),Wine Enthusiast,Extended Tirage Brut,Argyle,Sparkling,2010,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$30,91,Abacela 2018 Grenache (Umpqua Valley),Wine Enthusiast,,Abacela,Red,2018,Umpqua Valley,Southern Oregon,Oregon,US,Grenache
+$32,90,Valcan 2017 El Torero Tempranillo (Rogue Valley),Wine Enthusiast,El Torero,Valcan,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Tempranillo
+$14,90,Willamette Valley Vineyards 2020 Riesling (Willamette Valley),Wine Enthusiast,,Willamette Valley Vineyards,White,2020,Willamette Valley,Willamette Valley,Oregon,US,Riesling
+$40,89,Faith Hope & Charity 2019 La Crescent (Oregon),Wine Enthusiast,,Faith Hope & Charity,White,2019,,Oregon Other,Oregon,US,La Crescent
+$40,86,Faith Hope & Charity 2018 Frontenac (Oregon),Wine Enthusiast,,Faith Hope & Charity,Red,2018,,Oregon Other,Oregon,US,Frontenac
+$35,85,Division 2018 Redford-Wetle Vineyard Renardière Gamay Noir (Eola-Amity Hills),Wine Enthusiast,Redford-Wetle Vineyard Renardière,Division,Red,2018,Eola-Amity Hills,Willamette Valley,Oregon,US,Gamay Noir
+$50,92,Audeant 2019 Rosé of Pinot Noir (Willamette Valley),Wine Enthusiast,Rosé of,Audeant,Rose,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$28,92,Remotion 2018 Celestina Vineyard Barbera (Rogue Valley),Wine Enthusiast,Celestina Vineyard,Remotion,Red,2018,Rogue Valley,Southern Oregon,Oregon,US,Barbera
+$60,92,Guarachi Family 2018 Fern Creek Vineyard Pinot Noir (Oregon),Wine Enthusiast,Fern Creek Vineyard,Guarachi Family,Red,2018,,Oregon Other,Oregon,US,Pinot Noir
+$35,91,The Great Oregon Wine Company 2017 Delaney Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Delaney Vineyard,The Great Oregon Wine Company,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$60,91,The Great Oregon Wine Company 2018 Front Yard Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Front Yard Vineyard,The Great Oregon Wine Company,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$28,91,Argyle 2017 Vintage Brut Sparkling (Willamette Valley),Wine Enthusiast,Vintage Brut,Argyle,Sparkling,2017,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$50,91,Résonance 2018 Hyland Vineyard Chardonnay (McMinnville),Wine Enthusiast,Hyland Vineyard,Résonance,White,2018,McMinnville,Willamette Valley,Oregon,US,Chardonnay
+$60,90,The Great Oregon Wine Company 2018 Cattrall Vineyard Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Cattrall Vineyard,The Great Oregon Wine Company,Red,2018,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$60,90,The Great Oregon Wine Company 2018 Willow Creek Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Willow Creek Vineyard,The Great Oregon Wine Company,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$22,90,Iris Vineyards 2019 Pinot Noir (Willamette Valley),Wine Enthusiast,,Iris Vineyards,Red,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$21,88,Mignanelli 2019 Pinot Gris (Willamette Valley),Wine Enthusiast,,Mignanelli,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$19,88,Wine by Joe 2018 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2018,,Oregon Other,Oregon,US,Pinot Noir
+$43,87,Awen 2017 Sangiovese (Rogue Valley),Wine Enthusiast,,Awen,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Sangiovese
+$28,87,RoxyAnn 2017 Tempranillo (Rogue Valley),Wine Enthusiast,,RoxyAnn,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Tempranillo
+$32,86,RoxyAnn 2017 Petite Sirah (Rogue Valley),Wine Enthusiast,,RoxyAnn,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Petite Sirah
+$42,92,Analemma 2018 Grenache (Columbia Gorge (OR)),Wine Enthusiast,,Analemma,Red,2018,Columbia Gorge (OR),Oregon Other,Oregon,US,Grenache
+$35,92,Spangler 2016 Khayam's Block Dolcetto (Umpqua Valley),Wine Enthusiast,Khayam's Block,Spangler,Red,2016,Umpqua Valley,Southern Oregon,Oregon,US,Dolcetto
+$35,91,Ken Wright 2019 AVA Pinot Noir (Eola-Amity Hills),Wine Enthusiast,AVA,Ken Wright,Red,2019,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$18,90,Jezebel 2019 Pinot Noir (Oregon),Wine Enthusiast,,Jezebel,Red,2019,,Oregon Other,Oregon,US,Pinot Noir
+$14,89,Christopher Michael 2018 Pinot Gris (Oregon),Wine Enthusiast,,Christopher Michael,White,2018,,Oregon Other,Oregon,US,Pinot Gris
+$18,88,Leah Jørgensen Cellars 2018 Nisse+Hygge Red Table Wine Red (Oregon),Wine Enthusiast,Nisse+Hygge Red Table Wine,Leah Jørgensen Cellars,Red,2018,,Oregon Other,Oregon,US,Red Blends
+$65,96,Roco 2017 RMS Brut Sparkling (Willamette Valley),Wine Enthusiast,RMS Brut,Roco,Sparkling,2017,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$60,95,Hyland 2018 Coury Old Vine Single Clone Pinot Noir (McMinnville),Wine Enthusiast,Coury Old Vine Single Clone,Hyland,Red,2018,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$44,92,Dancin 2018 Sorella 60th Barbera (Rogue Valley),Wine Enthusiast,Sorella 60th,Dancin,Red,2018,Rogue Valley,Southern Oregon,Oregon,US,Barbera
+$75,91,Paul O'Brien 2016 Il Rinnegati Red (Southern Oregon),Wine Enthusiast,Il Rinnegati,Paul O'Brien,Red,2016,,Southern Oregon,Oregon,US,Red Blends
+$60,91,Handpicked 2018 La Colina Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,La Colina Vineyard,Handpicked,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$32,90,Paul O'Brien 2018 G-S-M (Southern Oregon),Wine Enthusiast,,Paul O'Brien,Red,2018,,Southern Oregon,Oregon,US,G-S-M
+$18,88,Josh Cellars 2019 Oregon Reserve Pinot Noir (Oregon),Wine Enthusiast,Oregon Reserve,Josh Cellars,Red,2019,,Oregon Other,Oregon,US,Pinot Noir
+$36,88,Delfino 2018 Tempranillo (Umpqua Valley),Wine Enthusiast,,Delfino,Red,2018,Umpqua Valley,Southern Oregon,Oregon,US,Tempranillo
+$24,88,J. Scott Cellars 2019 Chenin Blanc (Rogue Valley),Wine Enthusiast,,J. Scott Cellars,White,2019,Rogue Valley,Southern Oregon,Oregon,US,Chenin Blanc
+$38,85,Delfino 2018 Zinfandel (Umpqua Valley),Wine Enthusiast,,Delfino,Red,2018,Umpqua Valley,Southern Oregon,Oregon,US,Zinfandel
+$65,96,Dion 2018 Old Vines Pinot Noir (Chehalem Mountains),Wine Enthusiast,Old Vines,Dion,Red,2018,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$40,95,Day 2018 Belle Pente Vineyard Chardonnay (Yamhill-Carlton),Wine Enthusiast,Belle Pente Vineyard,Day,White,2018,Yamhill-Carlton,Willamette Valley,Oregon,US,Chardonnay
+$21,93,The Eyrie Vineyards 2018 Pinot Gris (Dundee Hills),Wine Enthusiast,,The Eyrie Vineyards,White,2018,Dundee Hills,Willamette Valley,Oregon,US,Pinot Gris
+$28,92,Rex Hill 2019 Pinot Noir Rosé (Willamette Valley),Wine Enthusiast,Pinot Noir,Rex Hill,Rose,2019,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$65,92,Abbott Claim 2018 Chardonnay (Willamette Valley),Wine Enthusiast,,Abbott Claim,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$44,90,The Great Oregon Wine Company 2016 Coles Valley Vineyard Blanc de Noir Sparkling (Umpqua Valley),Wine Enthusiast,Coles Valley Vineyard Blanc de Noir,The Great Oregon Wine Company,Sparkling,2016,Umpqua Valley,Southern Oregon,Oregon,US,Sparkling Blend
+$30,88,The Great Oregon Wine Company 2018 Pinot Noir (Willamette Valley),Wine Enthusiast,,The Great Oregon Wine Company,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$45,88,The Eyrie Vineyards 2016 Melon de Bourgogne (Dundee Hills),Wine Enthusiast,,The Eyrie Vineyards,White,2016,Dundee Hills,Willamette Valley,Oregon,US,Melon de Bourgogne
+$20,88,Acrobat 2018 Pinot Noir (Oregon),Wine Enthusiast,,Acrobat,Red,2018,,Oregon Other,Oregon,US,Pinot Noir
+$30,87,The Great Oregon Wine Company 2018 Coles Valley Vineyard Pinot Noir (Umpqua Valley),Wine Enthusiast,Coles Valley Vineyard,The Great Oregon Wine Company,Red,2018,Umpqua Valley,Southern Oregon,Oregon,US,Pinot Noir
+$24,87,The Great Oregon Wine Company 2019 La Chouette Vineyard Pinot Gris (Willamette Valley),Wine Enthusiast,La Chouette Vineyard,The Great Oregon Wine Company,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$22,85,Dough 2019 Pinot Noir (Oregon),Wine Enthusiast,,Dough,Red,2019,,Oregon Other,Oregon,US,Pinot Noir
+$80,93,Geodesy 2018 Chehalem Mountain Vineyard Pinot Noir (Chehalem Mountains),Wine Enthusiast,Chehalem Mountain Vineyard,Geodesy,Red,2018,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$38,93,Talent 2017 Petit Verdot (Oregon),Wine Enthusiast,,Talent,Red,2017,,Oregon Other,Oregon,US,Petit Verdot
+$70,91,El Pino Club 2018 Funky Jory Pinot Noir (Dundee Hills),Wine Enthusiast,Funky Jory,El Pino Club,Red,2018,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$20,91,Panther Creek 2019 Pinot Gris (Willamette Valley),Wine Enthusiast,,Panther Creek,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$50,91,Toil Oregon 2018 Pinot Noir (Willamette Valley),Wine Enthusiast,,Toil Oregon,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,90,Eola Hills 2017 Chardonnay (Oregon),Wine Enthusiast,,Eola Hills,White,2017,,Oregon Other,Oregon,US,Chardonnay
+$39,86,Oregon Mountain Estate 2016 Natasha Skov Pinot Noir (Columbia Valley (OR)),Wine Enthusiast,Natasha Skov,Oregon Mountain Estate,Red,2016,Columbia Valley (OR),Oregon Other,Oregon,US,Pinot Noir
+$39,85,Oregon Mountain Estate 2016 Griffin Martin Pinot Noir (Columbia Valley (OR)),Wine Enthusiast,Griffin Martin,Oregon Mountain Estate,Red,2016,Columbia Valley (OR),Oregon Other,Oregon,US,Pinot Noir
+$50,94,Blakeslee 2016 Estate Reserve Select Cluster Pinot Noir (Chehalem Mountains),Wine Enthusiast,Estate Reserve Select Cluster,Blakeslee,Red,2016,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$28,93,Hyland 2019 Old Vine Single Vineyard Riesling (McMinnville),Wine Enthusiast,Old Vine Single Vineyard,Hyland,White,2019,McMinnville,Willamette Valley,Oregon,US,Riesling
+$22,93,Antiquum Farm 2019 Daisy Pinot Gris (Willamette Valley),Wine Enthusiast,Daisy,Antiquum Farm,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$85,92,Domaine Serene 2017 Grand Cheval Oregon Red Wine Pinot Noir-Syrah (Oregon),Wine Enthusiast,Grand Cheval Oregon Red Wine,Domaine Serene,Red,2017,,Oregon Other,Oregon,US,Pinot Noir-Syrah
+$65,92,Maggy Hawk 2018 Jory Hills Vineyard Pinot Noir (Dundee Hills),Wine Enthusiast,Jory Hills Vineyard,Maggy Hawk,Red,2018,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$65,92,Nicolas-Jay 2017 Pinot Noir (Willamette Valley),Wine Enthusiast,,Nicolas-Jay,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$36,91,Patton Valley 2019 Chenin Blanc (Willamette Valley),Wine Enthusiast,,Patton Valley,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Chenin Blanc
+$68,90,Ancien 2017 Shea Vineyard Pinot Noir (Oregon),Wine Enthusiast,Shea Vineyard,Ancien,Red,2017,,Oregon Other,Oregon,US,Pinot Noir
+$14,89,Wine by Joe 2019 Chardonnay (Oregon),Wine Enthusiast,,Wine by Joe,White,2019,,Oregon Other,Oregon,US,Chardonnay
+$19,87,Wine by Joe 2017 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2017,,Oregon Other,Oregon,US,Pinot Noir
+$18,90,Valcan 2017 Pièce Chardonnay (Willamette Valley),Wine Enthusiast,Pièce,Valcan,White,2017,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$75,96,Domaine Drouhin Oregon 2018 Édition Limitée Chardonnay (Dundee Hills),Wine Enthusiast,Édition Limitée,Domaine Drouhin Oregon,White,2018,Dundee Hills,Willamette Valley,Oregon,US,Chardonnay
+$20,92,Soléna 2019 Pinot Gris (Willamette Valley),Wine Enthusiast,,Soléna,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$24,92,Left Coast 2019 White Pinot Noir (Van Duzer Corridor),Wine Enthusiast,White,Left Coast,White,2019,Van Duzer Corridor,Willamette Valley,Oregon,US,Pinot Noir
+$35,91,2Plank 2016 Reserve Pinot Noir (Oregon),Wine Enthusiast,Reserve,2Plank,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$24,91,King Estate 2018 Foris Vineyard Pinot Blanc (Rogue Valley),Wine Enthusiast,Foris Vineyard,King Estate,White,2018,Rogue Valley,Southern Oregon,Oregon,US,Pinot Blanc
+$50,90,Willamette Valley Vineyards 2017 Vintage 44 Pinot Noir (Willamette Valley),Wine Enthusiast,Vintage 44,Willamette Valley Vineyards,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$86,88,Hamilton Russell Oregon 2018 Zena Crown Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Zena Crown,Hamilton Russell Oregon,Red,2018,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$28,87,King Estate 2018 Crater View Vineyard Semillon (Rogue Valley),Wine Enthusiast,Crater View Vineyard,King Estate,White,2018,Rogue Valley,Southern Oregon,Oregon,US,Sémillon
+$45,86,Elouan 2017 Klamath's Kettle Reserve Pinot Noir (Oregon),Wine Enthusiast,Klamath's Kettle Reserve,Elouan,Red,2017,,Oregon Other,Oregon,US,Pinot Noir
+$75,93,Adelsheim 2016 Ribbon Springs Vineyard Pinot Noir (Ribbon Ridge),Wine Enthusiast,Ribbon Springs Vineyard,Adelsheim,Red,2016,Ribbon Ridge,Willamette Valley,Oregon,US,Pinot Noir
+$30,92,Naumes 2016 Tempranillo (Rogue Valley),Wine Enthusiast,,Naumes,Red,2016,Rogue Valley,Southern Oregon,Oregon,US,Tempranillo
+$55,92,Left Coast 2014 Blanc de Noir Sparkling (Van Duzer Corridor),Wine Enthusiast,Blanc de Noir,Left Coast,Sparkling,2014,Van Duzer Corridor,Willamette Valley,Oregon,US,Sparkling Blend
+$40,91,Saffron Fields Vineyard 2017 Chardonnay (Willamette Valley),Wine Enthusiast,,Saffron Fields Vineyard,White,2017,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$14,90,Wine by Joe 2018 Chardonnay (Oregon),Wine Enthusiast,,Wine by Joe,White,2018,,Oregon Other,Oregon,US,Chardonnay
+$55,90,Left Coast 2015 Brut Rosé of Pinot Meunier (Willamette Valley),Wine Enthusiast,Brut Rosé of,Left Coast,Sparkling,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Meunier
+$14,89,Wine by Joe 2018 Pinot Gris (Oregon),Wine Enthusiast,,Wine by Joe,White,2018,,Oregon Other,Oregon,US,Pinot Gris
+$20,85,The Great Oregon Wine Company 2017 Pinot Noir (Willamette Valley),Wine Enthusiast,,The Great Oregon Wine Company,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$16,85,Smith & Perry 2017 Pinot Noir (Oregon),Wine Enthusiast,,Smith & Perry,Red,2017,,Oregon Other,Oregon,US,Pinot Noir
+$65,93,Quady North 2015 Mae's Vineyard Flagship Syrah (Applegate Valley),Wine Enthusiast,Mae's Vineyard Flagship,Quady North,Red,2015,Applegate Valley,Southern Oregon,Oregon,US,Syrah
+$30,92,Dobbes Family Estate 2017 Grand Assemblage Syrah (Rogue Valley),Wine Enthusiast,Grand Assemblage,Dobbes Family Estate,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Syrah
+$22,90,Soter 2018 Planet Oregon Pinot Noir (Willamette Valley),Wine Enthusiast,Planet Oregon,Soter,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$22,94,Haden Fig 2018 Chardonnay (Willamette Valley),Wine Enthusiast,,Haden Fig,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$24,91,Sokol Blosser 2018 Estate White (Dundee Hills),Wine Enthusiast,Estate,Sokol Blosser,White,2018,Dundee Hills,Willamette Valley,Oregon,US,Pinot Blanc-Pinot Gris
+$25,90,Landform 2018 Pinot Noir (Willamette Valley),Wine Enthusiast,,Landform,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$25,88,Oregon Solidarity 2018 Pinot Noir (Rogue Valley),Wine Enthusiast,,Oregon Solidarity,Red,2018,Rogue Valley,Southern Oregon,Oregon,US,Pinot Noir
+$18,86,High Pass 2019 Sauvignon Blanc (Willamette Valley),Wine Enthusiast,,High Pass,White,2019,Willamette Valley,Willamette Valley,Oregon,US,Sauvignon Blanc
+$65,96,Brittan Vineyards 2016 Cygnus Block Pinot Noir (McMinnville),Wine Enthusiast,Cygnus Block,Brittan Vineyards,Red,2016,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$35,93,Martin Woods 2017 Havlin Vineyard Unfined & Unfiltered Pinot Noir (Van Duzer Corridor),Wine Enthusiast,Havlin Vineyard Unfined & Unfiltered,Martin Woods,Red,2017,Van Duzer Corridor,Willamette Valley,Oregon,US,Pinot Noir
+$60,93,Domaine Roy & Fils 2017 Incline Pinot Noir (Dundee Hills),Wine Enthusiast,Incline,Domaine Roy & Fils,Red,2017,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$30,93,Lemelson 2016 Reserve Chardonnay (Willamette Valley),Wine Enthusiast,Reserve,Lemelson,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$14,92,Foris 2018 Pinot Gris (Rogue Valley),Wine Enthusiast,,Foris,White,2018,Rogue Valley,Southern Oregon,Oregon,US,Pinot Gris
+$42,92,Martin Woods 2017 Jessie James Vineyard Pinot Noir (McMinnville),Wine Enthusiast,Jessie James Vineyard,Martin Woods,Red,2017,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$20,92,Foris 2016 Tempranillo (Rogue Valley),Wine Enthusiast,,Foris,Red,2016,Rogue Valley,Southern Oregon,Oregon,US,Tempranillo
+$25,91,Anne Amie 2017 Twelve Oaks Estate Gamay Noir (Chehalem Mountains),Wine Enthusiast,Twelve Oaks Estate,Anne Amie,Red,2017,Chehalem Mountains,Willamette Valley,Oregon,US,Gamay Noir
+$17,90,Maison L'Envoyé 2018 Straight Shooter Chardonnay (Willamette Valley),Wine Enthusiast,Straight Shooter,Maison L'Envoyé,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$20,90,Capitello 2018 Croft Vineyard Sauvignon Blanc (Willamette Valley),Wine Enthusiast,Croft Vineyard,Capitello,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Sauvignon Blanc
+$30,88,Anchor Valley 2017 Pinot Noir (Rogue Valley),Wine Enthusiast,,Anchor Valley,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Pinot Noir
+$20,87,Chemistry 2018 Pinot Noir (Willamette Valley),Wine Enthusiast,,Chemistry,Red,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$65,94,Roco 2016 RMS Brut Sparkling (Willamette Valley),Wine Enthusiast,RMS Brut,Roco,Sparkling,2016,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$75,92,Geodesy 2017 Eola Springs Vineyard Chardonnay (Eola-Amity Hills),Wine Enthusiast,Eola Springs Vineyard,Geodesy,White,2017,Eola-Amity Hills,Willamette Valley,Oregon,US,Chardonnay
+$45,92,Carlton Cellars 2016 Roads End Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Roads End,Carlton Cellars,Red,2016,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$24,92,Andrew Rich 2018 Croft Vineyard Sauvignon Blanc (Willamette Valley),Wine Enthusiast,Croft Vineyard,Andrew Rich,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Sauvignon Blanc
+$37,92,Dancin 2017 Onore Barbera (Rogue Valley),Wine Enthusiast,Onore,Dancin,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Barbera
+$25,91,Lange 2017 Classique Pinot Noir (Willamette Valley),Wine Enthusiast,Classique,Lange,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$35,91,Résonance 2017 Willamette Valley Pinot Noir (Willamette Valley),Wine Enthusiast,Willamette Valley,Résonance,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$22,90,William Rose 2018 Riesling (Oregon),Wine Enthusiast,,William Rose,White,2018,,Oregon Other,Oregon,US,Riesling
+$15,90,A to Z 2018 Chardonnay (Oregon),Wine Enthusiast,,A to Z,White,2018,,Oregon Other,Oregon,US,Chardonnay
+$16,88,Melrose 2015 Vin du Fermier Pinot Noir (Oregon),Wine Enthusiast,Vin du Fermier,Melrose,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$30,86,The Willametter Journal 2017 Pinot Noir (Oregon),Wine Enthusiast,,The Willametter Journal,Red,2017,,Oregon Other,Oregon,US,Pinot Noir
+$23,86,Jackalope 2017 Merlot (Applegate Valley),Wine Enthusiast,,Jackalope,Red,2017,Applegate Valley,Southern Oregon,Oregon,US,Merlot
+$70,93,Bergström 2017 Temperance Hill Vineyard Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Temperance Hill Vineyard,Bergström,Red,2017,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$75,92,Walt 2017 Shea Vineyard Pinot Noir (Oregon),Wine Enthusiast,Shea Vineyard,Walt,Red,2017,,Oregon Other,Oregon,US,Pinot Noir
+$35,92,Soter 2017 North Valley Pinot Noir (Willamette Valley),Wine Enthusiast,North Valley,Soter,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$24,92,Division 2018 La Frontière Sauvignon Blanc (Oregon),Wine Enthusiast,La Frontière,Division,White,2018,,Oregon Other,Oregon,US,Sauvignon Blanc
+$22,91,Soter 2017 Planet Oregon Pinot Noir (Willamette Valley),Wine Enthusiast,Planet Oregon,Soter,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$26,91,Iris Vineyards 2017 Steelhead Run Vineyard Syrah (Applegate Valley),Wine Enthusiast,Steelhead Run Vineyard,Iris Vineyards,Red,2017,Applegate Valley,Southern Oregon,Oregon,US,Syrah
+$24,90,King Estate 2017 Foris Pinot Blanc (Rogue Valley),Wine Enthusiast,Foris,King Estate,White,2017,Rogue Valley,Southern Oregon,Oregon,US,Pinot Blanc
+$20,90,Oregon Solidarity 2018 Chardonnay (Rogue Valley),Wine Enthusiast,,Oregon Solidarity,White,2018,Rogue Valley,Southern Oregon,Oregon,US,Chardonnay
+$39,90,Treos 2017 Sangiovese (Willamette Valley),Wine Enthusiast,,Treos,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Sangiovese
+$68,89,Ancien 2016 Shea Vineyard Pinot Noir (Oregon),Wine Enthusiast,Shea Vineyard,Ancien,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$30,89,Vidon Vineyard 2017 Chardonnay (Chehalem Mountains),Wine Enthusiast,,Vidon Vineyard,White,2017,Chehalem Mountains,Willamette Valley,Oregon,US,Chardonnay
+$18,89,Jezebel 2016 Pinot Noir (Oregon),Wine Enthusiast,,Jezebel,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$16,88,Cana's Feast 2018 Andreas Vineyard Vaso Bianco White (Willamette Valley),Wine Enthusiast,Andreas Vineyard Vaso Bianco,Cana's Feast,White,2018,Willamette Valley,Willamette Valley,Oregon,US,White Blend
+$24,88,King Estate 2017 Elhanan Riesling (Willamette Valley),Wine Enthusiast,Elhanan,King Estate,White,2017,Willamette Valley,Willamette Valley,Oregon,US,Riesling
+$19,87,Gooseneck 2017 Pinot Noir (Oregon),Wine Enthusiast,,Gooseneck,Red,2017,,Oregon Other,Oregon,US,Pinot Noir
+$40,86,Vidon Vineyard 2016 Explorer Tempranillo (Chehalem Mountains),Wine Enthusiast,Explorer,Vidon Vineyard,Red,2016,Chehalem Mountains,Willamette Valley,Oregon,US,Tempranillo
+$16,86,Silvan Ridge 2018 Pinot Gris (Willamette Valley),Wine Enthusiast,,Silvan Ridge,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$25,92,Toil Oregon 2018 Pinot Noir Rosé (Willamette Valley),Wine Enthusiast,Pinot Noir,Toil Oregon,Rose,2018,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$32,92,2Hawk 2017 Grenache (Rogue Valley),Wine Enthusiast,,2Hawk,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Grenache
+$30,90,Petites Secondes 2016 Pinot Noir (Willamette Valley),Wine Enthusiast,,Petites Secondes,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$65,90,Stoller 2015 LaRue's Brut Rosé Sparkling (Dundee Hills),Wine Enthusiast,LaRue's Brut Rosé,Stoller,Sparkling,2015,Dundee Hills,Willamette Valley,Oregon,US,Sparkling Blend
+$20,90,A to Z 2016 Pinot Noir (Oregon),Wine Enthusiast,,A to Z,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$18,88,Northwest Ridge 2018 8 Barrel Pinot Gris (Willamette Valley),Wine Enthusiast,8 Barrel,Northwest Ridge,White,2018,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$27,93,Ovum 2017 Off the Grid Riesling (Rogue Valley),Wine Enthusiast,Off the Grid,Ovum,White,2017,Rogue Valley,Southern Oregon,Oregon,US,Riesling
+$55,91,Swiftwater Cellars 2016 Thistle Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Thistle Vineyard,Swiftwater Cellars,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$55,91,Swiftwater Cellars 2016 Pinot Noir (Willamette Valley),Wine Enthusiast,,Swiftwater Cellars,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$55,91,Swiftwater Cellars 2016 Saffron Fields Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Saffron Fields Vineyard,Swiftwater Cellars,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$19,91,Quady North 2018 Rosé of Counoise (Applegate Valley),Wine Enthusiast,Rosé of,Quady North,Rose,2018,Applegate Valley,Southern Oregon,Oregon,US,Counoise
+$27,91,Ovum 2017 Memorista Riesling (Eola-Amity Hills),Wine Enthusiast,Memorista,Ovum,White,2017,Eola-Amity Hills,Willamette Valley,Oregon,US,Riesling
+$25,91,Lange 2016 Classiqué Pinot Noir (Willamette Valley),Wine Enthusiast,Classiqué,Lange,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,89,Swiftwater Cellars 2016 No. 9 Pinot Noir (Willamette Valley),Wine Enthusiast,No. 9,Swiftwater Cellars,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$17,88,Oregon Solidarity 2018 Rosé of Pinot Noir (Rogue Valley),Wine Enthusiast,Rosé of,Oregon Solidarity,Rose,2018,Rogue Valley,Southern Oregon,Oregon,US,Pinot Noir
+$20,87,Chehalem 2018 Pinot Gris (Chehalem Mountains),Wine Enthusiast,,Chehalem,White,2018,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Gris
+$20,87,Bodewell 2017 Pinot Noir (Willamette Valley),Wine Enthusiast,,Bodewell,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$65,93,Ponzi 2016 Aurora Vineyard Chardonnay (Chehalem Mountains),Wine Enthusiast,Aurora Vineyard,Ponzi,White,2016,Chehalem Mountains,Willamette Valley,Oregon,US,Chardonnay
+$55,91,Tumwater 2016 Prince Hill Vineyard Reserve Pinot Noir (Dundee Hills),Wine Enthusiast,Prince Hill Vineyard Reserve,Tumwater,Red,2016,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$39,91,Simple Machine 2017 Pinot Noir (Rogue Valley),Wine Enthusiast,,Simple Machine,Red,2017,Rogue Valley,Southern Oregon,Oregon,US,Pinot Noir
+$34,91,Simple Machine 2014 Grenache (Rogue Valley),Wine Enthusiast,,Simple Machine,Red,2014,Rogue Valley,Southern Oregon,Oregon,US,Grenache
+$28,88,Love & Squalor 2016 Pinot Noir (Willamette Valley),Wine Enthusiast,,Love & Squalor,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$20,86,Centerstone 2017 Pinot Noir (Willamette Valley),Wine Enthusiast,,Centerstone,Red,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$65,93,Maison Jussiaume 2016 Brut Blanc de Blancs Sparkling (Rogue Valley),Wine Enthusiast,Brut Blanc de Blancs,Maison Jussiaume,Sparkling,2016,Rogue Valley,Southern Oregon,Oregon,US,Sparkling Blend
+$23,91,Trathen Hall 2017 Sauvignon Blanc (Eola-Amity Hills),Wine Enthusiast,,Trathen Hall,White,2017,Eola-Amity Hills,Willamette Valley,Oregon,US,Sauvignon Blanc
+$29,91,Sarver 2016 Elhanan Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Elhanan Vineyard,Sarver,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$24,90,Talent 2016 Nuf Sed Red Red (Oregon),Wine Enthusiast,Nuf Sed Red,Talent,Red,2016,,Oregon Other,Oregon,US,Red Blends
+$65,94,Harper Voit 2016 Bieze Vineyard Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Bieze Vineyard,Harper Voit,Red,2016,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,93,Carlton Cellars 2015 Roads End Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Roads End,Carlton Cellars,Red,2015,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$28,92,Failla 2016 Pinot Noir (Willamette Valley),Wine Enthusiast,,Failla,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$60,92,Moffett 2016 Pinot Noir (Dundee Hills),Wine Enthusiast,,Moffett,Red,2016,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$30,91,Failla 2016 Björnson Vineyard Gamay Noir (Eola-Amity Hills),Wine Enthusiast,Björnson Vineyard,Failla,Red,2016,Eola-Amity Hills,Willamette Valley,Oregon,US,Gamay Noir
+$35,89,Troon 2016 Estate Cuvée Côt (Applegate Valley),Wine Enthusiast,Estate Cuvée,Troon,Red,2016,Applegate Valley,Southern Oregon,Oregon,US,Côt
+$24,88,Cardwell Hill 2015 Estate Bottled Pinot Noir (Willamette Valley),Wine Enthusiast,Estate Bottled,Cardwell Hill,Red,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$40,87,Pfeiffer 2013 Blue Line Pinot Noir (Oregon),Wine Enthusiast,Blue Line,Pfeiffer,Red,2013,,Oregon Other,Oregon,US,Pinot Noir
+$30,86,Adega Northwest 2015 Firethorn Vineyard Syrah (Columbia Valley (OR)),Wine Enthusiast,Firethorn Vineyard,Adega Northwest,Red,2015,Columbia Valley (OR),Oregon Other,Oregon,US,Syrah
+$36,86,Adega Northwest 2015 Firethorn Vineyard Trillium Block Cabernet Sauvignon (Columbia Valley (OR)),Wine Enthusiast,Firethorn Vineyard Trillium Block,Adega Northwest,Red,2015,Columbia Valley (OR),Oregon Other,Oregon,US,Cabernet Sauvignon
+$22,91,Carlton Cellars 2017 Auxerrois (Yamhill-Carlton),Wine Enthusiast,,Carlton Cellars,White,2017,Yamhill-Carlton,Willamette Valley,Oregon,US,Auxerrois
+$65,96,Brittan Vineyards 2015 Cygnus Block Pinot Noir (McMinnville),Wine Enthusiast,Cygnus Block,Brittan Vineyards,Red,2015,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$120,95,Caballus 2014 Pinot Noir (Willamette Valley),Wine Enthusiast,,Caballus,Red,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,93,Argyle 2016 Nuthouse Riesling (Eola-Amity Hills),Wine Enthusiast,Nuthouse,Argyle,White,2016,Eola-Amity Hills,Willamette Valley,Oregon,US,Riesling
+$85,92,Domaine Serene 2015 Grand Cheval Oregon Red Wine Pinot Noir (Oregon),Wine Enthusiast,Grand Cheval Oregon Red Wine,Domaine Serene,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$50,92,Toil Oregon 2016 Pinot Noir (Willamette Valley),Wine Enthusiast,,Toil Oregon,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$48,92,Domaine Divio 2016 Pinot Noir (Yamhill-Carlton),Wine Enthusiast,,Domaine Divio,Red,2016,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$50,92,Aberrant Cellars 2016 Chehalem Mountain Vineyard Block B3 Old Vines Pinot Noir (Chehalem Mountains),Wine Enthusiast,Chehalem Mountain Vineyard Block B3 Old Vines,Aberrant Cellars,Red,2016,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$50,91,Devona 2015 Mount Richmond Vineyard Pinot Noir (Oregon),Wine Enthusiast,Mount Richmond Vineyard,Devona,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$25,91,WildAire 2017 Stater Vineyard Pinot Blanc (Dundee Hills),Wine Enthusiast,Stater Vineyard,WildAire,White,2017,Dundee Hills,Willamette Valley,Oregon,US,Pinot Blanc
+$50,90,Devona 2015 Freedom Hill Vineyard Pinot Noir (Oregon),Wine Enthusiast,Freedom Hill Vineyard,Devona,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$35,89,The Eyrie Vineyards 2016 Trousseau (Dundee Hills),Wine Enthusiast,,The Eyrie Vineyards,Red,2016,Dundee Hills,Willamette Valley,Oregon,US,Trousseau
+$35,88,Copper Belt 2016 Eagle Creek Vineyards Cabernet Sauvignon (Snake River Valley (OR)),Wine Enthusiast,Eagle Creek Vineyards,Copper Belt,Red,2016,,,,,Cabernet Sauvignon
+$55,88,Willamette Valley Vineyards 2015 Méthode Champenoise Brut Sparkling (Willamette Valley),Wine Enthusiast,Méthode Champenoise Brut,Willamette Valley Vineyards,Sparkling,2015,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$19,87,Wine by Joe 2016 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$20,85,Game of Thrones 2016 Pinot Noir (Oregon),Wine Enthusiast,,Game of Thrones,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$58,94,Résonance 2016 Hyland Vineyard Chardonnay (McMinnville),Wine Enthusiast,Hyland Vineyard,Résonance,White,2016,McMinnville,Willamette Valley,Oregon,US,Chardonnay
+$20,93,Seekseekqua 2017 Waldo Pinot Gris (Oregon),Wine Enthusiast,Waldo,Seekseekqua,White,2017,,Oregon Other,Oregon,US,Pinot Gris
+$125,92,Maison Evenstad 2015 La Garenne Premier Cru  (Puligny-Montrachet),Wine Enthusiast,La Garenne Premier Cru,Maison Evenstad,White,2015,,,,,Chardonnay
+$14,91,Duck Pond 2017 Pinot Gris (Willamette Valley),Wine Enthusiast,,Duck Pond,White,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$18,90,J. Christopher 2017 Cristo Irresisto Pink Wine Rosé (Oregon),Wine Enthusiast,Cristo Irresisto Pink Wine,J. Christopher,Rose,2017,,Oregon Other,Oregon,US,Rosé
+$18,90,R. Stuart & Co. 2016 Big Fire Pinot Gris (Willamette Valley),Wine Enthusiast,Big Fire,R. Stuart & Co.,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$34,89,Alexana 2015 Terroir Series Chardonnay (Willamette Valley),Wine Enthusiast,Terroir Series,Alexana,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$20,88,The Great Oregon Wine Company 2016 Pinot Noir (Willamette Valley),Wine Enthusiast,,The Great Oregon Wine Company,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$14,88,Wine by Joe 2017 Pinot Gris (Oregon),Wine Enthusiast,,Wine by Joe,White,2017,,Oregon Other,Oregon,US,Pinot Gris
+$32,88,Spangler 2015 Khayam's Block Dolcetto (Umpqua Valley),Wine Enthusiast,Khayam's Block,Spangler,Red,2015,Umpqua Valley,Southern Oregon,Oregon,US,Dolcetto
+$15,87,The Great Oregon Wine Company 2017 Rose City Pinot Gris (Willamette Valley),Wine Enthusiast,Rose City,The Great Oregon Wine Company,White,2017,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$15,87,The Great Oregon Wine Company 2017 Rose City Rosé (Willamette Valley),Wine Enthusiast,Rose City,The Great Oregon Wine Company,Rose,2017,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$19,87,Conveyance 2017 Rosé (Willamette Valley),Wine Enthusiast,,Conveyance,Rose,2017,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$17,87,Domaine Loubejac 2017 Rosé (Willamette Valley),Wine Enthusiast,,Domaine Loubejac,Rose,2017,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$24,87,Project M 2017 Acclara Rosé (Willamette Valley),Wine Enthusiast,Acclara,Project M,Rose,2017,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$35,92,Drouhin Oregon Roserock 2016 Chardonnay (Eola-Amity Hills),Wine Enthusiast,,Drouhin Oregon Roserock,White,2016,Eola-Amity Hills,Willamette Valley,Oregon,US,Chardonnay
+$18,91,J. Scott Cellars 2017 Sauvignon Blanc (Oregon),Wine Enthusiast,,J. Scott Cellars,White,2017,,Oregon Other,Oregon,US,Sauvignon Blanc
+$31,91,2Hawk 2015 Tempranillo (Rogue Valley),Wine Enthusiast,,2Hawk,Red,2015,Rogue Valley,Southern Oregon,Oregon,US,Tempranillo
+$48,90,Elouan 2016 Klamath's Kettle Reserve Pinot Noir (Oregon),Wine Enthusiast,Klamath's Kettle Reserve,Elouan,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$15,90,Samuel Robert 2017 Vintner's Reserve Pinot Noir Rosé (Willamette Valley),Wine Enthusiast,Vintner's Reserve Pinot Noir,Samuel Robert,Rose,2017,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$19,90,Gooseneck 2016 Pinot Noir (Oregon),Wine Enthusiast,,Gooseneck,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$60,90,Van Duzer 2015 Homestead Block Pinot Noir (Willamette Valley),Wine Enthusiast,Homestead Block,Van Duzer,Red,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$48,90,Elouan 2016 Missoulan Wash Reserve Pinot Noir (Oregon),Wine Enthusiast,Missoulan Wash Reserve,Elouan,Red,2016,,Oregon Other,Oregon,US,Pinot Noir
+$28,89,Scenic Valley Farms 2016 Hare Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Hare Vineyard,Scenic Valley Farms,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,88,Girardet 2016 Estate Grown Pinot Gris (Umpqua Valley),Wine Enthusiast,Estate Grown,Girardet,White,2016,Umpqua Valley,Southern Oregon,Oregon,US,Pinot Gris
+$24,88,2Hawk 2017 Grenache Rosé (Rogue Valley),Wine Enthusiast,Grenache,2Hawk,Rose,2017,Rogue Valley,Southern Oregon,Oregon,US,Rosé
+$21,88,Eliana 2017 Rosé of Merlot (Rogue Valley),Wine Enthusiast,Rosé of,Eliana,Rose,2017,Rogue Valley,Southern Oregon,Oregon,US,Merlot
+$38,87,Sokol Blosser 2015 Thistle Vineyard Pinot Noir (Dundee Hills),Wine Enthusiast,Thistle Vineyard,Sokol Blosser,Red,2015,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,97,Lavinea 2015 Lazy River Vineyard Chardonnay (Yamhill-Carlton),Wine Enthusiast,Lazy River Vineyard,Lavinea,White,2015,Yamhill-Carlton,Willamette Valley,Oregon,US,Chardonnay
+$120,95,Prince Hill 2015 Clone 95 Pinot Noir (Dundee Hills),Wine Enthusiast,Clone 95,Prince Hill,Red,2015,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$50,95,Domaine Divio 2016 Chardonnay (Willamette Valley),Wine Enthusiast,,Domaine Divio,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$32,93,Domaine Divio 2015 Pinot Noir (Willamette Valley),Wine Enthusiast,,Domaine Divio,Red,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$85,93,Prince Hill 2015 Estate Reserve Pinot Noir (Dundee Hills),Wine Enthusiast,Estate Reserve,Prince Hill,Red,2015,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$35,90,Armonéa 2014 Summit Vineyard Estate Pinot Noir (Dundee Hills),Wine Enthusiast,Summit Vineyard Estate,Armonéa,Red,2014,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$16,88,Apolloni 2016 Estate Pinot Blanc (Willamette Valley),Wine Enthusiast,Estate,Apolloni,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$30,93,Alloro 2016 Riesling (Chehalem Mountains),Wine Enthusiast,,Alloro,White,2016,Chehalem Mountains,Willamette Valley,Oregon,US,Riesling
+$42,93,Abacela 2014 Reserve South Face Block Syrah (Umpqua Valley),Wine Enthusiast,Reserve South Face Block,Abacela,Red,2014,Umpqua Valley,Southern Oregon,Oregon,US,Syrah
+$18,91,Helioterra 2016 Redman Vineyard Arneis (Ribbon Ridge),Wine Enthusiast,Redman Vineyard,Helioterra,White,2016,Ribbon Ridge,Willamette Valley,Oregon,US,Arneis
+$28,90,Argyle 2014 Grower Series Vintage Brut Sparkling (Willamette Valley),Wine Enthusiast,Grower Series Vintage Brut,Argyle,Sparkling,2014,Willamette Valley,Willamette Valley,Oregon,US,Sparkling Blend
+$30,90,Iris Vineyards 2015 Chalice Estate Chardonnay (Willamette Valley),Wine Enthusiast,Chalice Estate,Iris Vineyards,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$28,89,Duck Pond 2016 Gamay Noir (Willamette Valley),Wine Enthusiast,,Duck Pond,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Gamay Noir
+$26,88,Phelps Creek 2016 Sauvignon Blanc (Columbia Gorge (OR)),Wine Enthusiast,,Phelps Creek,White,2016,Columbia Gorge (OR),Oregon Other,Oregon,US,Sauvignon Blanc
+$42,88,Schmidt 2014 Pinot Noir (Applegate Valley),Wine Enthusiast,,Schmidt,Red,2014,Applegate Valley,Southern Oregon,Oregon,US,Pinot Noir
+$40,88,Origin 2016 Z'ivo Vineyard Gouges Pinot Blanc (Eola-Amity Hills),Wine Enthusiast,Z'ivo Vineyard Gouges,Origin,White,2016,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Blanc
+$30,88,Maysara 2014 Jamsheed Pinot Noir (McMinnville),Wine Enthusiast,Jamsheed,Maysara,Red,2014,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$28,86,Melrose 2015 Merlot (Umpqua Valley),Wine Enthusiast,,Melrose,Red,2015,Umpqua Valley,Southern Oregon,Oregon,US,Merlot
+$20,95,Styring 2014 Whimsy Estate Riesling (Ribbon Ridge),Wine Enthusiast,Whimsy Estate,Styring,White,2014,Ribbon Ridge,Willamette Valley,Oregon,US,Riesling
+$60,93,Winderlea 2015 Shea Vineyard Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Shea Vineyard,Winderlea,Red,2015,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$38,92,Antiquum Farm 2015 Juel Pinot Noir (Willamette Valley),Wine Enthusiast,Juel,Antiquum Farm,Red,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,91,Winderlea 2016 Meredith Mitchell Vineyard Pinot Blanc (McMinnville),Wine Enthusiast,Meredith Mitchell Vineyard,Winderlea,White,2016,McMinnville,Willamette Valley,Oregon,US,Pinot Blanc
+$24,91,Keeler 2016 Pinot Gris (Eola-Amity Hills),Wine Enthusiast,,Keeler,White,2016,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Gris
+$48,90,Keeler 2014 Reserve Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Reserve,Keeler,Red,2014,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$18,90,J. Scott Cellars 2016 Sauvignon Blanc (Southern Oregon),Wine Enthusiast,,J. Scott Cellars,White,2016,,Southern Oregon,Oregon,US,Sauvignon Blanc
+$14,89,Wine by Joe 2016 Chardonnay (Oregon),Wine Enthusiast,,Wine by Joe,White,2016,,Oregon Other,Oregon,US,Chardonnay
+$19,88,Domaine Loubejac 2016 Pinot Noir (Willamette Valley),Wine Enthusiast,,Domaine Loubejac,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$14,88,Wine by Joe 2016 Pinot Gris (Oregon),Wine Enthusiast,,Wine by Joe,White,2016,,Oregon Other,Oregon,US,Pinot Gris
+$48,88,Cathedral Ridge 2014 Bolton Vineyard Reserve Barbera (Columbia Valley (OR)),Wine Enthusiast,Bolton Vineyard Reserve,Cathedral Ridge,Red,2014,Columbia Valley (OR),Oregon Other,Oregon,US,Barbera
+$16,88,Silvan Ridge 2016 Pinot Gris (Willamette Valley),Wine Enthusiast,,Silvan Ridge,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$20,87,Oregon Territory 2016 Pinot Gris (Willamette Valley),Wine Enthusiast,,Oregon Territory,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$28,86,Carlton Cellars 2016 Reserve Auxerrois (Willamette Valley),Wine Enthusiast,Reserve,Carlton Cellars,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Auxerrois
+$19,84,Wine by Joe 2015 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$65,95,Brittan Vineyards 2014 Cygnus Block Pinot Noir (McMinnville),Wine Enthusiast,Cygnus Block,Brittan Vineyards,Red,2014,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$37,91,Dancin 2015 Plié Pinot Noir (Southern Oregon),Wine Enthusiast,Plié,Dancin,Red,2015,,Southern Oregon,Oregon,US,Pinot Noir
+$40,90,Martin Woods 2015 Jessie James Vineyard Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Jessie James Vineyard,Martin Woods,Red,2015,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$39,89,Siduri 2015 Pinot Noir (Chehalem Mountains),Wine Enthusiast,,Siduri,Red,2015,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$34,89,Bachelder 2013 Oregon Pinot Noir (Willamette Valley),Wine Enthusiast,Oregon,Bachelder,Red,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$35,89,Martin Woods 2016 Havlin Vineyard Gamay (Willamette Valley),Wine Enthusiast,Havlin Vineyard,Martin Woods,Red,2016,Willamette Valley,Willamette Valley,Oregon,US,Gamay
+$20,85,Maison L'Envoyé 2015 Straight Shooter Pinot Noir (Willamette Valley),Wine Enthusiast,Straight Shooter,Maison L'Envoyé,Red,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$85,94,Big Table Farm 2015 Elusive Queen Chardonnay (Willamette Valley),Wine Enthusiast,Elusive Queen,Big Table Farm,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$50,93,Aberrant Cellars 2014 Chehalem Mountain Vineyard Block B3 Old Vines Pinot Noir (Chehalem Mountains),Wine Enthusiast,Chehalem Mountain Vineyard Block B3 Old Vines,Aberrant Cellars,Red,2014,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$24,91,Duck Pond 2016 Hylo Vineyard Pinot Gris (Willamette Valley),Wine Enthusiast,Hylo Vineyard,Duck Pond,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$30,91,Abacela 2014 Barrel Select Tannat (Umpqua Valley),Wine Enthusiast,Barrel Select,Abacela,Red,2014,Umpqua Valley,Southern Oregon,Oregon,US,Tannat
+$20,90,David Hill 2016 Estate Gewürztraminer (Willamette Valley),Wine Enthusiast,Estate,David Hill,White,2016,Willamette Valley,Willamette Valley,Oregon,US,Gewürztraminer
+$36,90,Siduri 2015 Pinot Noir (Yamhill-Carlton),Wine Enthusiast,,Siduri,Red,2015,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$30,90,Heart Catcher 2014 Volcano Ridge Vineyard Merlot (Columbia Gorge (OR)),Wine Enthusiast,Volcano Ridge Vineyard,Heart Catcher,Red,2014,Columbia Gorge (OR),Oregon Other,Oregon,US,Merlot
+$32,87,Willamette Valley Vineyards 2015 Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Estate,Willamette Valley Vineyards,Red,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$60,92,Tendril 2014 Pretender White Pinot Noir Pinot Noir (Willamette Valley),Wine Enthusiast,Pretender White Pinot Noir,Tendril,White,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$45,92,Big Table Farm 2015 Chardonnay (Willamette Valley),Wine Enthusiast,,Big Table Farm,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$60,90,Ancien 2014 Shea Vineyard Pinot Noir (Oregon),Wine Enthusiast,Shea Vineyard,Ancien,Red,2014,,Oregon Other,Oregon,US,Pinot Noir
+$19,89,Gooseneck 2015 Pinot Noir (Oregon),Wine Enthusiast,,Gooseneck,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$13,87,The Great Oregon Wine Company NV Pinot Noir (Oregon),Wine Enthusiast,,The Great Oregon Wine Company,Red,,,Oregon Other,Oregon,US,Pinot Noir
+$15,86,The Great Oregon Wine Company 2016 Rose City Rosé (Willamette Valley),Wine Enthusiast,Rose City,The Great Oregon Wine Company,Rose,2016,Willamette Valley,Willamette Valley,Oregon,US,Rosé
+$13,85,The Great Oregon Wine Company NV Rosé (Oregon),Wine Enthusiast,,The Great Oregon Wine Company,Rose,,,Oregon Other,Oregon,US,Rosé
+$19,84,Wine by Joe 2014 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2014,,Oregon Other,Oregon,US,Pinot Noir
+$40,93,Ponzi 2014 Reserve Chardonnay (Willamette Valley),Wine Enthusiast,Reserve,Ponzi,White,2014,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$24,90,King Estate 2015 Croft Vineyard Sauvignon Blanc (Willamette Valley),Wine Enthusiast,Croft Vineyard,King Estate,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Sauvignon Blanc
+$26,89,Scenic Valley Farms 2015 Vitae Springs Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Vitae Springs Vineyard,Scenic Valley Farms,Red,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$50,95,Résonance 2015 Hyland Vineyard Chardonnay (McMinnville),Wine Enthusiast,Hyland Vineyard,Résonance,White,2015,McMinnville,Willamette Valley,Oregon,US,Chardonnay
+$50,91,Le Cadeau 2011 Blanc de Noir Sparkling (Oregon),Wine Enthusiast,Blanc de Noir,Le Cadeau,Sparkling,2011,,Oregon Other,Oregon,US,Sparkling Blend
+$25,90,Z'IVO 2012 Pinot Blanc (Eola-Amity Hills),Wine Enthusiast,,Z'IVO,White,2012,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Blanc
+$28,90,A to Z 2015 The Essence of Oregon Pinot Noir (Oregon),Wine Enthusiast,The Essence of Oregon,A to Z,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$20,89,The Great Oregon Wine Company 2014 Pinot Noir (Willamette Valley),Wine Enthusiast,,The Great Oregon Wine Company,Red,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,88,A to Z 2015 Chardonnay (Oregon),Wine Enthusiast,,A to Z,White,2015,,Oregon Other,Oregon,US,Chardonnay
+$19,88,Eola Hills 2015 Pinot Noir (Oregon),Wine Enthusiast,,Eola Hills,Red,2015,,Oregon Other,Oregon,US,Pinot Noir
+$17,88,Rainstorm 2014 Pinot Noir (Oregon),Wine Enthusiast,,Rainstorm,Red,2014,,Oregon Other,Oregon,US,Pinot Noir
+$35,86,Treos 2013 Elegant Reserve Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Elegant Reserve Estate,Treos,Red,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$11,83,The Great Oregon Wine Company 2015 Rascal Pinot Gris (Columbia Valley (WA)),Wine Enthusiast,Rascal,The Great Oregon Wine Company,White,2015,Columbia Valley (WA),Columbia Valley,Washington,US,Pinot Gris
+$34,93,Alloro 2014 Estate Chardonnay (Chehalem Mountains),Wine Enthusiast,Estate,Alloro,White,2014,Chehalem Mountains,Willamette Valley,Oregon,US,Chardonnay
+$22,92,Iris Vineyards 2015 Chalice Estate Pinot Gris (Oregon),Wine Enthusiast,Chalice Estate,Iris Vineyards,White,2015,,Oregon Other,Oregon,US,Pinot Gris
+$18,92,Territorial 2014 Equinox Vineyard Riesling (Willamette Valley),Wine Enthusiast,Equinox Vineyard,Territorial,White,2014,Willamette Valley,Willamette Valley,Oregon,US,Riesling
+$18,91,Brigadoon 2015 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Brigadoon,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$50,91,Toil Oregon 2014 Pinot Noir (Willamette Valley),Wine Enthusiast,,Toil Oregon,Red,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,90,Abiqua Wind 2015 Caleb Knorr Pinot Gris (Willamette Valley),Wine Enthusiast,Caleb Knorr,Abiqua Wind,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$30,90,Abacela 2014 Barrel Select Graciano (Umpqua Valley),Wine Enthusiast,Barrel Select,Abacela,Red,2014,Umpqua Valley,Southern Oregon,Oregon,US,Graciano
+$30,89,Raptor Ridge 2015 Auxerrois (Eola-Amity Hills),Wine Enthusiast,,Raptor Ridge,White,2015,Eola-Amity Hills,Willamette Valley,Oregon,US,Auxerrois
+$35,88,3 Horse Ranch Vineyards 2013 Beau Geste Red (America),Wine Enthusiast,Beau Geste,3 Horse Ranch Vineyards,Red,2013,Snake River Valley (ID),Snake River Valley (ID),Idaho,US,Bordeaux-style Red Blend
+$20,88,Carabella 2014 Plowbuster Pinot Noir (Oregon),Wine Enthusiast,Plowbuster,Carabella,Red,2014,,Oregon Other,Oregon,US,Pinot Noir
+$20,87,Valley View 2014 Pioneer Label Tempranillo (Oregon),Wine Enthusiast,Pioneer Label,Valley View,Red,2014,,Oregon Other,Oregon,US,Tempranillo
+$30,87,Zenith 2014 Estate Tempranillo (Eola-Amity Hills),Wine Enthusiast,Estate,Zenith,Red,2014,Eola-Amity Hills,Willamette Valley,Oregon,US,Tempranillo
+$20,84,Harry & David 2013 Beeson Dessert Wine Tempranillo (Southern Oregon),Wine Enthusiast,Beeson Dessert Wine,Harry & David,Dessert,2013,,Southern Oregon,Oregon,US,Tempranillo
+$36,95,Sineann 2015 Wy'east Pinot Noir (Columbia Gorge (OR)),Wine Enthusiast,Wy'east,Sineann,Red,2015,Columbia Gorge (OR),Oregon Other,Oregon,US,Pinot Noir
+$55,92,King Estate 2008 Blanc de Noirs Méthode Champenoise Pinot Noir (Oregon),Wine Enthusiast,Blanc de Noirs Méthode Champenoise,King Estate,Sparkling,2008,,Oregon Other,Oregon,US,Pinot Noir
+$28,92,Bethel Heights 2014 Estate Chardonnay (Eola-Amity Hills),Wine Enthusiast,Estate,Bethel Heights,White,2014,Eola-Amity Hills,Willamette Valley,Oregon,US,Chardonnay
+$28,92,Lange 2015 Reserve Pinot Gris (Willamette Valley),Wine Enthusiast,Reserve,Lange,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$24,91,Left Coast Cellars 2014 Cali's Cuvée Estate Grown Pinot Noir (Willamette Valley),Wine Enthusiast,Cali's Cuvée Estate Grown,Left Coast Cellars,Red,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$16,90,Cliff Creek 2015 Red Red Wine Red (Southern Oregon),Wine Enthusiast,Red Red Wine,Cliff Creek,Red,2015,,Southern Oregon,Oregon,US,Red Blends
+$18,88,King Estate 2015 Chardonnay (Oregon),Wine Enthusiast,,King Estate,White,2015,,Oregon Other,Oregon,US,Chardonnay
+$40,86,Weisinger 2013 Estate Pinot Noir (Rogue Valley),Wine Enthusiast,Estate,Weisinger,Red,2013,Rogue Valley,Southern Oregon,Oregon,US,Pinot Noir
+$50,86,Remy 2013 Lone Madrone Vineyard Lagrein (Willamette Valley),Wine Enthusiast,Lone Madrone Vineyard,Remy,Red,2013,Willamette Valley,Willamette Valley,Oregon,US,Lagrein
+$70,92,Domaine Serene 2013 Evenstad Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Evenstad Reserve,Domaine Serene,Red,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$12,91,Abiqua Wind 2015 Pinot Gris (Willamette Valley),Wine Enthusiast,,Abiqua Wind,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$29,89,Troon 2013 Estate Tannat (Applegate Valley),Wine Enthusiast,Estate,Troon,Red,2013,Applegate Valley,Southern Oregon,Oregon,US,Tannat
+$80,86,Chehalem 2013 Ridgecrest Vineyards Reserve Pinot Noir (Ribbon Ridge),Wine Enthusiast,Ridgecrest Vineyards Reserve,Chehalem,Red,2013,Ribbon Ridge,Willamette Valley,Oregon,US,Pinot Noir
+$20,91,St. Innocent 2015 Zenith Vineyard Oeil de Perdrix Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Zenith Vineyard Oeil de Perdrix,St. Innocent,White,2015,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,91,Adelsheim 2014 Breaking Ground Pinot Noir (Chehalem Mountains),Wine Enthusiast,Breaking Ground,Adelsheim,Red,2014,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$18,90,Oregon Territory 2014 Pinot Noir (Oregon),Wine Enthusiast,,Oregon Territory,Red,2014,,Oregon Other,Oregon,US,Pinot Noir
+$39,88,Quady North 2012 Mae's Vineyard Cabernet Franc (Applegate Valley),Wine Enthusiast,Mae's Vineyard,Quady North,Red,2012,Applegate Valley,Southern Oregon,Oregon,US,Cabernet Franc
+$19,88,The Divining Rod 2014 Pinot Noir (Willamette Valley),Wine Enthusiast,,The Divining Rod,Red,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$26,88,Dobbes Family Estate 2015 Crater View Vineyard Grenache Blanc (Rogue Valley),Wine Enthusiast,Crater View Vineyard,Dobbes Family Estate,White,2015,Rogue Valley,Southern Oregon,Oregon,US,Grenache Blanc
+$26,86,Hawks View 2015 Oregon Pinot Gris (Chehalem Mountains),Wine Enthusiast,Oregon,Hawks View,White,2015,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Gris
+$80,94,The Eyrie Vineyards 2013 Original Vines Estate Pinot Noir (Dundee Hills),Wine Enthusiast,Original Vines Estate,The Eyrie Vineyards,Red,2013,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,92,Résonance 2014 Pinot Noir (Willamette Valley),Wine Enthusiast,,Résonance,Red,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$35,90,Drouhin Oregon Roserock 2014 Chardonnay (Eola-Amity Hills),Wine Enthusiast,,Drouhin Oregon Roserock,White,2014,Eola-Amity Hills,Willamette Valley,Oregon,US,Chardonnay
+$24,88,Left Coast Cellars 2015 White Pinot Noir (Willamette Valley),Wine Enthusiast,White,Left Coast Cellars,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$28,88,Spangler 2013 Claret (Southern Oregon),Wine Enthusiast,,Spangler,Red,2013,,Southern Oregon,Oregon,US,Claret
+$19,87,Oregon Trails 2014 OTWC Pinot Noir (Willamette Valley),Wine Enthusiast,OTWC,Oregon Trails,Red,2014,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$16,86,Zimri Cellars 2015 Hoot And Howl Vineyard Pinot Gris (Willamette Valley),Wine Enthusiast,Hoot And Howl Vineyard,Zimri Cellars,White,2015,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$20,88,Pino 2013 Pinot Noir (Oregon),Wine Enthusiast,,Pino,Red,2013,,Oregon Other,Oregon,US,Pinot Noir
+$19,88,R. Stuart & Co. 2013 Big Fire Pinot Noir (Oregon),Wine Enthusiast,Big Fire,R. Stuart & Co.,Red,2013,,Oregon Other,Oregon,US,Pinot Noir
+$18,87,Pino 2014 Pinot Gris (Oregon),Wine Enthusiast,,Pino,White,2014,,Oregon Other,Oregon,US,Pinot Gris
+$20,89,Copper Belt 2012 Rancher's Red (Columbia Valley (WA)),Wine Enthusiast,Rancher's,Copper Belt,Red,2012,Columbia Valley (WA),Columbia Valley,Washington,US,Red Blends
+$24,89,Copper Belt 2012 Syrah (Columbia Valley (WA)),Wine Enthusiast,,Copper Belt,Red,2012,Columbia Valley (WA),Columbia Valley,Washington,US,Syrah
+$24,89,Mission Hill 2014 Reserve Pinot Gris (Okanagan Valley),Wine Enthusiast,Reserve,Mission Hill,White,2014,,,,,Pinot Gris
+$65,94,Résonance 2013 Résonance Vineyard Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Résonance Vineyard,Résonance,Red,2013,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$55,94,Ayoub 2014 ??? Vineyards Pinot Noir (Dundee Hills),Wine Enthusiast,??? Vineyards,Ayoub,Red,2014,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$20,93,Styring 2014 Whimsy Riesling (Ribbon Ridge),Wine Enthusiast,Whimsy,Styring,White,2014,Ribbon Ridge,Willamette Valley,Oregon,US,Riesling
+$22,91,Silvan Ridge 2013 Malbec (Rogue Valley),Wine Enthusiast,,Silvan Ridge,Red,2013,Rogue Valley,Southern Oregon,Oregon,US,Malbec
+$65,91,Dobbes Family Estate 2012 Momtazi Vineyard Pinot Noir (McMinnville),Wine Enthusiast,Momtazi Vineyard,Dobbes Family Estate,Red,2012,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$30,91,Cristom 2013 Mount Jefferson Cuvée Pinot Noir (Willamette Valley),Wine Enthusiast,Mount Jefferson Cuvée,Cristom,Red,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$50,90,Dobbes Family Estate 2012 Fortmiller Vineyard Syrah (Rogue Valley),Wine Enthusiast,Fortmiller Vineyard,Dobbes Family Estate,Red,2012,Rogue Valley,Southern Oregon,Oregon,US,Syrah
+$26,90,Dobbes Family Estate 2014 Crater View Vineyard Grenache Blanc (Rogue Valley),Wine Enthusiast,Crater View Vineyard,Dobbes Family Estate,White,2014,Rogue Valley,Southern Oregon,Oregon,US,Grenache Blanc
+$20,87,Gooseneck 2014 Pinot Noir (Oregon),Wine Enthusiast,,Gooseneck,Red,2014,,Oregon Other,Oregon,US,Pinot Noir
+$23,92,The Eyrie Vineyards 2014 Pinot Blanc (Dundee Hills),Wine Enthusiast,,The Eyrie Vineyards,White,2014,Dundee Hills,Willamette Valley,Oregon,US,Pinot Blanc
+$29,85,Ardiri 2012 Pinot Noir (California),Wine Enthusiast,,Ardiri,Red,2012,California,California Other,California,US,Pinot Noir
+$55,92,Sabina Vineyards 2011 Pinot Noir (Willamette Valley),Wine Enthusiast,,Sabina Vineyards,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$65,92,Harper Voit 2013 Bieze Vineyard Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Bieze Vineyard,Harper Voit,Red,2013,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$29,92,Quady North 2011 Steelhead Run Vineyard Syrah (Applegate Valley),Wine Enthusiast,Steelhead Run Vineyard,Quady North,Red,2011,Applegate Valley,Southern Oregon,Oregon,US,Syrah
+$25,91,Treos 2014 Albariño (Willamette Valley),Wine Enthusiast,,Treos,White,2014,Willamette Valley,Willamette Valley,Oregon,US,Albariño
+$30,90,J. Wright 2012 Pinot Noir (Willamette Valley),Wine Enthusiast,,J. Wright,Red,2012,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$28,90,Animale 2012 Pinot Noir (Oregon),Wine Enthusiast,,Animale,Red,2012,,Oregon Other,Oregon,US,Pinot Noir
+$30,88,J. Wright 2011 Pinot Noir (Willamette Valley),Wine Enthusiast,,J. Wright,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$27,88,Delfino 2012 Zinfandel (Umpqua Valley),Wine Enthusiast,,Delfino,Red,2012,Umpqua Valley,Southern Oregon,Oregon,US,Zinfandel
+$85,93,Archery Summit 2012 Looney Vineyard Pinot Noir (Ribbon Ridge),Wine Enthusiast,Looney Vineyard,Archery Summit,Red,2012,Ribbon Ridge,Willamette Valley,Oregon,US,Pinot Noir
+$20,91,Ledger David 2013 Primoris Chenin Blanc (Rogue Valley),Wine Enthusiast,Primoris,Ledger David,White,2013,Rogue Valley,Southern Oregon,Oregon,US,Chenin Blanc
+$32,90,Sokol Blosser 2013 Chardonnay (Willamette Valley),Wine Enthusiast,,Sokol Blosser,White,2013,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$25,89,Plaisance Ranch 2012 Papa Joe's Private Stash Tempranillo (Applegate Valley),Wine Enthusiast,Papa Joe's Private Stash,Plaisance Ranch,Red,2012,Applegate Valley,Southern Oregon,Oregon,US,Tempranillo
+$29,89,Dancin 2013 Assemblage Chardonnay (Oregon),Wine Enthusiast,Assemblage,Dancin,White,2013,,Oregon Other,Oregon,US,Chardonnay
+$35,89,Irvine Family Vineyards 2012 Pinot Noir (Oregon),Wine Enthusiast,,Irvine Family Vineyards,Red,2012,,Oregon Other,Oregon,US,Pinot Noir
+$15,88,Siltstone 2014 Blacktail Vineyard Pinot Gris (Oregon),Wine Enthusiast,Blacktail Vineyard,Siltstone,White,2014,,Oregon Other,Oregon,US,Pinot Gris
+$32,87,Siltstone 2011 Guadalupe Vineyard Pinot Noir (Oregon),Wine Enthusiast,Guadalupe Vineyard,Siltstone,Red,2011,,Oregon Other,Oregon,US,Pinot Noir
+$45,94,WildAire 2012 Shea Vineyard Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Shea Vineyard,WildAire,Red,2012,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$50,92,Amalie Robert 2012 Heirloom Cameo Chardonnay (Willamette Valley),Wine Enthusiast,Heirloom Cameo,Amalie Robert,White,2012,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$45,92,WildAire 2012 Zenith Vineyard Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Zenith Vineyard,WildAire,Red,2012,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$30,90,Amalie Robert 2013 Pinot Meunier (Willamette Valley),Wine Enthusiast,,Amalie Robert,Red,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Meunier
+$22,89,J. Scott Cellars 2012 Avanté Red (Rogue Valley),Wine Enthusiast,Avanté,J. Scott Cellars,Red,2012,Rogue Valley,Southern Oregon,Oregon,US,Red Blends
+$25,87,J. Scott Cellars 2012 Syrah (Rogue Valley),Wine Enthusiast,,J. Scott Cellars,Red,2012,Rogue Valley,Southern Oregon,Oregon,US,Syrah
+$65,93,Penner-Ash 2012 Shea Vineyard Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Shea Vineyard,Penner-Ash,Red,2012,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$19,92,Lemelson 2013 Tikka's Run Pinot Gris (Willamette Valley),Wine Enthusiast,Tikka's Run,Lemelson,White,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$35,92,Trinity Vineyards 2012 Pinot Noir (Willamette Valley),Wine Enthusiast,,Trinity Vineyards,Red,2012,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$55,92,Brittan Vineyards 2011 Gestalt Block Pinot Noir (Willamette Valley),Wine Enthusiast,Gestalt Block,Brittan Vineyards,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$50,89,Willamette Valley Vineyards 2012 AVA Series Pinot Noir (McMinnville),Wine Enthusiast,AVA Series,Willamette Valley Vineyards,Red,2012,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$28,88,Copper Belt 2012 Pinot Noir (Willamette Valley),Wine Enthusiast,,Copper Belt,Red,2012,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$17,88,J. Scott Cellars 2012 56% Washington/44% Oregon Sauvignon Blanc (Washington-Oregon),Wine Enthusiast,56% Washington/44% Oregon,J. Scott Cellars,White,2012,,,,,Sauvignon Blanc
+$20,87,Acrobat 2013 Pinot Noir (Oregon),Wine Enthusiast,,Acrobat,Red,2013,,Oregon Other,Oregon,US,Pinot Noir
+$25,86,Sweet Cheeks 2011 Barrel Select Tempranillo (Umpqua Valley),Wine Enthusiast,Barrel Select,Sweet Cheeks,Red,2011,Umpqua Valley,Southern Oregon,Oregon,US,Tempranillo
+$34,86,Folin Cellars 2011 Petite Sirah (Rogue Valley),Wine Enthusiast,,Folin Cellars,Red,2011,Rogue Valley,Southern Oregon,Oregon,US,Petite Sirah
+$20,85,Copper Belt 2011 Rancher's Red (Columbia Valley (OR)),Wine Enthusiast,Rancher's,Copper Belt,Red,2011,Columbia Valley (OR),Oregon Other,Oregon,US,Red Blends
+$19,84,Wine by Joe 2013 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2013,,Oregon Other,Oregon,US,Pinot Noir
+$55,90,Knudsen 2012 Pinot Noir (Dundee Hills),Wine Enthusiast,,Knudsen,Red,2012,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$21,88,Cória 2013 Pinot Gris (Willamette Valley),Wine Enthusiast,,Cória,White,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$50,92,Panther Creek 2011 Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Reserve,Panther Creek,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$19,91,Adelsheim 2013 Pinot Gris (Willamette Valley),Wine Enthusiast,,Adelsheim,White,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$24,90,Sineann 2012 Abondante Red (Columbia Valley (OR)),Wine Enthusiast,Abondante,Sineann,Red,2012,Columbia Valley (OR),Oregon Other,Oregon,US,Red Blends
+$17,87,Abacela NV Vintner's Blend #14 Red Table Wine Red (Southern Oregon),Wine Enthusiast,Vintner's Blend #14 Red Table Wine,Abacela,Red,,,Southern Oregon,Oregon,US,Red Blends
+$16,90,Sineann 2012 Red (Oregon),Wine Enthusiast,,Sineann,Red,2012,,Oregon Other,Oregon,US,Red Blends
+$20,90,Stoller 2013 Chardonnay (Dundee Hills),Wine Enthusiast,,Stoller,White,2013,Dundee Hills,Willamette Valley,Oregon,US,Chardonnay
+$40,88,Kramer 2011 Heritage Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Heritage,Kramer,Red,2011,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$13,84,Dragonfly Creek 2012 Estate Reserve Chardonnay (Willamette Valley),Wine Enthusiast,Estate Reserve,Dragonfly Creek,White,2012,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$15,83,Dragonfly Creek 2011 Estate Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Estate Reserve,Dragonfly Creek,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$20,91,Panache Cellars 2012 Sangiovese (Columbia Valley (WA)),Wine Enthusiast,,Panache Cellars,Red,2012,Columbia Valley (WA),Columbia Valley,Washington,US,Sangiovese
+$18,89,Eola Hills 2012 Pinot Noir (Oregon),Wine Enthusiast,,Eola Hills,Red,2012,,Oregon Other,Oregon,US,Pinot Noir
+$25,88,Potter's Vineyard 2012 Dario Estate Pinot Noir (Chehalem Mountains),Wine Enthusiast,Dario Estate,Potter's Vineyard,Red,2012,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$20,87,Left Coast Cellars 2013 White Pinot Noir (Willamette Valley),Wine Enthusiast,White,Left Coast Cellars,White,2013,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$5,84,Rascal 2013 Riesling (Willamette Valley),Wine Enthusiast,,Rascal,White,2013,Willamette Valley,Willamette Valley,Oregon,US,Riesling
+$49,93,MacPhail 2011 Pinot Noir (Eola-Amity Hills),Wine Enthusiast,,MacPhail,Red,2011,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$29,90,Brick House 2012 Year of the Dragon Gamay Noir (Ribbon Ridge),Wine Enthusiast,Year of the Dragon,Brick House,Red,2012,Ribbon Ridge,Willamette Valley,Oregon,US,Gamay Noir
+$30,89,Maison L'Envoyé 2012 Two Messengers Pinot Noir (Willamette Valley),Wine Enthusiast,Two Messengers,Maison L'Envoyé,Red,2012,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$22,88,A Blooming Hill Vineyard 2011 Pinot Noir (Chehalem Mountains),Wine Enthusiast,,A Blooming Hill Vineyard,Red,2011,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$50,94,Lachini 2011 La Cruz Vineyard Pinot Noir (Sonoma Coast),Wine Enthusiast,La Cruz Vineyard,Lachini,Red,2011,Sonoma Coast,Sonoma,California,US,Pinot Noir
+$30,94,Rex Hill 2012 Jacob-Hart Vineyard Pinot Gris (Willamette Valley),Wine Enthusiast,Jacob-Hart Vineyard,Rex Hill,White,2012,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$24,89,Oak Knoll 2008 Red Hill Vineyard Pinot Noir (Oregon),Wine Enthusiast,Red Hill Vineyard,Oak Knoll,Red,2008,,Oregon Other,Oregon,US,Pinot Noir
+$20,88,Purple Hands 2012 Pinot Noir (Willamette Valley),Wine Enthusiast,,Purple Hands,Red,2012,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,93,Ponzi 2011 Reserve Chardonnay (Willamette Valley),Wine Enthusiast,Reserve,Ponzi,White,2011,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$50,91,Lemelson 2011 Jerome Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Jerome Reserve,Lemelson,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,86,Château Bianca 2012 Pinot Gris (Willamette Valley),Wine Enthusiast,,Château Bianca,White,2012,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$24,90,Chehalem 2012 Ridgecrest Vineyards Grüner Veltliner (Ribbon Ridge),Wine Enthusiast,Ridgecrest Vineyards,Chehalem,White,2012,Ribbon Ridge,Willamette Valley,Oregon,US,Grüner Veltliner
+$14,88,ENSO NV Resonate White #5 Pinot Gris (Washington-Oregon),Wine Enthusiast,Resonate White #5,ENSO,White,,,,,,Pinot Gris
+$15,86,Abacela NV Vintner's Blend #13 Red Table Wine Red (Southern Oregon),Wine Enthusiast,Vintner's Blend #13 Red Table Wine,Abacela,Red,,,Southern Oregon,Oregon,US,Red Blends
+,91,WillaKenzie Estate 2011 Estate Grown Pinot Blanc (Willamette Valley),Wine Enthusiast,Estate Grown,WillaKenzie Estate,White,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$52,89,Echo Ridge 2010 Merlot (Columbia Valley (OR)),Wine Enthusiast,,Echo Ridge,Red,2010,Columbia Valley (OR),Oregon Other,Oregon,US,Merlot
+$40,89,ENSO 2011 Bieze Vineyard The Prince Pinot-Chardonnay (Eola-Amity Hills),Wine Enthusiast,Bieze Vineyard The Prince,ENSO,Red,2011,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot-Chardonnay
+$26,88,Kramer 2010 Brut Sparkling (Oregon),Wine Enthusiast,Brut,Kramer,Sparkling,2010,,Oregon Other,Oregon,US,Sparkling Blend
+$13,88,A to Z 2012 Chardonnay (Oregon),Wine Enthusiast,,A to Z,White,2012,,Oregon Other,Oregon,US,Chardonnay
+$20,89,Sineann 2012 Riesling (Willamette Valley),Wine Enthusiast,,Sineann,White,2012,Willamette Valley,Willamette Valley,Oregon,US,Riesling
+$14,86,Windy Bay 2011 Pinot Noir (Oregon),Wine Enthusiast,,Windy Bay,Red,2011,,Oregon Other,Oregon,US,Pinot Noir
+$70,94,King Estate 2009 Domaine Pinot Noir (Oregon),Wine Enthusiast,Domaine,King Estate,Red,2009,,Oregon Other,Oregon,US,Pinot Noir
+$27,87,King Estate 2011 Signature Collection Pinot Noir (Oregon),Wine Enthusiast,Signature Collection,King Estate,Red,2011,,Oregon Other,Oregon,US,Pinot Noir
+$30,87,Willamette Valley Vineyards 2010 Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Estate,Willamette Valley Vineyards,Red,2010,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$18,87,Season 2012 Transparency White Table Wine White (Southern Oregon),Wine Enthusiast,Transparency White Table Wine,Season,White,2012,,Southern Oregon,Oregon,US,White Blend
+$21,83,Pali 2011 Alphabets Pinot Noir (Willamette Valley),Wine Enthusiast,Alphabets,Pali,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$80,95,Bergström 2010 Sigrid Chardonnay (Willamette Valley),Wine Enthusiast,Sigrid,Bergström,White,2010,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$34,89,Winter's Hill 2009 Estate Pinot Noir (Dundee Hills),Wine Enthusiast,Estate,Winter's Hill,Red,2009,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$14,88,Erath 2011 Pinot Gris (Oregon),Wine Enthusiast,,Erath,White,2011,,Oregon Other,Oregon,US,Pinot Gris
+$30,87,Abacela 2009 Tannat (Umpqua Valley),Wine Enthusiast,,Abacela,Red,2009,Umpqua Valley,Southern Oregon,Oregon,US,Tannat
+$28,86,Melrose 2009 Estate Grown Pinotage (Umpqua Valley),Wine Enthusiast,Estate Grown,Melrose,Red,2009,Umpqua Valley,Southern Oregon,Oregon,US,Pinotage
+$22,85,Siduri 2011 Pinot Noir (Willamette Valley),Wine Enthusiast,,Siduri,Red,2011,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$48,92,Le Cadeau 2010 Côte Est Pinot Noir (Oregon),Wine Enthusiast,Côte Est,Le Cadeau,Red,2010,,Oregon Other,Oregon,US,Pinot Noir
+$50,88,Troon 2008 Reserve Syrah (Applegate Valley),Wine Enthusiast,Reserve,Troon,Red,2008,Applegate Valley,Southern Oregon,Oregon,US,Syrah
+$18,87,Troon 2011 '72 Vermentino (Applegate Valley),Wine Enthusiast,'72,Troon,White,2011,Applegate Valley,Southern Oregon,Oregon,US,Vermentino
+$22,85,Amalie Robert 2010 Her Silhouette Chardonnay (Willamette Valley),Wine Enthusiast,Her Silhouette,Amalie Robert,White,2010,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$48,94,Tendril 2009 Pinot Noir (Willamette Valley),Wine Enthusiast,,Tendril,Red,2009,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,93,The Eyrie Vineyards 2010 Estate Pinot Gris (Dundee Hills),Wine Enthusiast,Estate,The Eyrie Vineyards,White,2010,Dundee Hills,Willamette Valley,Oregon,US,Pinot Gris
+$25,92,Ken Wright 2010 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Ken Wright,White,2010,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$27,90,Carabella 2009 Dijon 76 Estate Chardonnay (Chehalem Mountains),Wine Enthusiast,Dijon 76 Estate,Carabella,White,2009,Chehalem Mountains,Willamette Valley,Oregon,US,Chardonnay
+$13,89,Wine by Joe 2009 Pinot Noir (Oregon),Wine Enthusiast,,Wine by Joe,Red,2009,,Oregon Other,Oregon,US,Pinot Noir
+$14,86,Wine by Joe 2010 Pinot Blanc (Oregon),Wine Enthusiast,,Wine by Joe,White,2010,,Oregon Other,Oregon,US,Pinot Blanc
+$14,86,Wine by Joe 2010 Pinot Gris (Oregon),Wine Enthusiast,,Wine by Joe,White,2010,,Oregon Other,Oregon,US,Pinot Gris
+$21,86,Abacela 2009 Tempranillo (Southern Oregon),Wine Enthusiast,,Abacela,Red,2009,,Southern Oregon,Oregon,US,Tempranillo
+$14,84,Wine by Joe 2010 Chardonnay (Oregon),Wine Enthusiast,,Wine by Joe,White,2010,,Oregon Other,Oregon,US,Chardonnay
+$50,92,Pamplin 2008 Proprietary Red Red (Columbia Valley (WA)),Wine Enthusiast,Proprietary Red,Pamplin,Red,2008,Columbia Valley (WA),Columbia Valley,Washington,US,Bordeaux-style Red Blend
+$16,87,Locati Cellars 2009 Pinot Grigio (Walla Walla Valley (WA)),Wine Enthusiast,,Locati Cellars,White,2009,Walla Walla Valley (WA),Columbia Valley,Washington,US,Pinot Grigio
+$32,94,Scott Paul 2009 La Paulée Pinot Noir (Dundee Hills),Wine Enthusiast,La Paulée,Scott Paul,Red,2009,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$42,94,Archery Summit 2010 AB OVO Pinot Gris (Dundee Hills),Wine Enthusiast,AB OVO,Archery Summit,White,2010,Dundee Hills,Willamette Valley,Oregon,US,Pinot Gris
+$32,90,Illahe 2008 Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Reserve,Illahe,Red,2008,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$14,88,Foris 2010 Pinot Blanc (Rogue Valley),Wine Enthusiast,,Foris,White,2010,Rogue Valley,Southern Oregon,Oregon,US,Pinot Blanc
+$30,87,Firesteed 2007 Pinot Noir (Willamette Valley),Wine Enthusiast,,Firesteed,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$13,86,Kings Ridge 2010 Riesling (Oregon),Wine Enthusiast,,Kings Ridge,White,2010,,Oregon Other,Oregon,US,Riesling
+$18,92,Yamhill Valley 2009 Riesling (McMinnville),Wine Enthusiast,,Yamhill Valley,White,2009,McMinnville,Willamette Valley,Oregon,US,Riesling
+$17,86,Pali 2010 Sunset Rosé (California-Oregon),Wine Enthusiast,Sunset,Pali,Rose,2010,,,,,Rosé
+$50,89,Vidon Vineyard 2009 Hans Clone Pommard Pinot Noir (Chehalem Mountains),Wine Enthusiast,Hans Clone Pommard,Vidon Vineyard,Red,2009,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$36,88,Expression 44° 2009 Pinot Noir (Eola-Amity Hills),Wine Enthusiast,,Expression 44°,Red,2009,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$62,94,The Eyrie Vineyards 2007 Reserve Pinot Noir (Dundee Hills),Wine Enthusiast,Reserve,The Eyrie Vineyards,Red,2007,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$39,94,Sineann 2009 Old Vine Zinfandel (Columbia Valley (OR)),Wine Enthusiast,Old Vine,Sineann,Red,2009,Columbia Valley (OR),Oregon Other,Oregon,US,Zinfandel
+$24,92,Seven of Hearts 2009 Crawford Beck Vineyard Chardonnay (Eola-Amity Hills),Wine Enthusiast,Crawford Beck Vineyard,Seven of Hearts,White,2009,Eola-Amity Hills,Willamette Valley,Oregon,US,Chardonnay
+$32,91,Adelsheim 2009 Pinot Noir (Willamette Valley),Wine Enthusiast,,Adelsheim,Red,2009,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$22,90,Adelsheim 2009 Chardonnay (Willamette Valley),Wine Enthusiast,,Adelsheim,White,2009,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$11,88,Waterbrook 2009 Pinot Gris (Columbia Valley (WA)),Wine Enthusiast,,Waterbrook,White,2009,Columbia Valley (WA),Columbia Valley,Washington,US,Pinot Gris
+$24,89,Velocity 2007 Red Wine Red (Rogue Valley),Wine Enthusiast,Red Wine,Velocity,Red,2007,Rogue Valley,Southern Oregon,Oregon,US,Red Blends
+$52,88,Torii Mor 2008 Eola-Amity Hills Select Pinot Noir (Eola-Amity Hills),Wine Enthusiast,Eola-Amity Hills Select,Torii Mor,Red,2008,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$18,87,Foris 2008 Pinot Noir (Oregon),Wine Enthusiast,,Foris,Red,2008,,Oregon Other,Oregon,US,Pinot Noir
+$19,84,Purple Hands 2009 Red Red (Oregon),Wine Enthusiast,Red,Purple Hands,Red,2009,,Oregon Other,Oregon,US,Red Blends
+$30,93,Cowhorn 2009 Viognier (Applegate Valley),Wine Enthusiast,,Cowhorn,White,2009,Applegate Valley,Southern Oregon,Oregon,US,Viognier
+$75,91,Trisaetum 2008 Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Estate,Trisaetum,Red,2008,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$100,90,Willamette Valley Vineyards 2008 O'Brien Pinot Noir (Eola-Amity Hills),Wine Enthusiast,O'Brien,Willamette Valley Vineyards,Red,2008,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$100,90,Willamette Valley Vineyards 2008 Fuller Pinot Noir (Willamette Valley),Wine Enthusiast,Fuller,Willamette Valley Vineyards,Red,2008,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$35,90,Willamette Valley Vineyards 2008 Founders' Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Founders' Reserve,Willamette Valley Vineyards,Red,2008,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$35,89,I'M 2007 Pinot Noir (Willamette Valley),Wine Enthusiast,,I'M,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$12,89,Kings Ridge 2009 Riesling (Oregon),Wine Enthusiast,,Kings Ridge,White,2009,,Oregon Other,Oregon,US,Riesling
+$48,89,William Hatcher 2007 Pinot Noir (Willamette Valley),Wine Enthusiast,,William Hatcher,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$17,88,Lumos 2009 Rudolfo Vineyard Pinot Gris (Willamette Valley),Wine Enthusiast,Rudolfo Vineyard,Lumos,White,2009,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$19,87,RouteStock 2009 99W Pinot Noir (Willamette Valley),Wine Enthusiast,99W,RouteStock,Red,2009,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$18,85,Macindoe 2009 Melon de Bourgogne Melon (Yamhill-Carlton),Wine Enthusiast,Melon de Bourgogne,Macindoe,White,2009,Yamhill-Carlton,Willamette Valley,Oregon,US,Melon
+$14,85,Castle Rock 2009 Pinot Noir (Willamette Valley),Wine Enthusiast,,Castle Rock,Red,2009,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$22,94,Dowsett Family 2009 Celilo Vineyard Gewürztraminer (Columbia Gorge (WA)),Wine Enthusiast,Celilo Vineyard,Dowsett Family,White,2009,Columbia Gorge (WA),Washington Other,Washington,US,Gewürztraminer
+$75,91,Adelsheim 2008 Bryan Creek Vineyard Pinot Noir (Chehalem Mountains),Wine Enthusiast,Bryan Creek Vineyard,Adelsheim,Red,2008,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$35,91,Cowhorn 2008 Syrah 74 Syrah (Applegate Valley),Wine Enthusiast,Syrah 74,Cowhorn,Red,2008,Applegate Valley,Southern Oregon,Oregon,US,Syrah
+$15,90,Ponzi 2009 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Ponzi,White,2009,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$20,88,Kestrel 2008 Old Vine Sauvignon Blanc (Columbia Valley (OR)),Wine Enthusiast,Old Vine,Kestrel,White,2008,Columbia Valley (OR),Oregon Other,Oregon,US,Sauvignon Blanc
+$47,91,Le Cadeau 2008 Côte Est Pinot Noir (Oregon),Wine Enthusiast,Côte Est,Le Cadeau,Red,2008,,Oregon Other,Oregon,US,Pinot Noir
+$25,90,Folin Cellars 2008 Viognier (Rogue Valley),Wine Enthusiast,,Folin Cellars,White,2008,Rogue Valley,Southern Oregon,Oregon,US,Viognier
+$15,90,Illahe 2009 Estate Grüner Veltliner (Willamette Valley),Wine Enthusiast,Estate,Illahe,White,2009,Willamette Valley,Willamette Valley,Oregon,US,Grüner Veltliner
+$18,89,Z'IVO 2007 Three White Wine White (Washington-Oregon),Wine Enthusiast,Three White Wine,Z'IVO,White,2007,,,,,White Blend
+$25,89,King Estate 2008 Domaine Pinot Gris (Oregon),Wine Enthusiast,Domaine,King Estate,White,2008,,Oregon Other,Oregon,US,Pinot Gris
+$24,87,Cathedral Ridge 2008 Necessity Red Red (Columbia Valley (OR)),Wine Enthusiast,Necessity Red,Cathedral Ridge,Red,2008,Columbia Valley (OR),Oregon Other,Oregon,US,Red Blends
+$16,85,Abacela NV Vintner's Blend #10 Red Table Wine Red (Southern Oregon),Wine Enthusiast,Vintner's Blend #10 Red Table Wine,Abacela,Red,,,Southern Oregon,Oregon,US,Red Blends
+$26,85,Cathedral Ridge 2008 Pinot Noir (Columbia Valley (OR)),Wine Enthusiast,,Cathedral Ridge,Red,2008,Columbia Valley (OR),Oregon Other,Oregon,US,Pinot Noir
+$20,89,Sineann 2008 Sauvignon Blanc (Marlborough),Wine Enthusiast,,Sineann,White,2008,,,,,Sauvignon Blanc
+$30,93,Scott Paul 2007 La Paulée Pinot Noir (Willamette Valley),Wine Enthusiast,La Paulée,Scott Paul,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$50,91,Anne Amie 2007 Estate Pinot Noir (Yamhill-Carlton),Wine Enthusiast,Estate,Anne Amie,Red,2007,Yamhill-Carlton,Willamette Valley,Oregon,US,Pinot Noir
+$16,90,Sineann 2008 Red Table Wine Red (Oregon),Wine Enthusiast,Red Table Wine,Sineann,Red,2008,,Oregon Other,Oregon,US,Red Blends
+$25,88,Evening Land 2008 Pinot Noir (Oregon),Wine Enthusiast,,Evening Land,Red,2008,,Oregon Other,Oregon,US,Pinot Noir
+$16,88,Brandborg 2008 Pinot Gris (Umpqua Valley),Wine Enthusiast,,Brandborg,White,2008,Umpqua Valley,Southern Oregon,Oregon,US,Pinot Gris
+$24,93,Thistle 2006 Pinot Noir (Dundee Hills),Wine Enthusiast,,Thistle,Red,2006,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$55,91,De Ponte Cellars 2007 Estate Pinot Noir (Dundee Hills),Wine Enthusiast,Estate,De Ponte Cellars,Red,2007,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$25,87,Novy 2008 Blanc de Pinot Noir (Willamette Valley),Wine Enthusiast,Blanc de,Novy,White,2008,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$27,86,Apolloni 2007 Conti di Val Seriana Soleggio Red (Columbia Valley (OR)),Wine Enthusiast,Conti di Val Seriana Soleggio,Apolloni,Red,2007,Columbia Valley (OR),Oregon Other,Oregon,US,Red Blends
+$12,85,Duck Pond 2008 Pinot Gris (Willamette Valley),Wine Enthusiast,,Duck Pond,White,2008,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$75,96,Adelsheim 2007 Winderlea Vineyard Pinot Noir (Dundee Hills),Wine Enthusiast,Winderlea Vineyard,Adelsheim,Red,2007,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$17,89,Amity 2007 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Amity,White,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$15,88,Chemin de Terre 2006 Red Wine Red (Southern Oregon),Wine Enthusiast,Red Wine,Chemin de Terre,Red,2006,,Southern Oregon,Oregon,US,Red Blends
+$15,88,Sawtooth 2005 Syrah (Snake River Valley (ID)),Wine Enthusiast,,Sawtooth,Red,2005,,,,,Syrah
+$21,88,Spindrift Cellars 2007 Pinot Noir (Willamette Valley),Wine Enthusiast,,Spindrift Cellars,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$28,86,Rex Hill 2007 Pinot Noir (Willamette Valley),Wine Enthusiast,,Rex Hill,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$85,91,Argyle 2005 Reserve Series Spirithouse Pinot Noir (Dundee Hills),Wine Enthusiast,Reserve Series Spirithouse,Argyle,Red,2005,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$20,90,Sineann 2008 Sauvignon Blanc (Columbia Valley (OR)),Wine Enthusiast,,Sineann,White,2008,Columbia Valley (OR),Oregon Other,Oregon,US,Sauvignon Blanc
+$18,90,Methven Family Vineyards 2007 Pinot Gris (Willamette Valley),Wine Enthusiast,,Methven Family Vineyards,White,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$24,88,David Hill 2006 Tempranillo (Rogue Valley),Wine Enthusiast,,David Hill,Red,2006,Rogue Valley,Southern Oregon,Oregon,US,Tempranillo
+$18,87,Abacela 2008 Albariño (Umpqua Valley),Wine Enthusiast,,Abacela,White,2008,Umpqua Valley,Southern Oregon,Oregon,US,Albariño
+$42,88,Phelps Creek 2007 Cuvée Alexandrine Red (Columbia Gorge (OR)),Wine Enthusiast,Cuvée Alexandrine,Phelps Creek,Red,2007,Columbia Gorge (OR),Oregon Other,Oregon,US,Red Blends
+$16,87,Montes 2007 Limited Selection Pinot Noir (Casablanca Valley),Wine Enthusiast,Limited Selection,Montes,Red,2007,,,,,Pinot Noir
+$28,91,Carabella 2006 Dijon 76 Chardonnay (Chehalem Mountains),Wine Enthusiast,Dijon 76,Carabella,White,2006,Chehalem Mountains,Willamette Valley,Oregon,US,Chardonnay
+$39,90,Vidon Vineyard 2007 Three Clones Pinot Noir (Chehalem Mountains),Wine Enthusiast,Three Clones,Vidon Vineyard,Red,2007,Chehalem Mountains,Willamette Valley,Oregon,US,Pinot Noir
+$38,90,De Ponte Cellars 2006 Pinot Noir (Dundee Hills),Wine Enthusiast,,De Ponte Cellars,Red,2006,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$16,88,Sineann 2007 Red Table Wine Red (Oregon),Wine Enthusiast,Red Table Wine,Sineann,Red,2007,,Oregon Other,Oregon,US,Red Blends
+$18,88,Coelho 2007 Renovação Pinot Gris (Willamette Valley),Wine Enthusiast,Renovação,Coelho,White,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$39,88,Siduri 2006 Shaw Mountain Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Shaw Mountain Vineyard,Siduri,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$39,88,Siduri 2006 Hawk's View Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Hawk's View Vineyard,Siduri,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$39,87,Siduri 2006 Arbre Vert Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Arbre Vert Vineyard,Siduri,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$19,87,Siduri 2007 Pinot Noir (Willamette Valley),Wine Enthusiast,,Siduri,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,86,Abacela NV Vintner's Blend #9 Red Table Wine Red (Southern Oregon),Wine Enthusiast,Vintner's Blend #9 Red Table Wine,Abacela,Red,,,Southern Oregon,Oregon,US,Red Blends
+$18,85,Wy'East Vineyards 2007 Pinot Gris (Columbia Gorge (OR)),Wine Enthusiast,,Wy'East Vineyards,White,2007,Columbia Gorge (OR),Oregon Other,Oregon,US,Pinot Gris
+$45,90,Lachini 2006 Ana Vineyard Pinot Noir (Dundee Hills),Wine Enthusiast,Ana Vineyard,Lachini,Red,2006,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$19,88,Spindrift Cellars 2007 Spinnaker Pinot Noir (Oregon),Wine Enthusiast,Spinnaker,Spindrift Cellars,Red,2007,,Oregon Other,Oregon,US,Pinot Noir
+$15,86,Silvan Ridge 2006 Chardonnay (Oregon),Wine Enthusiast,,Silvan Ridge,White,2006,,Oregon Other,Oregon,US,Chardonnay
+$42,92,Sineann 2007 Maresh Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Maresh Vineyard,Sineann,Red,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$47,89,Le Cadeau 2006 Diversité Pinot Noir (Willamette Valley),Wine Enthusiast,Diversité,Le Cadeau,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$16,88,Ross Andrew 2007 Meadow White Wine White (Oregon),Wine Enthusiast,Meadow White Wine,Ross Andrew,White,2007,,Oregon Other,Oregon,US,White Blend
+$20,87,A to Z 2007 Pinot Noir (Oregon),Wine Enthusiast,,A to Z,Red,2007,,Oregon Other,Oregon,US,Pinot Noir
+$22,86,Firesteed 2005 Pinot Noir (Willamette Valley),Wine Enthusiast,,Firesteed,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,85,Mercer 2007 Pinot Gris (Columbia Valley (WA)),Wine Enthusiast,,Mercer,White,2007,Columbia Valley (WA),Columbia Valley,Washington,US,Pinot Gris
+$55,92,Scott Paul 2006 Audrey Pinot Noir (Dundee Hills),Wine Enthusiast,Audrey,Scott Paul,Red,2006,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$85,92,Maysara 2005 Mitra Pinot Noir (McMinnville),Wine Enthusiast,Mitra,Maysara,Red,2005,McMinnville,Willamette Valley,Oregon,US,Pinot Noir
+$16,91,Spindrift Cellars 2007 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Spindrift Cellars,White,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$14,90,Spindrift Cellars 2007 Pinot Gris (Willamette Valley),Wine Enthusiast,,Spindrift Cellars,White,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$19,89,Elk Cove 2007 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Elk Cove,White,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$17,89,Maysara 2007 Pinot Blanc (McMinnville),Wine Enthusiast,,Maysara,White,2007,McMinnville,Willamette Valley,Oregon,US,Pinot Blanc
+$18,88,Cathedral Ridge 2007 Riesling (Columbia Valley (OR)),Wine Enthusiast,,Cathedral Ridge,White,2007,Columbia Valley (OR),Oregon Other,Oregon,US,Riesling
+$55,87,K Vintners 2005 En Chamberlin Vineyard El Jefe Red Red (Walla Walla Valley (WA)),Wine Enthusiast,En Chamberlin Vineyard El Jefe Red,K Vintners,Red,2005,Walla Walla Valley (WA),Columbia Valley,Washington,US,Red Blends
+$28,87,Rex Hill 2006 Pinot Noir (Willamette Valley),Wine Enthusiast,,Rex Hill,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$20,86,A to Z 2005 Night & Day Red Wine Red (Oregon),Wine Enthusiast,Night & Day Red Wine,A to Z,Red,2005,,Oregon Other,Oregon,US,Red Blends
+$20,86,Domaine Meriwether NV Discovery Cuvée Sparkling Wine Sparkling (Oregon),Wine Enthusiast,Discovery Cuvée Sparkling Wine,Domaine Meriwether,Sparkling,,,Oregon Other,Oregon,US,Sparkling Blend
+$40,86,Left Coast Cellars 2005 Suzanne's Estate Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Suzanne's Estate Reserve,Left Coast Cellars,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$26,85,Cathedral Ridge 2006 Pinot Noir (Columbia Valley (OR)),Wine Enthusiast,,Cathedral Ridge,Red,2006,Columbia Valley (OR),Oregon Other,Oregon,US,Pinot Noir
+$20,83,Kathken 2006 The Remedy Red Wine Red (Oregon),Wine Enthusiast,The Remedy Red Wine,Kathken,Red,2006,,Oregon Other,Oregon,US,Red Blends
+$18,89,Phelps Creek 2007 Unoaked Chardonnay (Columbia Gorge (OR)),Wine Enthusiast,Unoaked,Phelps Creek,White,2007,Columbia Gorge (OR),Oregon Other,Oregon,US,Chardonnay
+$18,89,Viento 2007 Underwood Mountain Vineyard Grüner Veltliner (Columbia Gorge (OR)),Wine Enthusiast,Underwood Mountain Vineyard,Viento,White,2007,Columbia Gorge (OR),Oregon Other,Oregon,US,Grüner Veltliner
+$30,88,Erath 2006 Estate Selection Pinot Noir (Dundee Hills),Wine Enthusiast,Estate Selection,Erath,Red,2006,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$10,86,Rock Point NV White Wine White (Oregon),Wine Enthusiast,White Wine,Rock Point,White,,,Oregon Other,Oregon,US,White Blend
+$16,86,Del Rio 2007 Pinot Gris (Rogue Valley),Wine Enthusiast,,Del Rio,White,2007,Rogue Valley,Southern Oregon,Oregon,US,Pinot Gris
+$50,85,Loring Wine Company 2006 Shea Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Shea Vineyard,Loring Wine Company,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$10,84,Rock Point NV River Rock Red Wine Red (Oregon),Wine Enthusiast,River Rock Red Wine,Rock Point,Red,,,Oregon Other,Oregon,US,Red Blends
+$19,91,Elk Cove 2007 Pinot Gris (Willamette Valley),Wine Enthusiast,,Elk Cove,White,2007,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$30,90,Domaine Coteau 2006 Pinot Noir (Eola-Amity Hills),Wine Enthusiast,,Domaine Coteau,Red,2006,Eola-Amity Hills,Willamette Valley,Oregon,US,Pinot Noir
+$45,90,Willamette Valley Vineyards 2006 Tualatin Estate Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Tualatin Estate Vineyard,Willamette Valley Vineyards,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$48,89,Pali 2006 Momtazi Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Momtazi Vineyard,Pali,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$52,89,Torii Mor 2006 Dundee Hills Select Pinot Noir (Dundee Hills),Wine Enthusiast,Dundee Hills Select,Torii Mor,Red,2006,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$25,89,Soléna 2005 Grande Cuvée Pinot Noir (Willamette Valley),Wine Enthusiast,Grande Cuvée,Soléna,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,89,O'Reilly's 2006 Pinot Noir (Oregon),Wine Enthusiast,,O'Reilly's,Red,2006,,Oregon Other,Oregon,US,Pinot Noir
+$24,88,Sineann 2006 Abondante Red Wine Red (Oregon),Wine Enthusiast,Abondante Red Wine,Sineann,Red,2006,,Oregon Other,Oregon,US,Red Blends
+$16,88,Sineann 2006 Red Table Wine Red (Oregon),Wine Enthusiast,Red Table Wine,Sineann,Red,2006,,Oregon Other,Oregon,US,Red Blends
+$64,93,Sineann 2006 Lazare Vineyards Cabernet Sauvignon (Napa Valley),Wine Enthusiast,Lazare Vineyards,Sineann,Red,2006,Napa Valley,Napa,California,US,Cabernet Sauvignon
+$16,90,A to Z 2006 Chardonnay (Oregon),Wine Enthusiast,,A to Z,White,2006,,Oregon Other,Oregon,US,Chardonnay
+$20,88,A to Z 2004 Night & Day Red Wine Red (Oregon),Wine Enthusiast,Night & Day Red Wine,A to Z,Red,2004,,Oregon Other,Oregon,US,Red Blends
+$29,88,King Estate 2006 Signature Collection Pinot Noir (Oregon),Wine Enthusiast,Signature Collection,King Estate,Red,2006,,Oregon Other,Oregon,US,Pinot Noir
+$13,86,A to Z 2006 Rosé (Oregon),Wine Enthusiast,,A to Z,Rose,2006,,Oregon Other,Oregon,US,Rosé
+$35,86,Capitello 2005 Pinot Noir (Willamette Valley),Wine Enthusiast,,Capitello,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$48,94,Sineann 2006 Resonance Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Resonance Vineyard,Sineann,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$44,92,Chehalem 2005 Corral Creek Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Corral Creek Vineyard,Chehalem,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$35,88,I'M 2005 Oregon Pinot Noir (Willamette Valley),Wine Enthusiast,Oregon,I'M,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$16,88,Del Rio 2006 Pinot Gris (Rogue Valley),Wine Enthusiast,,Del Rio,White,2006,Rogue Valley,Southern Oregon,Oregon,US,Pinot Gris
+$36,88,Tyrus Evan 2005 Del Rio Vineyard Syrah (Rogue Valley),Wine Enthusiast,Del Rio Vineyard,Tyrus Evan,Red,2005,Rogue Valley,Southern Oregon,Oregon,US,Syrah
+$19,87,Siduri 2006 Pinot Noir (Willamette Valley),Wine Enthusiast,,Siduri,Red,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$16,86,Evergreen 2006 Spruce Goose Pinot Gris (Willamette Valley),Wine Enthusiast,Spruce Goose,Evergreen,White,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$12,86,Oak Knoll 2006 Pinot Gris (Willamette Valley),Wine Enthusiast,,Oak Knoll,White,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$36,92,Sineann 2005 Merlot (Columbia Valley (WA)),Wine Enthusiast,,Sineann,Red,2005,Columbia Valley (WA),Columbia Valley,Washington,US,Merlot
+$65,91,Torii Mor 2005 Olson Vineyard Pinot Noir (Dundee Hills),Wine Enthusiast,Olson Vineyard,Torii Mor,Red,2005,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$75,90,Domaine Serene 2004 Jerusalem Hill Vineyard Pinot Noir (Willamette Valley),Wine Enthusiast,Jerusalem Hill Vineyard,Domaine Serene,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$36,89,WillaKenzie Estate 2004 Aliette Pinot Noir (Willamette Valley),Wine Enthusiast,Aliette,WillaKenzie Estate,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,88,Erath 2005 Estate Selection Pinot Noir (Dundee Hills),Wine Enthusiast,Estate Selection,Erath,Red,2005,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$25,88,Coelho 2005 Paciência Pinot Noir (Oregon),Wine Enthusiast,Paciência,Coelho,Red,2005,,Oregon Other,Oregon,US,Pinot Noir
+$18,88,Abacela 2005 Merlot (Southern Oregon),Wine Enthusiast,,Abacela,Red,2005,,Southern Oregon,Oregon,US,Merlot
+$24,88,Eola Hills 2005 La Creole Reserve Pinot Noir (Oregon),Wine Enthusiast,La Creole Reserve,Eola Hills,Red,2005,,Oregon Other,Oregon,US,Pinot Noir
+$16,87,Sineann 2005 Red Table Wine Red (Oregon),Wine Enthusiast,Red Table Wine,Sineann,Red,2005,,Oregon Other,Oregon,US,Red Blends
+$14,87,Firesteed 2005 Pinot Noir (Oregon),Wine Enthusiast,,Firesteed,Red,2005,,Oregon Other,Oregon,US,Pinot Noir
+$23,87,WillaKenzie Estate 2005 Pinot Noir (Willamette Valley),Wine Enthusiast,,WillaKenzie Estate,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$13,87,Cayalla 2005 RTW Red (Columbia Valley (WA)),Wine Enthusiast,RTW,Cayalla,Red,2005,Columbia Valley (WA),Columbia Valley,Washington,US,Red Blends
+$12,87,Willamette Valley Vineyards 2006 Riesling (Oregon),Wine Enthusiast,,Willamette Valley Vineyards,White,2006,,Oregon Other,Oregon,US,Riesling
+$14,86,Erath 2006 Pinot Gris (Oregon),Wine Enthusiast,,Erath,White,2006,,Oregon Other,Oregon,US,Pinot Gris
+$65,86,Dobbes Family Estate 2005 Meyer Vineyard Pinot Noir (Dundee Hills),Wine Enthusiast,Meyer Vineyard,Dobbes Family Estate,Red,2005,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$10,85,Bridgeview 2006 Blue Moon Riesling (Oregon),Wine Enthusiast,Blue Moon,Bridgeview,White,2006,,Oregon Other,Oregon,US,Riesling
+$20,84,Airlie 2005 Pinot Noir (Willamette Valley),Wine Enthusiast,,Airlie,White,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$29,84,Cherry Hill 2005 Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Estate,Cherry Hill,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$12,82,Château Bianca 2006 Pinot Gris (Willamette Valley),Wine Enthusiast,,Château Bianca,White,2006,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$20,81,Melrose 2004 Merlot (Umpqua Valley),Wine Enthusiast,,Melrose,Red,2004,Umpqua Valley,Southern Oregon,Oregon,US,Merlot
+$20,84,Spangler Vineyards 2005 Merlot (Southern Oregon),Wine Enthusiast,,Spangler Vineyards,Red,2005,,Southern Oregon,Oregon,US,Merlot
+$39,92,Carabella 2004 Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Estate,Carabella,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$23,90,Ponzi 2005 Tavola Pinot Noir (Willamette Valley),Wine Enthusiast,Tavola,Ponzi,Red,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$19,89,Abacela 2004 Merlot (Southern Oregon),Wine Enthusiast,,Abacela,Red,2004,,Southern Oregon,Oregon,US,Merlot
+$45,89,Le Cadeau 2004 Rocheux Pinot Noir (Willamette Valley),Wine Enthusiast,Rocheux,Le Cadeau,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$24,89,Eola Hills 2004 Reserve Pinot Noir (Oregon),Wine Enthusiast,Reserve,Eola Hills,Red,2004,,Oregon Other,Oregon,US,Pinot Noir
+$24,88,Abacela 2005 Grenache (Southern Oregon),Wine Enthusiast,,Abacela,Red,2005,,Southern Oregon,Oregon,US,Grenache
+$18,87,Dobbes Family Estate 2005 Pinot Noir (Oregon),Wine Enthusiast,,Dobbes Family Estate,Red,2005,,Oregon Other,Oregon,US,Pinot Noir
+$32,85,Montinore 2004 Parson's Ridge Pinot Noir (Willamette Valley),Wine Enthusiast,Parson's Ridge,Montinore,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$26,86,Lowden Hills 2003 Birch Creel Cabernet Sauvignon (Walla Walla Valley (WA)),Wine Enthusiast,Birch Creel,Lowden Hills,Red,2003,Walla Walla Valley (WA),Columbia Valley,Washington,US,Cabernet Sauvignon
+$16,88,King Estate 2004 Pinot Gris (Oregon),Wine Enthusiast,,King Estate,White,2004,,Oregon Other,Oregon,US,Pinot Gris
+$34,88,De Ponte Cellars 2004 Pinot Noir (Dundee Hills),Wine Enthusiast,,De Ponte Cellars,Red,2004,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$30,87,Patton Valley 2004 Pinot Noir (Willamette Valley),Wine Enthusiast,,Patton Valley,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$26,86,King Estate 2004 Pinot Noir (Oregon),Wine Enthusiast,,King Estate,Red,2004,,Oregon Other,Oregon,US,Pinot Noir
+$29,85,Anam Cara 2004 Nicholas Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Nicholas Estate,Anam Cara,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,88,Sineann 2005 Pinot Noir (Oregon),Wine Enthusiast,,Sineann,Red,2005,,Oregon Other,Oregon,US,Pinot Noir
+$16,87,Andrew Rich 2004 Red (Columbia Valley (WA)),Wine Enthusiast,,Andrew Rich,Red,2004,Columbia Valley (WA),Columbia Valley,Washington,US,Red Blends
+$49,94,Rex Hill 2004 Maresh Vineyard Pinot Noir (Oregon),Wine Enthusiast,Maresh Vineyard,Rex Hill,Red,2004,,Oregon Other,Oregon,US,Pinot Noir
+$75,94,Rex Hill 2004 Maresh Vineyard Loie's Block Pinot Noir (Oregon),Wine Enthusiast,Maresh Vineyard Loie's Block,Rex Hill,Red,2004,,Oregon Other,Oregon,US,Pinot Noir
+$49,92,Rex Hill 2004 Jacob-Hart Vineyard Pinot Noir (Oregon),Wine Enthusiast,Jacob-Hart Vineyard,Rex Hill,Red,2004,,Oregon Other,Oregon,US,Pinot Noir
+$35,90,Scott Paul 2004 La Paulée Pinot Noir (Willamette Valley),Wine Enthusiast,La Paulée,Scott Paul,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$23,89,Abacela 2005 Albariño (Southern Oregon),Wine Enthusiast,,Abacela,White,2005,,Southern Oregon,Oregon,US,Albariño
+$25,89,Abacela 2003 Syrah (Southern Oregon),Wine Enthusiast,,Abacela,Red,2003,,Southern Oregon,Oregon,US,Syrah
+$17,88,Ponzi 2005 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Ponzi,White,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$13,88,O'Reilly's 2005 Pinot Gris (Oregon),Wine Enthusiast,,O'Reilly's,White,2005,,Oregon Other,Oregon,US,Pinot Gris
+$27,87,Brandborg 2003 Northern Reach Pinot Noir (Umpqua Valley),Wine Enthusiast,Northern Reach,Brandborg,Red,2003,Umpqua Valley,Southern Oregon,Oregon,US,Pinot Noir
+$75,86,Archery Summit 2003 Arcus Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Arcus Estate,Archery Summit,Red,2003,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,86,O'Reilly's 2005 Pinot Noir (Oregon),Wine Enthusiast,,O'Reilly's,Red,2005,,Oregon Other,Oregon,US,Pinot Noir
+$12,87,Duck Pond 2005 Pinot Gris (Willamette Valley),Wine Enthusiast,,Duck Pond,White,2005,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$30,91,Hamacher 2002 Cuvée Forêts Diverses Chardonnay (Willamette Valley),Wine Enthusiast,Cuvée Forêts Diverses,Hamacher,White,2002,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$25,90,Soléna 2003 Grand Cuvée Pinot Noir (Willamette Valley),Wine Enthusiast,Grand Cuvée,Soléna,Red,2003,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$20,88,Abacela 2003 Tempranillo (Umpqua Valley),Wine Enthusiast,,Abacela,Red,2003,Umpqua Valley,Southern Oregon,Oregon,US,Tempranillo
+$24,91,Daedalus 2003 Syrah (Columbia Valley (OR)),Wine Enthusiast,,Daedalus,Red,2003,Columbia Valley (OR),Oregon Other,Oregon,US,Syrah
+$24,90,Daedalus 2003 Pinot Noir (Willamette Valley),Wine Enthusiast,,Daedalus,Red,2003,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$28,90,Rex Hill 2003 Dundee Hills Cuvée Pinot Noir (Dundee Hills),Wine Enthusiast,Dundee Hills Cuvée,Rex Hill,Red,2003,Dundee Hills,Willamette Valley,Oregon,US,Pinot Noir
+$39,88,Rex Hill 2003 Reserve Pinot Noir (Oregon),Wine Enthusiast,Reserve,Rex Hill,Red,2003,,Oregon Other,Oregon,US,Pinot Noir
+$15,91,ElvenGlade 2004 Pinot Gris (Yamhill County),Wine Enthusiast,,ElvenGlade,White,2004,Yamhill County,Willamette Valley,Oregon,US,Pinot Gris
+$13,85,Wine by Joe 2004 Pinot Gris (Oregon),Wine Enthusiast,,Wine by Joe,White,2004,,Oregon Other,Oregon,US,Pinot Gris
+$12,85,Foris 2004 Pinot Gris (Rogue Valley),Wine Enthusiast,,Foris,White,2004,Rogue Valley,Southern Oregon,Oregon,US,Pinot Gris
+$30,89,Abacela 2003 Estate Tempranillo (Southern Oregon),Wine Enthusiast,Estate,Abacela,Red,2003,,Southern Oregon,Oregon,US,Tempranillo
+$20,88,Ponzi 2004 Arneis (Willamette Valley),Wine Enthusiast,,Ponzi,White,2004,Willamette Valley,Willamette Valley,Oregon,US,Arneis
+$20,88,Argyle 2004 Pinot Noir (Willamette Valley),Wine Enthusiast,,Argyle,Red,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$18,87,WillaKenzie Estate 2004 Pinot Blanc (Willamette Valley),Wine Enthusiast,,WillaKenzie Estate,White,2004,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$45,90,Dobbes Family Estate 2002 Fortmiller Vineyard Syrah (Rogue Valley),Wine Enthusiast,Fortmiller Vineyard,Dobbes Family Estate,Red,2002,Rogue Valley,Southern Oregon,Oregon,US,Syrah
+$17,90,Elk Cove 2004 Riesling (Willamette Valley),Wine Enthusiast,,Elk Cove,White,2004,Willamette Valley,Willamette Valley,Oregon,US,Riesling
+$18,89,Abacela 2002 Merlot (Oregon),Wine Enthusiast,,Abacela,Red,2002,,Oregon Other,Oregon,US,Merlot
+$10,87,Firesteed 2003 Pinot Noir (Oregon),Wine Enthusiast,,Firesteed,Red,2003,,Oregon Other,Oregon,US,Pinot Noir
+$30,86,Griffin Creek 2000 Merlot (Rogue Valley),Wine Enthusiast,,Griffin Creek,Red,2000,Rogue Valley,Southern Oregon,Oregon,US,Merlot
+$15,86,King Estate 2003 Pinot Gris (Oregon),Wine Enthusiast,,King Estate,White,2003,,Oregon Other,Oregon,US,Pinot Gris
+$18,85,Willamette Valley Vineyards 2004 Whole Cluster Fermented Pinot Noir (Oregon),Wine Enthusiast,Whole Cluster Fermented,Willamette Valley Vineyards,Red,2004,,Oregon Other,Oregon,US,Pinot Noir
+$12,87,Sineann 2003 Red Table Wine Red (Oregon),Wine Enthusiast,Red Table Wine,Sineann,Red,2003,,Oregon Other,Oregon,US,Red Blends
+$35,91,Cristom 2002 Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Reserve,Cristom,Red,2002,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$50,91,King Estate 2001 Domaine Pinot Noir (Oregon),Wine Enthusiast,Domaine,King Estate,White,2001,,Oregon Other,Oregon,US,Pinot Noir
+$15,89,Rex Hill 2002 Sauvignon Blanc (Oregon),Wine Enthusiast,,Rex Hill,White,2002,,Oregon Other,Oregon,US,Sauvignon Blanc
+$25,88,Cristom 2003 Viognier (Willamette Valley),Wine Enthusiast,,Cristom,White,2003,Willamette Valley,Willamette Valley,Oregon,US,Viognier
+$30,88,Velocity 2002 Red Wine Red (Rogue Valley),Wine Enthusiast,Red Wine,Velocity,Red,2002,Rogue Valley,Southern Oregon,Oregon,US,Red Blends
+$22,87,Abacela 2003 Grenache (Umpqua Valley),Wine Enthusiast,,Abacela,Red,2003,Umpqua Valley,Southern Oregon,Oregon,US,Grenache
+$9,88,Ridgefield 2002 Pinot Gris (Red Mountain),Wine Enthusiast,,Ridgefield,White,2002,Red Mountain,Columbia Valley,Washington,US,Pinot Gris
+$10,87,Hogue 2003 Pinot Grigio (Columbia Valley (WA)),Wine Enthusiast,,Hogue,White,2003,Columbia Valley (WA),Columbia Valley,Washington,US,Pinot Grigio
+$30,86,Rex Hill 2001 Southern Oregon Cuvee Pinot Noir (Oregon),Wine Enthusiast,Southern Oregon Cuvee,Rex Hill,Red,2001,,Oregon Other,Oregon,US,Pinot Noir
+$16,90,Willamette Valley Vineyards 2002 Founders' Reserve Sauvignon Blanc (Oregon),Wine Enthusiast,Founders' Reserve,Willamette Valley Vineyards,White,2002,,Oregon Other,Oregon,US,Sauvignon Blanc
+$13,90,Brooks 2002 Amycas White White (Willamette Valley),Wine Enthusiast,Amycas White,Brooks,White,2002,Willamette Valley,Willamette Valley,Oregon,US,White Blend
+$18,85,Paschal 2001 Estate Grown Chardonnay (Rogue Valley),Wine Enthusiast,Estate Grown,Paschal,White,2001,Rogue Valley,Southern Oregon,Oregon,US,Chardonnay
+$18,88,Abacela 2000 Merlot (Umpqua Valley),Wine Enthusiast,,Abacela,Red,2000,Umpqua Valley,Southern Oregon,Oregon,US,Merlot
+$18,82,Silvan Ridge 2001 Del Rio Vineyards Viognier (Rogue Valley),Wine Enthusiast,Del Rio Vineyards,Silvan Ridge,White,2001,Rogue Valley,Southern Oregon,Oregon,US,Viognier
+$18,80,Paschal 2001 Pinot Gris (Rogue Valley),Wine Enthusiast,,Paschal,White,2001,Rogue Valley,Southern Oregon,Oregon,US,Pinot Gris
+$20,89,Elk Cove 2000 Pinot Noir (Willamette Valley),Wine Enthusiast,,Elk Cove,Red,2000,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$15,85,Amity 2000 Eco-Wine Pinot Noir (Oregon),Wine Enthusiast,Eco-Wine,Amity,Red,2000,,Oregon Other,Oregon,US,Pinot Noir
+$18,91,Abacela 2000 Malbec (Umpqua Valley),Wine Enthusiast,,Abacela,Red,2000,Umpqua Valley,Southern Oregon,Oregon,US,Malbec
+$28,88,Patton Valley 2000 Pinot Noir (Oregon),Wine Enthusiast,,Patton Valley,Red,2000,,Oregon Other,Oregon,US,Pinot Noir
+$14,85,Amity 2001 Eco-Wine Pinot Noir (Oregon),Wine Enthusiast,Eco-Wine,Amity,Red,2001,,Oregon Other,Oregon,US,Pinot Noir
+$18,81,Griffin Creek 2001 Pinot Gris (Rogue Valley),Wine Enthusiast,,Griffin Creek,White,2001,Rogue Valley,Southern Oregon,Oregon,US,Pinot Gris
+$18,81,Willamette Valley Vineyards 2001 Founders' Reserve Pinot Gris (Willamette Valley),Wine Enthusiast,Founders' Reserve,Willamette Valley Vineyards,White,2001,Willamette Valley,Willamette Valley,Oregon,US,Pinot Gris
+$22,87,Sebastiani 1999 Pinot Noir (Russian River Valley),Wine Enthusiast,,Sebastiani,Red,1999,Russian River Valley,Sonoma,California,US,Pinot Noir
+$75,86,Archery Summit 1999 Red Hills Estate Pinot Noir (Willamette Valley),Wine Enthusiast,Red Hills Estate,Archery Summit,Red,1999,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$16,85,Cambria 2000 Tepusquet Vineyard Viognier (Santa Maria Valley),Wine Enthusiast,Tepusquet Vineyard,Cambria,White,2000,Santa Maria Valley,Central Coast,California,US,Viognier
+$16,85,Table Rock 1999 Pinot Noir (Rogue Valley),Wine Enthusiast,,Table Rock,Red,1999,Rogue Valley,Southern Oregon,Oregon,US,Pinot Noir
+$20,92,WillaKenzie Estate 2001 Pinot Gris (Oregon),Wine Enthusiast,,WillaKenzie Estate,White,2001,,Oregon Other,Oregon,US,Pinot Gris
+$25,89,WillaKenzie Estate 1999 Estelle Chardonnay (Willamette Valley),Wine Enthusiast,Estelle,WillaKenzie Estate,White,1999,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$24,85,Paschal 1998 Syrah-Cabernet (Oregon),Wine Enthusiast,,Paschal,Red,1998,,Oregon Other,Oregon,US,Syrah-Cabernet
+$15,85,Abacela 1999 Malbec (Umpqua Valley),Wine Enthusiast,,Abacela,Red,1999,Umpqua Valley,Southern Oregon,Oregon,US,Malbec
+$18,84,Weisinger's of Ashland NV Mescolare Red Wine Red (Oregon),Wine Enthusiast,Mescolare Red Wine,Weisinger's of Ashland,Red,,,Oregon Other,Oregon,US,Red Blends
+$12,91,Adelsheim 2000 Pinot Blanc (Oregon),Wine Enthusiast,,Adelsheim,White,2000,,Oregon Other,Oregon,US,Pinot Blanc
+$36,90,Adelsheim 1999 Goldschmidt Vineyard Pinot Noir (Yamhill County),Wine Enthusiast,Goldschmidt Vineyard,Adelsheim,Red,1999,Yamhill County,Willamette Valley,Oregon,US,Pinot Noir
+$15,87,Kings Ridge 2000 Pinot Noir (Oregon),Wine Enthusiast,,Kings Ridge,Red,2000,,Oregon Other,Oregon,US,Pinot Noir
+$10,86,Bridgeview 2000 Gewürztraminer (Oregon),Wine Enthusiast,,Bridgeview,White,2000,,Oregon Other,Oregon,US,Gewürztraminer
+$18,85,Foris 1998 Merlot (Rogue Valley),Wine Enthusiast,,Foris,Red,1998,Rogue Valley,Southern Oregon,Oregon,US,Merlot
+$10,83,Ashland Vineyards 1999 Pinot Gris (Rogue Valley),Wine Enthusiast,,Ashland Vineyards,White,1999,Rogue Valley,Southern Oregon,Oregon,US,Pinot Gris
+$20,85,Desert Wind 1999 Desert Wind Vineyard Merlot (Columbia Valley (WA)),Wine Enthusiast,Desert Wind Vineyard,Desert Wind,Red,1999,Columbia Valley (WA),Columbia Valley,Washington,US,Merlot
+$35,89,Argyle 1996 Knutsen Vineyard Brut  (Willamette Valley),Wine Enthusiast,Knutsen Vineyard Brut,Argyle,Sparkling,1996,Willamette Valley,Willamette Valley,Oregon,US,Champagne Blend
+$75,90,Archery Summit 1999 Arcus Estate Pinot Noir (Oregon),Wine Enthusiast,Arcus Estate,Archery Summit,Red,1999,,Oregon Other,Oregon,US,Pinot Noir
+$14,85,Eugene Wine Cellars 1999 Melon (Oregon),Wine Enthusiast,,Eugene Wine Cellars,White,1999,,Oregon Other,Oregon,US,Melon
+$14,85,Eugene Wine Cellars 1999 Pinot Gris (Oregon),Wine Enthusiast,,Eugene Wine Cellars,White,1999,,Oregon Other,Oregon,US,Pinot Gris
+$12,85,Château Bianca 1999 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Château Bianca,White,1999,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$7,85,Bridgeview 1999 Chardonnay (Oregon),Wine Enthusiast,,Bridgeview,White,1999,,Oregon Other,Oregon,US,Chardonnay
+$18,84,Eugene Wine Cellars 1999 Viognier (Oregon),Wine Enthusiast,,Eugene Wine Cellars,White,1999,,Oregon Other,Oregon,US,Viognier
+$9,84,Henry Estate 2000 Muller Thurgau White (Umpqua Valley),Wine Enthusiast,Muller Thurgau,Henry Estate,White,2000,Umpqua Valley,Southern Oregon,Oregon,US,White Blend
+$23,83,Eugene Wine Cellars 1999 Syrah (Oregon),Wine Enthusiast,,Eugene Wine Cellars,Red,1999,,Oregon Other,Oregon,US,Syrah
+$15,82,Eugene Wine Cellars 1999 Pinot Noir (Oregon),Wine Enthusiast,,Eugene Wine Cellars,Red,1999,,Oregon Other,Oregon,US,Pinot Noir
+$12,86,Chatter Creek 2000 Pinot Gris (Washington),Wine Enthusiast,,Chatter Creek,White,2000,Washington,Washington Other,Washington,US,Pinot Gris
+$15,87,Evesham Wood 1998 Pinot Noir (Willamette Valley),Wine Enthusiast,,Evesham Wood,Red,1998,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$30,87,Argyle 1996 Knudsen Vyd Julia Lee's Block Blanc de Blancs  (Willamette Valley),Wine Enthusiast,Knudsen Vyd Julia Lee's Block Blanc de Blancs,Argyle,Sparkling,1996,Willamette Valley,Willamette Valley,Oregon,US,Champagne Blend
+$14,80,Amity 1999 Eco Wine Cattrall Brothers Pinot Noir (Oregon),Wine Enthusiast,Eco Wine Cattrall Brothers,Amity,Red,1999,,Oregon Other,Oregon,US,Pinot Noir
+$30,88,Cristom 1997 Reserve Pinot Noir (Willamette Valley),Wine Enthusiast,Reserve,Cristom,Red,1997,Willamette Valley,Willamette Valley,Oregon,US,Pinot Noir
+$18,90,Ponzi 1998 Arneis (Willamette Valley),Wine Enthusiast,,Ponzi,White,1998,Willamette Valley,Willamette Valley,Oregon,US,Arneis
+$12,86,Tyee 1996 Pinot Blanc (Willamette Valley),Wine Enthusiast,,Tyee,White,1996,Willamette Valley,Willamette Valley,Oregon,US,Pinot Blanc
+$35,92,Cameron 1997 Clos Electrique Chardonnay (Willamette Valley),Wine Enthusiast,Clos Electrique,Cameron,White,1997,Willamette Valley,Willamette Valley,Oregon,US,Chardonnay
+$15,90,Torii Mor 1998 Pinot Gris (Yamhill County),Wine Enthusiast,,Torii Mor,White,1998,Yamhill County,Willamette Valley,Oregon,US,Pinot Gris
+$15,87,WillaKenzie Estate 1997 Pinot Grigio (Willamette Valley),Wine Enthusiast,,WillaKenzie Estate,White,1997,Willamette Valley,Willamette Valley,Oregon,US,Pinot Grigio
