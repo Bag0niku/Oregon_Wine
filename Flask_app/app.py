@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 from sqlalchemy import create_engine
 from config import *
 
@@ -21,7 +21,9 @@ vineyards_columns = [ 'place_id','name','business_status','formatted_phone_numbe
                       'center_lat','center_lon','northeast_lat','northeast_lon','southwest_lat','southwest_lon']                       
 
 brand_columns = ['brand_id', 'brand_name']                      
+
 @app.route("/")
+@app.route("/home")
 def welcome():
     data = [x for x in conn.execute("SELECT * FROM wine_reviews limit 10;")]
     reviews = list()
@@ -32,7 +34,7 @@ def welcome():
         
         reviews.append(wine)
 
-    return jsonify(reviews)
+    return render_template('home.html', data=reviews)
 
 
 

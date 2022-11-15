@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
+    </head>
+    <body>
+         <!-- diplay table of filtered Data-->
+         <div class="col-md-9">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th class="table-head">title</th>
+                        <th class="table-head">vintage</th>
+                        <th class="table-head">score</th>
+                        <th class="table-head">release_price</th>
+                        <th class="table-head">category</th>
+                        <th class="table-head">region</th>
+<!--                         
+                        <th class="table-head">winery</th>
+                        <th class="table-head">ava</th>
+                        
+                        <th class="table-head">province</th>
+                        <th class="table-head">country</th>
+                        <th class="table-head">designation</th>
+                        <th class="table-head">variety</th>                       
+                        <th class="table-head">review_source</th>
+                        <th class="table-head">brand_id</th>
+                        <th class="table-head">review_id</th> -->
+
+                    </tr>
+                </thead>
+        {% for row in data %}
+        <tr>
+            <td>{{row.title}}</td>
+            <td>{{row.vintage}}</td>
+            <td>{{row.score}}</td>
+            <td>{{row.release_price}}</td>
+            <td>{{row.category}}</td>
+            <td>{{row.region}}</td>
+        </tr>
+
+        {%endfor%}
+        
+    </body>
+</html>
