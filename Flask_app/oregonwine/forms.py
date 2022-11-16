@@ -1,9 +1,16 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField
+from wtforms import SelectField
+
 
 class WineFilter(FlaskForm):
     
-    category = StringField('Wine Category')
-
+    region = SelectField('Region', choices=[])
+    category = SelectField('Wine Category', choices=[])
+    variety = SelectField('Variety', choices=[])
+    vintage = SelectField('Vintage', choices=[])
+    min_score = SelectField('Minimum Score', choices=[])
+    max_score = SelectField('Maximum Score', choices=[])
+    min_price = SelectField('Minimum Price', choices=[])
+    max_price = SelectField('Maximum Price', choices=[])
 
 

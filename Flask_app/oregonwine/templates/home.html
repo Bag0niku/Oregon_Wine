@@ -26,9 +26,33 @@
                 <div class="jumbotron text-center" >
                     <h1 class="display-4" style="color:white">Choose Your Wine</h1>
                 </div>
+            <div class="row col-md-12">  
+                <div class=" col-md-4">  
+                    <h3>Search Parameters:</h3></br>
+                    <p><a class="btn btn-info btn-sm" href="/update" role="button" style="color:#705132"> <b>search</b></a></p>
+                    {{form.region.label(class="form-control-label")}}
+                    {{form.region(class="form-control")}}
+                </div>
+                <div class="col-md-4">
+                    {{form.category.label(class="form-control-label")}}
+                    {{form.category(class="form-control")}}
+                    {{form.variety.label(class="form-control-label")}}
+                    {{form.variety(class="form-control")}}
+                    {{form.vintage.label(class="form-control-label")}}
+                    {{form.vintage(class="form-control")}}
+                    
+                </div>
+                <div class="col-md-4">
+                    {{form.min_score.label(class="form-control-label")}}
+                    {{form.min_score(class="form-control")}}
+                    {{form.max_score.label(class="form-control-label")}}
+                    {{form.max_score(class="form-control")}}
+                    {{form.min_price.label(class="form-control-label")}}
+                    {{form.min_price(class="form-control")}}            
+                    {{form.max_price.label(class="form-control-label")}}
+                    {{form.max_price(class="form-control")}}                
+                </div>
 
-        <div class="row col-md-9">  
-            
         </div>
 
 
