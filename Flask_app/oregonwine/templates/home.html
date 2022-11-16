@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+            integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+            crossorigin="anonymous" />
+        <style>
+            .jumbotron {
+                background-image: url("{{url_for('static', filename='wine_bottle_headerv2.jpg')}}");
+            }
+        </style>
+
+
+        <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='main.css')}}">
+        <title></title>
+    
+    </head>
+    <body>
+        
+        <div class="wrapper">
+            <div class="container">
+                <div class="jumbotron text-center" >
+                    <h1 class="display-4" style="color:white">Choose Your Wine</h1>
+                </div>
+
+        <div class="row col-md-9">  
+            
+        </div>
+
+
+         <!-- diplay table of filtered Data-->
+         <div class="col-md-12">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th class="table-head">Title</th>
+                        <th class="table-head">Vintage</th>
+                        <th class="table-head">Score</th>
+                        <th class="table-head">Release Price</th>
+                        <th class="table-head">Category</th>
+                        <th class="table-head">Region</th>
+<!--                         
+                        <th class="table-head">winery</th>
+                        <th class="table-head">ava</th>
+                        
+                        <th class="table-head">province</th>
+                        <th class="table-head">country</th>
+                        <th class="table-head">designation</th>
+                        <th class="table-head">variety</th>                       
+                        <th class="table-head">review_source</th>
+                        <th class="table-head">brand_id</th>
+                        <th class="table-head">review_id</th> -->
+
+                    </tr>
+                </thead>
+        {% for row in data %}
+        <tr>
+            <td>{{row.title}}</td>
+            <td>{{row.vintage}}</td>
+            <td>{{row.score}}</td>
+            <td>{{row.release_price}}</td>
+            <td>{{row.category}}</td>
+            <td>{{row.region}}</td>
+        </tr>
+
+        {%endfor%}
+        
+</table>
+         </div><!--container-->
+         </div> <!--wrapper-->
+
+    
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>
