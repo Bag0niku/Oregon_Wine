@@ -1,16 +1,30 @@
 from flask_wtf import FlaskForm
-from wtforms import SelectField
+from wtforms import SelectField, BooleanField, SubmitField
 
 
 class WineFilter(FlaskForm):
     
-    region = SelectField('Region', choices=[])
-    category = SelectField('Wine Category', choices=[])
-    variety = SelectField('Variety', choices=[])
-    vintage = SelectField('Vintage', choices=[])
-    min_score = SelectField('Minimum Score', choices=[])
-    max_score = SelectField('Maximum Score', choices=[])
-    min_price = SelectField('Minimum Price', choices=[])
-    max_price = SelectField('Maximum Price', choices=[])
+
+
+    winery_select = SelectField('Winery', choices=[])
+    winery_bool = BooleanField()
+    region_select = SelectField('Region', choices=[])
+    region_bool = BooleanField()
+    category_select = SelectField('Wine Category', choices=[])
+    category_bool = BooleanField()
+    variety_select = SelectField('Variety', choices=[])
+    variety_bool = BooleanField()
+    vintage_select = SelectField('Vintage', choices=[])
+    vintage_bool = BooleanField()
+    min_score_select = SelectField('Minimum Score', choices=[])
+    min_score_bool = BooleanField()
+    max_score_select = SelectField('Maximum Score', choices=[])
+    max_score_bool = BooleanField()
+    min_price_select = SelectField('Minimum Price', choices=[])
+    min_price_bool = BooleanField()
+    max_price_select = SelectField('Maximum Price', choices=[])
+    max_price_bool = BooleanField()
+
+    filter_submit = SubmitField("Search")
 
 

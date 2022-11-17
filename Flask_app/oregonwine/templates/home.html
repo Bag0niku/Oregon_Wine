@@ -28,31 +28,41 @@
                 </div>
             <div class="row col-md-12">  
                 <div class=" col-md-4">  
+                <h3>Search Parameters: </h3>
+                </div>
+                <div class=" col-md-6">  
+                    <small>Mark the checkbox to activate a filter. </small>
+                </div>
+            </div>
+                
+            <div class="row col-md-12">  
+                <div class=" col-md-4">  
                 <form method="POST">
-                    <h3>Search Parameters:</h3></br>
+                    
                     {{form.csrf_token}}
-                    <!-- <p><a class="btn btn-info btn-sm" href="/update" role="button" style="color:#705132"> <b>search</b></a></p> -->
-                    {{form.min_price.label(class="form-control-label")}}
-                    {{form.min_price(class="form-control")}}            
-                    {{form.max_price.label(class="form-control-label")}}
-                    {{form.max_price(class="form-control")}}     
+                    <p>{{form.winery_bool}} {{form.winery_select.label(class="form-control-label")}}
+                        {{form.winery_select(class="form-control")}} </p>           
+                    <p>{{form.min_price_bool}} {{form.min_price_select.label(class="form-control-label")}}
+                    {{form.min_price_select(class="form-control")}} </p>           
+                    <p>{{form.max_price_bool}} {{form.max_price_select.label(class="form-control-label")}}
+                    {{form.max_price_select(class="form-control")}} </p>    
                 </div>
                 <div class="col-md-4">
-                    {{form.category.label(class="form-control-label")}}
-                    {{form.category(class="form-control")}}
-                    {{form.variety.label(class="form-control-label")}}
-                    {{form.variety(class="form-control")}}
-                    {{form.vintage.label(class="form-control-label")}}
-                    {{form.vintage(class="form-control")}}
+                    <p>{{form.category_bool}} {{form.category_select.label(class="form-control-label")}}
+                    {{form.category_select(class="form-control")}}</p>
+                    <p>{{form.variety_bool}} {{form.variety_select.label(class="form-control-label")}}
+                    {{form.variety_select(class="form-control")}}</p>
+                    <p>{{form.vintage_bool}} {{form.vintage_select.label(class="form-control-label")}}
+                    {{form.vintage_select(class="form-control")}}</p>
                     
                 </div>
                 <div class="col-md-4">
-                    {{form.region.label(class="form-control-label")}}
-                    {{form.region(class="form-control")}}
-                    {{form.min_score.label(class="form-control-label")}}
-                    {{form.min_score(class="form-control")}}
-                    {{form.max_score.label(class="form-control-label")}}
-                    {{form.max_score(class="form-control")}}
+                    <p>{{form.region_bool}} {{form.region_select.label(class="form-control-label")}}
+                    {{form.region_select(class="form-control")}}</p>
+                    <p>{{form.min_score_bool}} {{form.min_score_select.label(class="form-control-label")}}
+                    {{form.min_score_select(class="form-control")}}</p>
+                    <p>{{form.max_score_bool}} {{form.max_score_select.label(class="form-control-label")}}
+                    {{form.max_score_select(class="form-control")}}</p>
            
                 </div>
                 <div class="col-md-1">
@@ -74,6 +84,7 @@
                         <th class="table-head">Release Price</th>
                         <th class="table-head">Category</th>
                         <th class="table-head">Region</th>
+                        <th class="table-head">Review Source</th>
 <!--                         
                         <th class="table-head">winery</th>
                         <th class="table-head">ava</th>
@@ -82,7 +93,7 @@
                         <th class="table-head">country</th>
                         <th class="table-head">designation</th>
                         <th class="table-head">variety</th>                       
-                        <th class="table-head">review_source</th>
+
                         <th class="table-head">brand_id</th>
                         <th class="table-head">review_id</th> -->
 
@@ -96,6 +107,7 @@
             <td>{{row.release_price}}</td>
             <td>{{row.category}}</td>
             <td>{{row.region}}</td>
+            <td>{{row.review_source}}</td>
         </tr>
 
         {%endfor%}
