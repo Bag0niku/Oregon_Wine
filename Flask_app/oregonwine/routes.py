@@ -1,6 +1,7 @@
 from flask import render_template, url_for, flash, redirect, jsonify, request
 from oregonwine import app, engine
 from oregonwine.forms import WineFilter
+import pandas as pd
 
 
 vineyards_columns = [ 'place_id','name','business_status','formatted_phone_number',
@@ -15,8 +16,8 @@ brand_columns = ['brand_id', 'brand_name']
 
 
 
-@app.route("/")
-@app.route("/home")
+@app.route("/", methods=['GET','POST'])
+@app.route("/home", methods=['GET','POST'])
 def welcome():
 
     form = WineFilter()
@@ -34,17 +35,39 @@ def welcome():
             wine[wine_review_columns[i]] = col
         reviews.append(wine)
 
-    form.vintage.choices = list(set([row['vintage'] for row in reviews]))
-    form.category.choices = list(set([row['category'] for row in reviews]))   
-    form.min_score.choices = list(set([row['score'] for row in reviews]))
-    form.max_score.choices = list(set([row['score'] for row in reviews]))
-    form.region.choices = list(set([row['region'] for row in reviews]))   
-    form.min_price.choices = list(set([row['release_price'] for row in reviews]))
-    form.variety.choices = list(set([row['variety'] for row in reviews]))   
-    form.max_score.choices = list(set([row['score'] for row in reviews]))
+    df = pd.DataFrame(reviews)
 
 
-    return render_template('home.html', data=reviews, form=form)
+    form.vintage.choices = list(df['vintage'].dropna().unique())
+    form.vintage.choices.sort(reverse=True)
+    form.category.choices = list(df['category'].dropna().unique()) # list(set([row['category'] for row in reviews]))   
+    form.category.choices.sort()
+    form.min_score.choices = list(list(df['score'].dropna().unique()))
+    form.min_score.choices.sort()
+    form.max_score.choices = list(list(df['score'].dropna().unique()))
+    form.max_score.choices.sort(reverse=True)
+    form.region.choices = list(list(df['region'].dropna().unique())) # list(set([row['region'] for row in reviews]))   
+    form.region.choices.sort()
+    form.min_price.choices = list(list(df['release_price'].dropna().unique()))
+    form.min_price.choices.sort()
+    form.variety.choices = list(list(df['variety'].dropna().unique())) # list(set([row['variety'] for row in reviews]))   
+    form.variety.choices.sort()
+    form.max_price.choices = list(df['release_price'].dropna().unique())
+    form.max_price.choices.sort(reverse=True)
+
+    if request.method == 'POST':
+        return f"""<h1>Form info:</h1>
+                  <p>Min Price: {form.min_price.data}</p>
+                  <p>Max Price: {form.max_price.data}</p>
+                  <p>Min Score: {form.min_score.data}</p>
+                  <p>Max Score: {form.max_score.data}</p>
+                  <p>Category: {form.category.data}</p>
+                  <p>Variety: {form.variety.data}</p>
+                  <p>Vintage: {form.vintage.data}</p>
+        
+               """
+    else:
+        return render_template('home.html', data=reviews, form=form)
 
 
 @app.route("/api/v1.0/")
@@ -62,6 +85,8 @@ def api():
         for i, col in enumerate(row):
             wine[wine_review_columns[i]] = col
         reviews.append(wine)
+
+
     return jsonify(reviews=reviews)
 
 
