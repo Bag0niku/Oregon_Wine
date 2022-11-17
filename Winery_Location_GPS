@@ -1,0 +1,627 @@
+,name,phone,formatted_address,website,brand_id,central_latitude,central_longitude
+0,Beaux Frères,(503) 537-1137,"15155 NE North Valley Rd, Newberg, OR, 97132, USA",http://www.beauxfreres.com/,0,45.34762389999999,-123.0936571
+1,Ruby Vineyard,(503) 628-7829,"30088 SW Egger Rd, Hillsboro, OR, 97123, USA",http://www.rubyvineyard.com/,1,45.40038819999999,-122.9869325
+2,Dobbes Family Estate,(503) 538-1141,"240 SE 5th St, Dundee, OR, 97115, USA",http://dobbesfamilyestate.com/,2,45.2795302,-123.0078417
+3,FireThorn Vineyard,(206) 391-6709,"75049 Snow Rd, Echo, OR, 97826, USA",http://www.firethornvineyard.com/contact/,3,45.72194710000001,-119.1918038
+4,Freed Estate Vineyards,(808) 551-9998,"430 Hooten Rd, Winston, OR, 97496, USA",http://www.freedestatewinery.com/,4,43.115009,-123.39355
+5,Willamette Valley Vineyards,(503) 588-9463,"8800 Enchanted Way SE, Turner, OR, 97392, USA",http://www.wvv.com/,5,44.82778169999999,-123.0123551
+6,Cherry Grove Vineyard,(503) 985-3513,"49969 SW Patton Valley Rd, Gaston, OR, 97119, USA",https://www.cherrygrovevineyard.com/,6,45.4441154,-123.1941181
+7,Oswego Hills Vineyard,(503) 655-2599,"450 Rosemont Rd, West Linn, OR, 97068, USA",https://www.oswegohills.com/,7,45.3870262,-122.674398
+8,The Pines 1852,(541) 993-8301,"415 Oak St, Hood River, OR, 97031, USA",http://www.thepinesvineyard.com/,8,45.7086461,-121.5151932
+9,Ransom Wine Co. & Distillery Tasting Room,(503) 472-2493,"23145 OR-99W, Dundee, OR, 97115, USA",http://www.ransomspirits.com/,9,45.2904641,-122.999178
+10,Krop Haus Vineyards,(971) 718-2243,"10883 Southview Loop SE, Jefferson, OR, 97352, USA",https://krop-haus-vineyards.business.site/?utm_source=gmb&utm_medium=referral,10,44.797013,-123.036836
+11,The Good Drop Wine Shoppe,(541) 410-1470,"141 NW Minnesota Ave #2719, Bend, OR, 97701, USA",https://www.gooddropwineshoppe.com/newsite/,8,44.058572,-121.31398
+12,TeBri Vineyards and Lavender,(541) 740-8541,"24880 Orchard Tract Rd, Monroe, OR, 97456, USA",http://www.tebri.com/,11,44.313722,-123.324039
+13,Northwest Vines,(541) 689-4062,"541 Willamette St Suite #111, Eugene, OR, 97401, USA",https://www.northwestvines.com/,8,44.0538141,-123.092401
+14,Brandborg Vineyard and Winery,(541) 584-2870,"345 1st St, Elkton, OR, 97436, USA",http://brandborgwine.com/,12,43.6363158,-123.5658985
+15,Balboa Winery,(509) 529-0461,"4169 Peppers Bridge Rd, Walla Walla, WA, 99362, USA",http://www.balboawinery.com/,13,46.00699960000001,-118.3815932
+16,Stave & Stone Winery (Downtown Tasting Room),(541) 490-9461,"210 Oak St, Hood River, OR, 97031, USA",http://www.staveandstone.com/,14,45.7090566,-121.512944
+17,Bledsoe Family Winery,(509) 792-3510,"229 E Main St, Walla Walla, WA, 99362, USA",http://www.bledsoefamilywinery.com/,15,46.0694676,-118.3359568
+18,Clay Pigeon Winery,,"4855 SE 18th Ave, Portland, OR, 97202, USA",http://www.claypigeonwinery.com/,16,45.48715840000001,-122.6476872
+19,"Helioterra Winery, Urban Winery, Tasting Room, and Wine Bar",(971) 229-1445,"2025 SE 7th Ave, Portland, OR, 97214, USA",http://helioterrawines.com/,17,45.5082821,-122.6590832
+20,Spring Valley Vineyard,(509) 337-6915,"1663 Corkrum Rd, Walla Walla, WA, 99362, USA",https://www.springvalleyvineyard.com/,18,46.1721497,-118.2026999
+21,Open Claim Vineyards,(503) 837-7862,"2795 Ballard Rd, Dallas, OR, 97338, USA",http://www.openclaimvineyards.com/,19,44.8943016,-123.2700067
+22,Deer Creek Vineyards,,"2680 Deer Creek Rd, Selma, OR, 97538, USA",http://www.deercreekvineyards.com/,20,42.2732369,-123.5666426
+23,Orchard View Vineyards,(503) 472-0298,"15519 NW Orchard View Rd, McMinnville, OR, 97128, USA",,21,45.240894,-123.277146
+24,Bravuro Cellars Vineyard,(503) 883-8155,"9779 SE Hillview Dr, Amity, OR, 97101, USA",https://www.bravurocellars.com/,22,45.1337686,-123.1379239
+25,Day Wines at Day Camp,(971) 832-8196,"21160 OR-99W, Dundee, OR, 97115, USA",http://www.daywines.com/,23,45.2674803,-123.0201565
+26,15 Mile Winery,(541) 965-1445,"623 E 2nd St, The Dalles, OR, 97058, USA",http://www.15milewinery.com/,24,45.5993238,-121.1771086
+27,Le Doubblé Troubblé Wine Co,(509) 281-3240,"111 E Jewett Blvd, White Salmon, WA, 98672, USA",http://www.ldtwines.com/,8,45.7275719,-121.4863845
+28,Rulo Winery,(509) 525-7856,"3525 Pranger Rd, Walla Walla, WA, 99362, USA",http://www.rulowinery.com/,25,46.0218622,-118.3601944
+29,Vintyr,(971) 264-0881,"3336 SE Amity Dayton Hwy, Amity, OR, 97101, USA",http://www.vintyrwine.com/,8,45.1356946,-123.2045307
+30,Saginaw Vineyard,(541) 942-1364,"80247 Delight Valley School Rd, Saginaw, OR, 97424, USA",http://www.saginawvineyard.com/,26,43.8418846,-123.0292764
+31,Fitzpatrick Vineyards,(541) 214-9315,"25357 High Pass Rd, Junction City, OR, 97448, USA",,27,44.224603,-123.348823
+32,Vital Wines,(509) 540-2323,"17 N 2nd Ave, Walla Walla, WA, 99362, USA",http://www.vitalwinery.com/,8,46.067181,-118.3400263
+33,Cooper Ridge Vineyard,(541) 671-2373,"1389 Old Garden Valley Rd, Roseburg, OR, 97471, USA",https://www.cooperridgevineyard.com/,28,43.2720437,-123.4274503
+34,Big Table Farm,(503) 852-3097,"128 S Pine St, Carlton, OR, 97111, USA",http://www.bigtablefarm.com/,29,45.2937004,-123.1767604
+35,Helvetia Vineyards & Winery,(503) 647-7596,"23269 NW Yungen Rd, Hillsboro, OR, 97124, USA",http://www.helvetiawinery.com/,30,45.6148532,-122.9167208
+36,Chateau Bianca Winery,(503) 623-6181,"17485 OR-22, Dallas, OR, 97338, USA",https://www.chateaubianca.com/,31,45.0084325,-123.3889832
+37,Emerson Vineyards,(503) 838-0944,"11665 Airlie Rd, Monmouth, OR, 97361, USA",http://www.emersonvineyards.com/,32,44.74311969999999,-123.2692585
+38,Hope Well Vineyard,,"12345 Oak Rd NW, Salem, OR, 97304, USA",http://hopewellwine.com/,33,45.0918325,-123.1122459
+39,Cascade Cliffs Winery & Tasting Room,(541) 436-4215,"211 Oak St, Hood River, OR, 97031, USA",http://cascadecliffs.com/,34,45.7087751,-121.512979
+40,MonksGate Vineyard,(503) 852-6521,"9500 NE Oak Springs Farm Rd, Carlton, OR, 97111, USA",https://www.monksgate.com/,35,45.2836286,-123.1070852
+41,Lange Estate Winery & Vineyards,(503) 538-6476,"18380 NE Buena Vista Dr, Dundee, OR, 97115, USA",https://www.langewinery.com/,36,45.295527,-123.042823
+42,Stoneriver Vineyards,(541) 631-9583,"2178 Pioneer Rd, Talent, OR, 97540, USA",http://stonerivervineyards.com/,37,42.260736,-122.8341381
+43,Chehalem Wines,(503) 537-5553,"31190 NE Veritas Ln, Newberg, OR, 97132, USA",https://www.chehalemwines.com/,38,45.313505,-122.9168526
+44,Yamhill Valley Vineyards,(503) 843-3100,"16250 SW Oldsville Rd, McMinnville, OR, 97128, USA",http://yamhill.com/,39,45.1501488,-123.2880049
+45,Keleri Vineyard,(503) 476-2548,"28385 NE Bell Rd, Newberg, OR, 97132, USA",https://www.kelerivineyard.com/,40,45.33300800000001,-122.946038
+46,Beckenridge Vineyard,(971) 888-2264,"300 Reuben Boise Rd, Dallas, OR, 97338, USA",http://www.beckenridge.com/,41,44.93537800000001,-123.362837
+47,Tulpen Cellars,(509) 386-5887,"3131 S 3rd Ave, Walla Walla, WA, 99362, USA",https://tulpencellars.com/,42,46.02915509999999,-118.3353139
+48,Bergevin Lane Vineyards,(509) 876-2959,"70 N Colville St #106, Walla Walla, WA, 99362, USA",http://www.bergevinlane.com/,43,46.0686598,-118.3375825
+49,Heymann Whinery (Call For Appointment outside of posted hours)),(360) 748-9675,"731 SW 21st St, Chehalis, WA, 98532, USA",http://www.heymannwhinery.com/,44,46.646221,-122.938394
+50,Weisinger Family Winery,(541) 488-5989,"3150 Siskiyou Blvd, Ashland, OR, 97520, USA",http://weisingers.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=675e9824-c94c-4ee1-aa15-692a34eb210a,45,42.1673999,-122.6589563
+51,Alton Wines,(509) 720-7136,"3783 Peppers Bridge Rd, Walla Walla, WA, 99362, USA",http://www.altonwines.com/,8,46.016914,-118.3830925
+52,Trisaetum Winery,(503) 538-9898,"18401 NE Ribbon Ridge Rd, Newberg, OR, 97132, USA",https://www.trisaetum.com/,46,45.3497222,-123.0758333
+53,Elk Cove Vineyards,(503) 985-7760,"27751 NW Olson Rd, Gaston, OR, 97119, USA",http://www.elkcove.com/,47,45.4152778,-123.1852778
+54,Arterberry Maresh at the Maresh Red Barn,(503) 537-1098,"9325 NE Worden Hill Rd, Dundee, OR, 97115, USA",http://www.mareshredbarn.com/,48,45.2780408,-123.0490814
+55,Lenné Estate,(503) 956-2256,"18760 NE Laughlin Rd, Yamhill, OR, 97148, USA",http://www.lenneestate.com/,49,45.34998009999999,-123.1318028
+56,Torii Mor Winery,(503) 538-2279,"18323 NE Fairview Dr, Dundee, OR, 97115, USA",http://www.toriimorwinery.com/,50,45.28889400000001,-123.046728
+57,Cynthian Vineyards,(805) 895-5054,"13945 OR-22, Dallas, OR, 97338, USA",http://www.cynthianvineyards.com/,51,44.9873729,-123.3165185
+58,The Walls Vineyards,(509) 876-0200,"1015 W Pine St, Walla Walla, WA, 99362, USA",http://www.thewallswines.com/,52,46.068416,-118.35605
+59,Chemeketa Cellars,(503) 584-7256,"215 Doaks Ferry Rd NW, Salem, OR, 97304, USA",http://www.chemeketacellars.com/,53,44.93479230000001,-123.1069667
+60,Va Piano Vineyards,(509) 529-0900,"1793 J B George Rd, Walla Walla, WA, 99362, USA",http://www.vapianovineyards.com/,54,46.003999,-118.371124
+61,Tetrahedron Wines,(509) 774-8323,"301 Johnson Ave, Lyle, WA, 98635, USA",http://tetrahedronwines.com/,8,45.6986621,-121.2840026
+62,XL Vineyard,,"83501 Lower Dry Creek Rd, Milton-Freewater, OR, 97862, USA",http://xlvineyard.com/,55,45.9328571,-118.4636716
+63,Witness Tree Vineyard Ltd,(503) 585-7874,"7111 Spring Valley Rd NW, Salem, OR, 97304, USA",http://www.witnesstreevineyard.com/,56,45.0367507,-123.1185135
+64,Grateful Vineyard,(541) 399-6665,"6650 Trout Creek Ridge Rd, Mt Hood, OR, 97041, USA",http://www.gratefulvineyards.com/,57,45.5362174,-121.6221681
+65,Castillo de Feliciana Vineyard & Winery Woodinville Tasting Room,(425) 949-5088,"15114 148th Ave NE, Woodinville, WA, 98072, USA",http://castillodefeliciana.com/visit-us/woodinville-tasting-room,8,47.73664309999999,-122.1415676
+66,Left Coast Estate,(503) 831-4916,"4225 N Pacific Hwy W, Rickreall, OR, 97371, USA",https://leftcoastwine.com/,58,44.9935081,-123.2240778
+67,Cherry Hill Winery,(503) 623-7867,"7867 Crowley Rd, Rickreall, OR, 97371, USA",http://www.cherryhillwinery.com/,59,44.9977684,-123.1856044
+68,Faith Hope & Charity Vineyards,(541) 526-5075,"70450 NW Lower Valley Dr, Terrebonne, OR, 97760, USA",https://www.faithhopeandcharityevents.com/?utm_source=google&utm_medium=local&utm_campaign=gmb,8,44.34401279999999,-121.3363096
+69,Dusky Goose Winery,(503) 857-5776,"8355 NE Warren Rd, Dundee, OR, 97115, USA",https://www.duskygoose.com/,60,45.27729409999999,-123.0346527
+70,Copper Belt Vineyard,,,,61,44.8828871,-117.5203613
+71,Cana's Feast Winery,(503) 852-0002,"750 W Lincoln St, Carlton, OR, 97111, USA",http://www.canasfeast.com/,62,45.30002899999999,-123.1800965
+72,Wild Wines - Winery & Tasting Room,(541) 899-1565,"4550 Little Applegate Rd, Jacksonville, OR, 97530, USA",http://www.enjoywildwines.com/,63,42.1601039,-122.984484
+73,Jacksonville Vineyards,(541) 841-8591,"9730 OR-238, Jacksonville, OR, 97530, USA",,64,42.2467865,-123.0746225
+74,Carson Phillips Vineyards,,"18840 NE Williamson Rd, Newberg, OR, 97132, USA",http://carsonphillips.com/,65,45.304751,-123.04771
+75,HV Cellars,(541) 294-8577,,,66,43.1265293,-123.410891
+76,Domaine Pouillon,(509) 365-2795,"170 Lyle Snowden Rd, Lyle, WA, 98635, USA",http://www.domainepouillon.com/,8,45.73260499999999,-121.30566
+77,Lurking Turkey Vineyard,(541) 424-3332,"23981 Hawley Creek Rd, Monroe, OR, 97456, USA",,67,44.3382629,-123.4093527
+78,Caceu Vineyards,,"Fruit Farm Rd, Independence, OR, 97351, USA",,68,44.90172700000001,-123.344021
+79,Westport Winery Garden Resort,(360) 648-2224,"1 S Arbor Rd, Aberdeen, WA, 98520, USA",http://www.westportwinery.com/,69,46.91542380000001,-123.9707717
+80,Oak Knoll Winery,(503) 648-8198,"29700 SW Burkhalter Rd, Hillsboro, OR, 97123, USA",http://www.oakknollwinery.com/,70,45.4621862,-122.9837223
+81,Granville Wine Co.,,"10464 Jory Ln, Dundee, OR, 97115, USA",http://granvillewines.com/,8,45.2910759,-123.033772
+82,Patterson Cellars Walla Walla Tasting Room & Vineyards,(509) 524-8915,"1564 Whiteley Rd, Walla Walla, WA, 99362, USA",http://pattersoncellars.com/,71,46.013527,-118.3601145
+83,EIEIO Wines,(503) 852-6733,"10100 NW Meadowlake Rd, Carlton, OR, 97111, USA",http://www.onhisfarm.com/,8,45.2920408,-123.2192321
+84,Philips Vineyard,,"1382 Whiteley Rd, Walla Walla, WA, 99362, USA",https://www.instagram.com/philipsvineyard/,72,46.01479699999999,-118.353789
+85,Tresori Vineyards,(503) 550-2027,"17940 NE Kings Grade, Newberg, OR, 97132, USA",http://www.tresorivineyards.com/,73,45.3462643,-123.0324486
+86,Troon Vineyard,(503) 852-3084,"620 NE 3rd St, McMinnville, OR, 97128, USA",http://www.troonvineyard.com/,74,45.2098171,-123.1927718
+87,Don Carlo Vineyard,(541) 938-6776,"83872 Don Carlo Way, Milton-Freewater, OR, 97862, USA",,75,45.9326346,-118.3877435
+88,Whiskey Hill Winery & Postlewait's Vineyards,(971) 338-9142,"29510 S Barlow Rd, Canby, OR, 97013, USA",http://www.whiskeyhillwinery.com/,76,45.18015399999999,-122.721652
+89,Belle Pente Vineyard & Winery,(503) 852-9500,"12470 NE Rowland Rd, Carlton, OR, 97111, USA",http://www.bellepente.com/,77,45.3087469,-123.1405875
+90,Deux Vert Vineyard,,"18000 NE Morelli Dr, Yamhill, OR, 97148, USA",http://deuxvertvineyard.com/?utm_source=gmb&utm_medium=referral,78,45.3462159,-123.137124
+91,Iris Vineyards Production,(541) 942-5993,"195 E Palmer Ave, Cottage Grove, OR, 97424, USA",http://www.irisvineyards.com/,79,43.8002656,-123.0355107
+92,Abeja Winery & Inn,(509) 526-7400,"2016 Mill Creek Rd, Walla Walla, WA, 99362, USA",http://www.abeja.net/,80,46.0874721,-118.2255027
+93,Nicolas-Jay,(971) 412-1124,"11905 NE Dudley Rd, Newberg, OR, 97132, USA",http://www.nicolas-jay.com/,81,45.30134899999999,-123.0569536
+94,Cleveland Hill Vineyard,(541) 784-5203,"858 Cleveland Hill Rd, Roseburg, OR, 97471, USA",http://www.bestfishingdrone.com/,82,43.25732439999999,-123.4667794
+95,Southwind Vineyard,,,,83,45.9295853,-118.4190786
+96,Huston Vineyards,(208) 455-7975,"16473 Chicken Dinner Rd, Caldwell, ID, 83607, USA",https://hustonvineyards.com/,84,43.61010530000001,-116.7729305
+97,Dowsett Family Winery,(509) 520-8215,"315 E Cessna Ave, Walla Walla, WA, 99362, USA",http://www.dowsettwines.com/,85,46.08899539999999,-118.2746958
+98,Meadows Estate Vineyard & Winery,(541) 315-3004,"175 Hogan Rd, Oakland, OR, 97462, USA",https://www.meadowsestatewinery.com/,86,43.4868996,-123.2920418
+99,Wannamaker Estate Vineyard,(503) 914-8883,"271 Auspland Dr, Underwood, WA, 98651, USA",http://www.wannamakerestatevineyard.com/,87,45.73647949999999,-121.6023955
+100,Compton Family Winery,(541) 929-6555,"810 Applegate St, Philomath, OR, 97370, USA",http://www.comptonwines.com/,88,44.53892129999999,-123.3750808
+101,Copper Belt Wines,(541) 519-0949,"1937 Main St, Baker City, OR, 97814, USA",http://www.copperbeltwinery.com/,89,44.7770068,-117.8300117
+102,J Wrigley Vineyards,(503) 857-8287,"19391 Cherry Hill Rd, Sheridan, OR, 97378, USA",http://www.wrigleywines.com/,90,45.1290628,-123.3818682
+103,Stardance Vineyards,(503) 662-4217,"24260 NW Turner Creek Rd, Yamhill, OR, 97148, USA",http://stardancevineyards.com/,91,45.3977141,-123.2641699
+104,Triple Oak Wine Vault,(541) 743-1885,"137 Locust St, Oakland, OR, 97462, USA",http://tripleoakwinevault.com/,8,43.4223002,-123.2986276
+105,Phelps Creek Tasting Room,(541) 386-2607,"301 Country Club Rd, Hood River, OR, 97031, USA",http://www.phelpscreekvineyards.com/,92,45.708611,-121.5599372
+106,Compris Vineyard,(503) 538-4092,"17425 NE Hillside Dr, Newberg, OR, 97132, USA",http://www.comprisvineyard.com/,93,45.3462094,-123.0168932
+107,Ankeny Vineyard,(503) 378-1498,"2565 Riverside Dr S, Salem, OR, 97306, USA",http://www.ankenyvineyard.com/,94,44.819429,-123.081269
+108,Roshni Vineyard,(971) 237-3781,"13101 NW Fox Ridge Rd, McMinnville, OR, 97128, USA",https://roshnivineyard.com/,95,45.214965,-123.248501
+109,Long Shadows Winery,(509) 526-0905,"1604 Frenchtown Rd, Walla Walla, WA, 99362, USA",http://www.longshadows.com/,96,46.069996,-118.4900798
+110,Dominio IV Wines,(971) 261-7781,"11570 NE Intervale Rd, Carlton, OR, 97111, USA",http://www.dominiowines.com/,97,45.29769599999999,-123.1198733
+111,Flâneur Wines,(503) 899-4120,"168 S Pine St, Carlton, OR, 97111, USA",https://www.flaneurwines.com/,98,45.293395,-123.1767529
+112,12th & Maple Wine Co,(503) 538-7724,"1242 SE Maple St, Dundee, OR, 97115, USA",http://www.12mwc.com/,8,45.2726499,-123.013884
+113,Methven Family Vineyards,(503) 868-7259,"11400 SE Westland Ln, Dayton, OR, 97114, USA",http://www.methvenfamilyvineyards.com/,99,45.13518529999999,-123.1217591
+114,Domaine Roy & fils,(503) 687-2600,"8351 NE Worden Hill Rd, Dundee, OR, 97115, USA",http://www.domaineroy.com/,8,45.27907,-123.031339
+115,RainSong Vineyard,(541) 998-1786,"92989 Templeton Rd, Cheshire, OR, 97419, USA",http://rainsongvineyard.com/,100,44.1838114,-123.3757423
+116,Lexème Wines,(541) 802-6016,"325 2nd St, Elkton, OR, 97436, USA",http://lexemewines.com/,8,43.6367731,-123.5667941
+117,"The Bramble, Silas Wines Tasting Room",(503) 389-8682,"100 5th St, Amity, OR, 97101, USA",https://www.silaswines.com/,8,45.1156988,-123.2066417
+118,Iterum Wines,(503) 209-1257,"5917 Orchard Heights Rd NW, Salem, OR, 97304, USA",https://iterumwines.com/,8,44.9713794,-123.1511088
+119,Grizzly Peak Winery,(541) 482-5700,"1600 E Nevada St, Ashland, OR, 97520, USA",https://grizzlypeakwinery.com/,101,42.22067699999999,-122.6782352
+120,Longplay Wine,(503) 482-8483,"888 Industrial Pkwy, Newberg, OR, 97132, USA",http://www.longplaywine.com/,102,45.2930453,-122.9499648
+121,Burnsini Vineyards,(530) 227-5605,"19535 Hammers Ln, Cottonwood, CA, 96022, USA",https://burnsini.com/,103,40.3539532,-122.3117551
+122,Maysara Winery,(503) 843-1234,"15765 SW Muddy Valley Rd, McMinnville, OR, 97128, USA",https://www.maysara.com/contact,104,45.1481051,-123.307598
+123,Quailhurst Vineyard Estate,,"16031 SW Pleasant Hill Rd, Sherwood, OR, 97140, USA",http://www.quailhurstwines.com/,105,45.33031,-122.841703
+124,Hawkins Cellars WA,(503) 505-4359,"10401 Cook-Underwood Rd, Underwood, WA, 98651, USA",https://hawkinscellars.com/wine-tasting-room-underwood-washington/,106,45.7261215,-121.5816939
+125,Evesham Wood Vineyard,(503) 371-8478,"3795 Wallace Rd NW, Salem, OR, 97304, USA",http://www.eveshamwood.com/,107,44.9888229,-123.090698
+126,Rockgarden Vineyard,,"83893 Winesap Rd, Milton-Freewater, OR, 97862, USA",,108,45.95052389999999,-118.4109106
+127,J. Christopher Wines,(503) 554-9572,"17150 NE Hillside Dr, Newberg, OR, 97132, USA",http://www.jchristopherwines.com/,8,45.340652,-123.014379
+128,Mistletoe Vineyards,(949) 278-9401,"2750 Mistletoe Rd, Dallas, OR, 97338, USA",,109,44.8944392,-123.3074544
+129,Cubanisimo Vineyards,(503) 588-1763,"1754 Best Rd NW, Salem, OR, 97304, USA",http://www.cubanisimovineyards.com/,110,44.959098,-123.132079
+130,Krause Berry Farms & Estate Winery,(604) 856-5757,"6179 248 St, Langley Twp, BC, V4W, Canada",http://www.krauseberryfarms.com/,111,49.1131988,-122.5400874
+131,The Dwelley Vineyard,(509) 525-0625,"3053 Russell Creek Rd, Walla Walla, WA, 99362, USA",http://dwelleyvineyard.com/,112,46.055295,-118.272726
+132,St. Innocent Winery,(503) 378-1526,"10052 Enchanted Way SE, Jefferson, OR, 97352, USA",http://www.stinnocentwine.com/,113,44.81100199999999,-123.023684
+133,VX Vineyard,(503) 537-0799,"8000 NE Parrish Rd, Newberg, OR, 97132, USA",,114,45.27168,-122.934462
+134,Silvara Cellars,(509) 548-1000,"77 Stage Rd, Leavenworth, WA, 98826, USA",https://www.silvarawine.com/,115,47.5759407,-120.6144004
+135,Buddha Kat Winery,(503) 668-3124,"17020 Ruben Ln, Sandy, OR, 97055, USA",http://www.buddhakatwinery.com/,116,45.3998528,-122.2786438
+136,Analemma Wines,(541) 478-2873,"1120 State Rd, Mosier, OR, 97040, USA",http://www.analemmawines.com/,8,45.682534,-121.371914
+137,Resplendor Vineyards,,"3500 NW Bridge Farmer Rd, Gaston, OR, 97119, USA",http://www.resplendorvineyards.com/,117,45.41776249999999,-123.1530906
+138,Chalice Vineyards LLC,(541) 747-7400,"840 Beltline Rd, Springfield, OR, 97477, USA",,118,44.0853622,-123.0395288
+139,The Potter's Vineyard & Clay Art Gallery,(503) 504-3796,"14725 NE Quarry Rd, Newberg, OR, 97132, USA",http://www.pottersvineyard.com/,119,45.322996,-122.9157493
+140,Sweet Earth Vineyards,(541) 914-3592,"24843 Kyle Rd, Monroe, OR, 97456, USA",http://www.sweetearthvineyards.com/,120,44.3135828,-123.3270708
+141,"Wooldridge Creek Vineyard, Winery, Creamery & Charcuterie",(541) 846-6364,"818 Slagle Creek Rd, Grants Pass, OR, 97527, USA",http://www.wcv.farm/,121,42.3056196,-123.2013748
+142,Gillespie Corners,,"Territorial Hwy, Eugene, OR, 97405, USA",,8,43.9102606,-123.2507229
+143,Sass Winery,(503) 391-9991,"9092 Jackson Hill Rd SE, Salem, OR, 97306, USA",http://sasswinery.com/,122,44.823603,-123.026965
+144,Umpqua Valley Wineries,(541) 673-5323,"522 SE Washington Ave, Roseburg, OR, 97470, USA",http://www.umpquavalleywineries.org/,8,43.2113549,-123.3464928
+145,Archery Summit,(503) 714-2030,"18599 NE Archery Summit Rd, Dayton, OR, 97114, USA",https://www.archerysummit.com/,123,45.2582549,-123.0471345
+146,Devium Wine,(541) 310-0317,"1460 F St, Walla Walla, WA, 99362, USA",http://www.deviumwine.com/,8,46.0951908,-118.2609377
+147,Depoe Bay Winery,(541) 765-3311,"22 US-101, Depoe Bay, OR, 97341, USA",http://www.depoebaywinery.com/,124,44.81139899999999,-124.062006
+148,AniChe Cellars,(360) 624-6531,"71 Little Buck Creek Rd, Underwood, WA, 98651, USA",http://anichecellars.com/,125,45.7414861,-121.5555111
+149,Mark Ryan Winery,(509) 876-4577,"26 E Main St, Walla Walla, WA, 99362, USA",https://www.markryanwinery.com/,126,46.066972,-118.3382276
+150,Monroe Hills Wineries,(541) 424-2478,"25059 Larson Rd, Monroe, OR, 97456, USA",https://www.monroehillswineries.wine/,8,44.342758,-123.3663125
+151,Stomp by Croft Vineyards,(503) 364-3085,"5475 River Rd S, Salem, OR, 97302, USA",http://croftvineyards.com/,127,44.87661019999999,-123.1424193
+152,Southern Oregon Wine Institute,(541) 440-7694,"1140 Umpqua College Rd, Roseburg, OR, 97470, USA",https://www.umpqua.edu/sowi,8,43.2911153,-123.3357489
+153,Merveille Vineyards,(541) 459-4572,"8877 Nonpareil Rd, Sutherlin, OR, 97479, USA",https://coveypoint.com/,128,43.4097549,-123.1644194
+154,Pheasant Court Winery,(541) 929-2158,"1731 Pheasant Ct, Philomath, OR, 97370, USA",http://www.pheasantcourtwinery.com/,129,44.5582213,-123.3576376
+155,South Hill Winery,(541) 380-1438,"801 Scoggins Rd Box 235, Underwood, WA, 98651, USA",http://www.southhillvineyards.com/,130,45.7356065,-121.5773393
+156,Mystic Wine,(503) 581-2769,"11931 SE Hood View Rd, Amity, OR, 97101, USA",http://www.mysticwine.com/,8,45.113419,-123.115557
+157,Bieze Vineyards,,"4410 Lone Star Rd NW, Salem, OR, 97304, USA",http://biezevineyard.com/,131,45.0698645,-123.1196283
+158,The Gorge White House,,"2265 OR-35, Hood River, OR, 97031, USA",http://www.thegorgewhitehouse.com/,8,45.6578627,-121.5131223
+159,Country Vines Winery,(604) 274-9610,"13060 Steveston Hwy, Richmond, BC, V6W, Canada",http://www.countryvines.ca/,132,49.13288780000001,-123.0802763
+160,Abbey Creek Winery: The Crick,(503) 389-0619,"31441 NW Commercial St, North Plains, OR, 97133, USA",http://www.abbeycreekvineyard.com/,133,45.5979924,-123.0011991
+161,Henry Estate Winery,(800) 782-2686,"687 Hubbard Creek Rd, Umpqua, OR, 97486, USA",https://www.henryestate.com/,134,43.3652349,-123.4703625
+162,Crowley Wines,(971) 645-3547,"3511 SW Kanan Dr, Portland, OR, 97221, USA",https://crowleywines.com/,8,45.4814169,-122.713349
+163,Don Carlo Vineyard,(509) 540-5784,"6 W Rose St, Walla Walla, WA, 99362, USA",,75,46.0675158,-118.3404913
+164,Vitis Ridge,(503) 873-9800,"6685 Meridian Rd NE, Silverton, OR, 97381, USA",http://www.vitisridge.com/,8,45.0229734,-122.7681971
+165,Five Star Cellars,(509) 527-8400,"840 C St, Walla Walla, WA, 99362, USA",http://www.fivestarcellars.com/,135,46.09240029999999,-118.271031
+166,Abacela Winery,(541) 679-6642,"12500 Lookingglass Rd, Roseburg, OR, 97471, USA",http://www.abacela.com/,136,43.1269652,-123.4474946
+167,De Ponte Cellars,(503) 864-3698,"17545 NE Archery Summit Rd, Dayton, OR, 97114, USA",http://www.depontecellars.com/,137,45.2627146,-123.058269
+168,Rain Dance Vineyards,(503) 538-0197,"3004 NE Zimri Dr, Newberg, OR, 97132, USA",https://www.raindancevineyards.com/,138,45.32202299999999,-122.9487002
+169,Pfeiffer Winery,(541) 234-5197,"590 Pearl St, Eugene, OR, 97401, USA",https://pfeifferwinery.com/,139,44.0535235,-123.0903662
+170,Ayres Vineyard,(503) 538-7450,"17971 NE Lewis Rogers Ln, Newberg, OR, 97132, USA",https://ayresvineyard.com/,140,45.3430918,-123.0713623
+171,WooHoo winery,(360) 875-8186,"45 Old Bullard Rd, Raymond, WA, 98577, USA",https://woohoowinery.com/,8,46.66561909999999,-123.6677695
+172,Copperbelt Vineyard,,"Cook Rd, Baker City, OR, 97814, USA",,141,44.898687,-117.518857
+173,Nysa Vineyard,(503) 538-3604,"18655 NE Trunk Rd, Dundee, OR, 97115, USA",https://www.nysavineyard.com/,142,45.2642835,-123.0471756
+174,Stoltz Winery,(541) 716-1330,"514 State St, Hood River, OR, 97031, USA",http://www.stoltzwinery.com/,143,45.70836239999999,-121.5160277
+175,Brick House Vineyards,(503) 538-5136,"18200 NE Lewis Rogers Ln, Newberg, OR, 97132, USA",http://www.brickhousewines.com/,144,45.349256,-123.070286
+176,Blakeslee Vineyard Estate,(503) 625-6902,"20875 SW Chapman Rd, Sherwood, OR, 97140, USA",http://blakesleevineyard.com/,145,45.3486851,-122.892875
+177,McBeth Vineyards,(541) 343-7002,"85162 McBeth Rd, Eugene, OR, 97405, USA",https://www.mcbethvineyards.com/,146,43.972023,-123.140407
+178,Silver Falls Vineyards,(503) 769-5056,"4972 Cascade Hwy SE, Sublimity, OR, 97385, USA",http://www.silverfallsvineyards.com/,147,44.88228170000001,-122.7969571
+179,Belle Fiore Winery,(541) 552-4900,"100 Belle Fiore Ln, Ashland, OR, 97520, USA",http://www.bellefiorewine.com/,148,42.196248,-122.641272
+180,Spangler Vineyards,(541) 679-9654,"491 Winery Ln, Roseburg, OR, 97471, USA",http://www.spanglervineyards.com/,149,43.1456394,-123.3719272
+181,LS Vineyards,(503) 687-3005,"9675 Hopewell Rd NW, Salem, OR, 97304, USA",,150,45.0738549,-123.0928219
+182,Benton-Lane Winery,(541) 847-5792,"23924 Territorial Rd, Monroe, OR, 97456, USA",http://benton-lane.com/,151,44.2871218,-123.2967974
+183,Arlyn Vineyard,(213) 255-6034,"17325 NE Calkins Ln, Newberg, OR, 97132, USA",http://arlyn.farm/,152,45.3411045,-123.0512606
+184,Walnut Ridge Vineyard,(541) 844-8130,"94739 Turnbow Ln, Junction City, OR, 97448, USA",https://walnutridgevineyard.com/,153,44.23243839999999,-123.3388415
+185,Youngberg Hill Inn & Winery,(503) 472-2727,"10660 SW Youngberg Hill Rd, McMinnville, OR, 97128, USA",https://youngberghill.com/?utm_source=google&utm_medium=GMB,154,45.1902563,-123.290696
+186,BelliVadum Vineyards,,"18420 NE Dopp Rd, Newberg, OR, 97132, USA",https://www.bellivadum.com/,155,45.351812,-123.05677
+187,Loop de Loop Wines,(503) 298-9420,"451 Kramer Rd, Underwood, WA, 98651, USA",http://www.loopdeloopvintner.com/,8,45.7386748,-121.5604728
+188,Iris Vineyards-Wine Bar,(541) 242-6588,"322 Main St, Springfield, OR, 97477, USA",https://www.irisvineyards.com/,79,44.0463577,-123.0216597
+189,Cathedral Ridge Winery,(541) 386-2882,"4200 Post Canyon Dr, Hood River, OR, 97031, USA",http://www.cathedralridgewinery.com/,156,45.7008333,-121.5622222
+190,Knostman Family Winery,(541) 900-1116,"213 Independence Ln, Roseburg, OR, 97471, USA",https://www.knostmanfamilywinery.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=c34803ff-de44-4bb7-b3dc-0d601016904c,157,43.269371,-123.430937
+191,Hauer of the Dauen Winery,(503) 868-7359,"16425 SE Webfoot Rd, Dayton, OR, 97114, USA",,158,45.1406389,-123.0969411
+192,Claygate Estate Vineyard & Tasting Room,(503) 554-9463,"17205 NE Dopp Rd, Newberg, OR, 97132, USA",https://www.claygatevineyard.com/,159,45.34067089999999,-123.0583472
+193,Bridgeview Vineyards Winery,(541) 592-4688,"4210 Holland Loop Rd, Cave Junction, OR, 97523, USA",http://www.bridgeviewwine.com/,160,42.12402199999999,-123.59678
+194,Foundry Vineyards,(509) 529-0736,"1111 Abadie St, Walla Walla, WA, 99362, USA",http://www.foundryvineyards.com/,161,46.0631528,-118.3564694
+195,Knudsen Vineyards,(503) 580-1596,"9419 NE Worden Hill Rd, Dundee, OR, 97115, USA",https://knudsenvineyards.com/?utm_source=GMB%20Web%20Link&utm_medium=Organic&utm_campaign=GMB,162,45.2801789,-123.063368
+196,Monte Ferro Winery,(503) 803-9180,"2240 Prestwick Rd, Lake Oswego, OR, 97034, USA",http://winesbymonteferro.com/,163,45.416418,-122.700471
+197,Celestial Hill Vineyard,(503) 687-5770,"258 N Kutch St Ste A, Carlton, OR, 97111, USA",https://www.celestialhillvineyard.com/,164,45.2952336,-123.1781597
+198,Dunham Cellars,(509) 529-4685,"150 E Boeing Ave, Walla Walla, WA, 99362, USA",http://www.dunhamcellars.com/,165,46.08914259999999,-118.278365
+199,Eminent Domaine,(503) 687-1180,"20875 NE Ribbon Ridge Rd, Newberg, OR, 97132, USA",http://www.eminentdomaine.com/,166,45.368138,-123.0816879
+200,LongSword Vineyard,(541) 899-1746,"8555 OR-238, Jacksonville, OR, 97530, USA",http://www.longswordvineyard.com/,167,42.2329665,-123.0560363
+201,Zimri Cellars,(503) 260-7529,"2016 NE Zimri Dr, Newberg, OR, 97132, USA",https://zimricellars.com/contact,168,45.3191583,-122.9492835
+202,"Stone Wolf Vineyards, LLC",(503) 538-3199,"23145 OR-99W, Dundee, OR, 97115, USA",https://www.greatoregonwine.com/,169,45.2902083,-122.9995339
+203,Domaine Willamette,(971) 545-4200,"19255 OR-99W, Dayton, OR, 97114, USA",https://www.domainewillamette.com/?utm_source=gmb&utm_medium=yext,8,45.2480912,-123.0419207
+204,Et Fille Wines,(503) 538-2900,"718 E 1st St, Newberg, OR, 97132, USA",https://www.etfillewines.com/,170,45.30014,-122.9718513
+205,Montinore Estate,(503) 359-5012,"3663 SW Dilley Rd, Forest Grove, OR, 97116, USA",http://www.montinore.com/,171,45.4926758,-123.1333762
+206,El Corazon Winery,(509) 520-4408,"37 S Palouse St, Walla Walla, WA, 99362, USA",http://www.elcorazonwinery.com/,172,46.0688019,-118.3343316
+207,Teso'aria Vineyard and Winery Annex,(458) 802-3656,"707 Hess Ln, Roseburg, OR, 97471, USA",http://www.tesoaria.com/,173,43.279169,-123.4437359
+208,Siltstone Wines,(971) 241-9365,"OR-18, Dayton, OR, 97114, USA",http://www.siltstonewines.com/,174,45.2092622,-123.112176
+209,Viento Wines,(541) 386-3026,"301 Country Club Rd, Hood River, OR, 97031, USA",http://www.vientowines.com,175,45.7085973,-121.5599758
+210,Failla Wines Oregon,(503) 391-5555,"5659 Zena Rd NW, Salem, OR, 97304, USA",https://www.faillawinesoregon.com/,8,45.0242905,-123.1440303
+211,Springhill Cellars Winery (Open May-December),(541) 928-1009,"2920 NW Scenic Dr, Albany, OR, 97321, USA",http://www.springhillcellars.com/,176,44.67100999999999,-123.146152
+212,ENSO Winery,(503) 683-3676,"1416 SE Stark St, Portland, OR, 97214, USA",http://www.ensowinery.com/,177,45.5191382,-122.6511493
+213,Nemarniki Vineyard & Winery,(971) 235-2364,"21425 SW Aebischer Rd, Sherwood, OR, 97140, USA",https://www.nemarnikivineyard.com/,178,45.364876,-122.908901
+214,Cramoisi Vineyard,(503) 583-1536,"8670 NE Worden Hill Rd, Dundee, OR, 97115, USA",https://www.cramoisivineyard.com/,179,45.280187,-123.036393
+215,Devitt Winery,(541) 899-7511,"11412 OR-238, Jacksonville, OR, 97530, USA",http://www.devittwinery.com/,180,42.2379433,-123.1074168
+216,SummerField Vineyards,(541) 914-2077,"34386 Mathews Rd, Eugene, OR, 97405, USA",http://www.summerfieldvineyards.com/,181,43.987066,-122.99515
+217,Cória Estates,(503) 363-0525,"8252 Redstone Ave SE, Salem, OR, 97306, USA",http://www.coriaestates.com/,182,44.8338589,-123.0471169
+218,Resurgent Vineyard,(541) 938-3070,"81768 S Fork Walla Walla River Rd, Milton-Freewater, OR, 97862, USA",http://www.resurgentvineyard.com/,183,45.8908978,-118.2905819
+219,KINHAVEN Winery & Vineyard,(509) 525-1226,"1050 Merlot Dr, Walla Walla, WA, 99362, USA",http://www.kinhavenwinery.com/,184,46.010943,-118.3449931
+220,Del Rio Vineyards,(541) 855-2062,"52 N River Rd, Gold Hill, OR, 97525, USA",http://www.delriovineyards.com/,185,42.4331703,-123.0917053
+221,Elixir Wine Group,(541) 388-5330,"11 NW Lava Rd, Bend, OR, 97703, USA",http://www.elixirwinegroup.com/,8,44.051694,-121.3143764
+222,Dana Campbell Vineyards,(541) 482-3798,"1320 N Mountain Ave, Ashland, OR, 97520, USA",http://www.danacampbellvineyards.com/,186,42.2173954,-122.6959214
+223,NW Wine Company,(503) 476-0203,"20980 NE Niederberger Rd, Dundee, OR, 97115, USA",http://nwwineco.com/,8,45.26946199999999,-123.021663
+224,Blossom Ridge Vineyard,,"6036 Orchard Heights Rd NW, Salem, OR, 97304, USA",,187,44.96897800000001,-123.150937
+225,Reustle-Prayer Rock Vineyards,(541) 459-6060,"7612 Oak Hill Rd, Roseburg, OR, 97471, USA",http://www.reustlevineyards.com/,188,43.3563246,-123.440306
+226,Pheasant Run Winery & Tasting,(503) 678-3131,"21690 Main St NE, Aurora, OR, 97002, USA",http://pheasantrunwine.com/,189,45.2323887,-122.7557347
+227,Durant at Red Ridge Farms,(503) 864-2000,"5510 NE Breyman Orchards Rd, Dayton, OR, 97114, USA",http://durantoregon.com/,190,45.2562252,-123.0582614
+228,Holloran Vineyard Wines,(971) 720-0632,"8795 NE Worden Hill Rd, Dundee, OR, 97115, USA",http://www.holloranvineyardwines.com/,191,45.272334,-123.0405413
+229,Ribbon Ridge Vineyard,,"14775 NE North Valley Rd, Newberg, OR, 97132, USA",http://www.ribbonridge.com/,192,45.35961559999999,-123.0955775
+230,Lagana Cellars,(509) 876-0001,"16 N 2nd Ave, Walla Walla, WA, 99362, USA",http://www.laganacellars.com/,193,46.0673344,-118.3396627
+231,Stave & Stone Winery (Winery at the Vineyard),(541) 946-3750,"3827 Fletcher Dr, Hood River, OR, 97031, USA",http://staveandstone.com/,14,45.6123291,-121.5485049
+232,Dragon's Vineyard & Wine Company,(541) 847-6132,"26631 Alpine Cut Off Rd, Monroe, OR, 97456, USA",http://www.dragons.wine/,194,44.32837409999999,-123.3051331
+233,Rasa Vineyards,(509) 252-0900,"4122 Powerline Rd, Walla Walla, WA, 99362, USA",http://rasavineyards.com/,195,46.010507,-118.3171553
+234,Amavi Cellars,(509) 525-3541,"3796 Peppers Bridge Rd, Walla Walla, WA, 99362, USA",http://www.amavicellars.com/,196,46.0161547,-118.386097
+235,Twill Cellars,(503) 638-7323,"21775 SW Ribera Ln, West Linn, OR, 97068, USA",http://www.twillcellars.com/,197,45.362353,-122.6864738
+236,Upsidedown Wine,(541) 436-3851,"311 Oak St #2181, Hood River, OR, 97031, USA",,8,45.7086516,-121.5139728
+237,J.K. Carriere - Wine Tastings By Appointment,(503) 554-0721,"9995 NE Parrett Mountain Rd, Newberg, OR, 97132, USA",https://jkcarriere.com/contact/,8,45.2871867,-122.8724372
+238,Anam Cara Cellars,(503) 537-9150,"306 N Main St, Newberg, OR, 97132, USA",http://www.anamcaracellars.com/,198,45.3022333,-122.9789191
+239,Richwine Vineyards,,"15330 Old Hwy 99 S, Myrtle Creek, OR, 97457, USA",,199,43.0629009,-123.365396
+240,Coelho Winery,(503) 835-9305,"111 5th St, Amity, OR, 97101, USA",http://www.coelhowinery.com/,200,45.1152863,-123.2072089
+241,Coopers Hall,(503) 719-7000,"404 SE 6th Ave, Portland, OR, 97214, USA",https://www.coopershall.com/,8,45.51987829999999,-122.6595691
+242,Brigadoon Wine Co,(541) 998-2600,"25167 Ferguson Rd, Junction City, OR, 97448, USA",http://www.brigadoonwineco.com/,201,44.2525999,-123.357339
+243,Rizzo Winery & Tasting Room,(971) 295-4949,"13005 Jerusalem Hill Rd NW, Salem, OR, 97304, USA",http://www.rizzowinery.com/,202,45.088243,-123.105464
+244,Reininger Winery,(509) 522-1994,"5858 Old Hwy 12, Walla Walla, WA, 99362, USA",http://www.reiningerwinery.com/,203,46.0522459,-118.4602725
+245,Willamette Valley Vineyards - Carlton Wine Corner (outdoor tasting),,"103 E Main St, Carlton, OR, 97111, USA",,5,45.2939207,-123.1767456
+246,"Freedom Hill Vineyard, Inc.",(503) 623-4128,"12777 Bursell Rd, Dallas, OR, 97338, USA",http://www.freedomhillvineyard.com/,204,44.874505,-123.2924392
+247,Tyee Wine Cellars,(541) 241-8933,"26335 Greenberry Rd, Corvallis, OR, 97333, USA",http://www.tyeewine.com/,205,44.458417,-123.323498
+248,Marchesi Vineyards & Winery,(541) 386-1800,"3955 Belmont Dr, Hood River, OR, 97031, USA",http://www.marchesivineyards.com/,206,45.6922382,-121.5518853
+249,Les Collines Vineyard,(509) 730-7025,"4137 Hood Rd, Walla Walla, WA, 99362, USA",http://lescollinesvineyard.com/,207,46.0041174,-118.274291
+250,Valcan Cellars wine tasting room and wine shop,(541) 360-3194,"341 SW 2nd St SUITE 3, Corvallis, OR, 97333, USA",http://www.valcancellars.com/,208,44.5612228,-123.2609174
+251,Trium Wines,(541) 625-9100,"203 E Main St, Talent, OR, 97540, USA",http://www.triumwines.com/,8,42.2443258,-122.7884062
+252,Domaine 524 & Prophet Vineyard,(503) 974-6524,"6049 Bethel Heights Rd NW, Salem, OR, 97304, USA",http://www.domaine524.com/,8,45.03888429999999,-123.1578875
+253,Aeolus Vineyards,,"3935 Oak Knoll Rd NW, Salem, OR, 97304, USA",,209,45.04117,-123.112624
+254,Hemmer Vineyards,(503) 862-8138,"13627 NE Kinney Rd, Newberg, OR, 97132, USA",https://hemmervineyards.com/,210,45.3143802,-123.0856744
+255,Blizzard Wines & Vineyard,(503) 334-8832,"29495 SW Burkhalter Rd, Hillsboro, OR, 97123, USA",https://blizzardwines.com/,211,45.461258,-122.9810263
+256,Cristom Vineyards,(503) 375-3068,"6905 Spring Valley Rd NW, Salem, OR, 97304, USA",http://www.cristomvineyards.com/,212,45.034548,-123.120539
+257,Sineann Winery,(503) 341-2698,"8400 Champoeg Rd NE, St Paul, OR, 97137, USA",http://www.sineann.com/,213,45.245624,-122.888048
+258,Hiyu Wine Farm,,"3890 Acree Dr, Hood River, OR, 97031, USA",http://www.hiyuwinefarm.com/,8,45.65741719999999,-121.5510157
+259,Wetherell Vineyards,,"577 Mode Rd, Umpqua, OR, 97486, USA",,214,43.3430589,-123.475413
+260,Terra Vina Wines Vineyard,(503) 925-0712,"33750 SW Ladd Hill Rd, Wilsonville, OR, 97070, USA",http://www.terravinawines.com/,215,45.2772785,-122.855822
+261,Delfino Fine Wines,(541) 981-2663,"3111 Santiam Hwy SE g, Albany, OR, 97322, USA",http://www.delfinofinewines.com/,216,44.63130049999999,-123.0662045
+262,Lodmell Cellars,(509) 525-1285,"6 W Rose St Suite #104, Walla Walla, WA, 99362, USA",http://lodmellcellars.com/,217,46.06784940000001,-118.3409375
+263,JM Cellars,(425) 485-6508,"14404 137th Pl NE, Woodinville, WA, 98072, USA",http://jmcellars.com/,218,47.7317055,-122.155311
+264,August Cellars,(503) 554-6766,"14000 NE Quarry Rd, Newberg, OR, 97132, USA",http://www.augustcellars.com/,219,45.3175,-122.9111111
+265,Deux Soldats (Two Soldiers) Estate Vineyard,(509) 956-9939,"1180 Whiteley Rd, Walla Walla, WA, 99362, USA",https://deuxsoldats.com/about-us/,220,46.014557,-118.3498194
+266,Alexeli Vineyard + Winery,(503) 829-6677,"OR-213, Molalla, OR, 97038, USA",http://www.alexeli.com/,221,45.08982719999999,-122.6678216
+267,Demi Anni Vineyards,(509) 493-2702,"139 Cooke Rd, White Salmon, WA, 98672, USA",,222,45.718808,-121.4044485
+268,àMAURICE Vineyard and Tasting Room,(509) 522-5444,"178 Vineyard Ln, Walla Walla, WA, 99362, USA",http://www.amaurice.com/,223,46.08723070000001,-118.2018023
+269,Antica Terra Winery,(503) 244-1748,"979 SW Alder St, Dundee, OR, 97115, USA",https://www.anticaterra.com/,224,45.2762488,-123.0164412
+270,Civic Winery & Wines,(541) 636-2990,"50 E 11th Ave, Eugene, OR, 97401, USA",http://www.civicwinery.com/,225,44.0474614,-123.0918579
+271,Devona,(509) 540-1884,"700 C St, Walla Walla, WA, 99362, USA",http://www.devona.net/,226,46.0913303,-118.2722275
+272,Cabernet Creek Farms,(541) 308-6220,"4730 London Dr, Mt Hood, OR, 97041, USA",http://www.cabernetcreek.com/,8,45.4909092,-121.584865
+273,Forest Edge Vineyard,(503) 632-9463,"15640 S Spangler Rd, Oregon City, OR, 97045, USA",http://forestedgevineyard.com/,227,45.253782,-122.545516
+274,Apolloni Vineyards,(503) 359-3606,"14135 NW Timmerman Rd, Forest Grove, OR, 97116, USA",http://apolloni.com/,228,45.6219292,-123.2183373
+275,Brooks Wine,(503) 435-1278,"21101 SE Cherry Blossom Ln, Amity, OR, 97101, USA",https://www.brookswine.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb,229,45.1073289,-123.1347991
+276,Tualatin Estate Vineyard,(503) 357-5005,"10850 NW Seavey Rd, Forest Grove, OR, 97116, USA",https://www.wvv.com/Tualatin,230,45.600534,-123.171698
+277,Aurora Colony Vineyards & Winery,(503) 678-3390,"21338 Oak Ln NE, Aurora, OR, 97002, USA",http://www.auroracolonyvineyards.com/,231,45.2295972,-122.7712727
+278,Foon Estate Vineyard,(541) 817-7768,"340 Busenbark Ln, Roseburg, OR, 97471, USA",http://www.foonestatevineyard.com/,232,43.2450036,-123.4219148
+279,Echo Ridge Cellars,(541) 376-8100,"551 N Thielson St, Echo, OR, 97826, USA",https://echoridgecellars.com/,233,45.746533,-119.1963497
+280,Stone Griffon Vineyard,(971) 287-1726,"305 W Main St, Carlton, OR, 97111, USA",http://www.stonegriffonvineyard.com/,234,45.29447070000001,-123.1788045
+281,Schmidt Family Vineyards,(541) 846-9985,"330 Kubli Rd, Grants Pass, OR, 97527, USA",http://www.sfvineyards.com/,235,42.31570749999999,-123.2400702
+282,Woodhall III Vineyards,(541) 424-2265,"25944 Green Peak Rd, Monroe, OR, 97456, USA",,236,44.3390076,-123.407949
+283,Seven Hills Winery,(509) 529-7198,"212 N 3rd Ave, Walla Walla, WA, 99362, USA",https://www.sevenhillswinery.com/,237,46.0685635,-118.3423437
+284,Locati Cellars,(509) 529-5871,"6 W Rose St, Walla Walla, WA, 99362, USA",http://www.locaticellars.com/,238,46.0677004,-118.3403734
+285,Lichtenwalter Vineyard,,,https://lichtenwalterwine.com/,239,45.346823,-123.0745607
+286,Gemini Vineyards,(503) 575-9040,"21133 SW Lebeau Rd, Sherwood, OR, 97140, USA",http://www.geminivineyard.com/,240,45.384192,-122.900126
+287,Hudak House,(503) 714-3810,"5737 Orchard Heights Rd NW, Salem, OR, 97304, USA",http://www.hudakhouse.com/,8,44.9696864,-123.1474613
+288,"Lachini Tasting Room ~ Woodinville, WA",(425) 489-9917,"14455 Redmond - Woodinville Rd NE Suite A, Woodinville, WA, 98072, USA",http://www.lachinivineyards.com/,241,47.731443,-122.1419907
+289,Winderlea Vineyard & Winery,(503) 554-5900,"8905 NE Worden Hill Rd, Dundee, OR, 97115, USA",http://www.winderlea.com/,242,45.2790245,-123.0430755
+290,Redhawk Vineyard & Winery,(503) 362-1596,"2995 Michigan City Ln NW, Salem, OR, 97304, USA",http://www.redhawkwine.com/,243,44.98760459999999,-123.0915727
+291,Stangeland Vineyards & Winery,(503) 581-0355,"8500 Hopewell Rd NW, Salem, OR, 97304, USA",https://www.stangelandvineyards.com/,244,45.057554,-123.0856069
+292,Maragas Winery,(541) 546-5464,"15523 US-97, Culver, OR, 97734, USA",http://www.maragaswinery.com/,245,44.411645,-121.1966535
+293,Prairie Mountain Wineries,(541) 998-8141,"25040 Jaeg Rd, Junction City, OR, 97448, USA",http://www.prairiemountainwineries.com/#!contact/c24vq,8,44.2370092,-123.3641519
+294,Owen Roe,(509) 877-0454,"309 Gangl Rd, Wapato, WA, 98951, USA",http://www.owenroe.com/,246,46.5191572,-120.4461433
+295,"Blue Heron Vineyards, LLC",,"3440 Garden Valley Rd, Roseburg, OR, 97471, USA",http://www.bhvin.com/,247,43.2506976,-123.3986973
+296,Oregon Wine LAB,(458) 201-7413,"488 Lincoln St, Eugene, OR, 97401, USA",http://www.oregonwinelab.com/,8,44.05460069999999,-123.097572
+297,Abiqua Wind Vineyard,(503) 874-9818,"19822 McKillop Rd, Scotts Mills, OR, 97375, USA",http://www.abiquawind.com/,248,45.0068924,-122.6519294
+298,Sophie's Vineyard,,"5890 Boswell Rd, Yoncalla, OR, 97499, USA",http://www.vinderella.com/,249,43.6489612,-123.2246619
+299,Beckham Estate Vineyard- Tasting by appointment,(971) 645-3466,"30790 SW Heater Rd, Sherwood, OR, 97140, USA",http://www.beckhamestatevineyard.com/,250,45.296646,-122.8604949
+300,Hawks View Winery,(503) 625-1591,"20210 SW Conzelmann Rd, Sherwood, OR, 97140, USA",http://www.hawksviewwinery.com/,251,45.3740385,-122.8836606
+301,Argyle Winery,(503) 538-8520,"691 OR-99W, Dundee, OR, 97115, USA",http://argylewinery.com/,252,45.2777804,-123.0105677
+302,L'Angolo Estate,(503) 538-7953,"18830 NE Williamson Rd, Newberg, OR, 97132, USA",http://www.langoloestate.com/,253,45.3076423,-123.0497406
+303,Hazelfern,(503) 348-1740,"4008 NE Zimri Dr, Newberg, OR, 97132, USA",http://www.hazelfern.com/,8,45.3294024,-122.9487838
+304,The Horse Radish,(503) 852-6656,"119 W Main St, Carlton, OR, 97111, USA",http://www.thehorseradish.com/,8,45.2944378,-123.177438
+305,Marshall Davis Wine,(503) 852-3086,"125 W Main St, Carlton, OR, 97111, USA",http://marshalldaviswine.com/,254,45.29430379999999,-123.1775415
+306,Smockshop Band Winery,(541) 436-4680,"3890 Acree Dr, Hood River, OR, 97031, USA",,255,45.65748989999999,-121.5517117
+307,"Artisanal Wine Cellars, Newberg, OR",(503) 537-2094,"614 E 1st St, Newberg, OR, 97132, USA",http://www.artisanalwinecellars.com/,256,45.30008979999999,-122.9731879
+308,JosephJane Winery,,"155 Lower Garden Valley Rd, Roseburg, OR, 97471, USA",http://josephjanewinery.com/,257,43.3006163,-123.4516365
+309,Westrey Wine Company,(503) 434-6357,"1065 NE Alpine Ave, McMinnville, OR, 97128, USA",http://westrey.com/,258,45.2152632,-123.1876709
+310,St Josef's Winery,(503) 651-3190,"28836 S Barlow Rd, Canby, OR, 97013, USA",http://www.stjosefswinery.com/,259,45.1898672,-122.7202747
+311,The Inn at Abeja,(509) 522-1234,"2014 Mill Creek Rd, Walla Walla, WA, 99362, USA",http://www.abeja.net/,8,46.088385,-118.2258423
+312,Fox Farm Vineyards,(503) 538-8466,"575 OR-99W, Dundee, OR, 97115, USA",http://www.foxfarmvineyards.com/,260,45.2787803,-123.0098752
+313,Kramer Vineyards,(503) 662-4545,"26830 NW Olson Rd, Gaston, OR, 97119, USA",http://www.kramervineyards.com/,261,45.40991499999999,-123.169763
+314,Gorge On Wines,(541) 716-1091,"111 2nd St #300, Hood River, OR, 97031, USA",https://gorgeonwines.com/,8,45.70903930000001,-121.5120539
+315,Garrison Creek Cellars,(509) 525-7377,"4153 Hood Rd, Walla Walla, WA, 99362, USA",http://www.garrisoncreekcellars.com/,262,46.0064466,-118.2754423
+316,Capitello Wines,(541) 520-3092,"540 Charnelton St, Eugene, OR, 97401, USA",http://www.capitellowines.com/,263,44.0538835,-123.0960345
+317,Cliff Creek Cellars & Sams Valley Vineyard,(541) 855-5330,"1015 McDonough Rd, Gold Hill, OR, 97525, USA",http://cliffcreek.com/,264,42.501916,-122.976914
+318,Natalie's Estate Winery,(503) 807-5008,"16825 NE Chehalem Dr, Newberg, OR, 97132, USA",http://www.nataliesestatewinery.com/,265,45.33957999999999,-122.995384
+319,Stark Vineyard,,"33902 SW Ladd Hill Rd, Wilsonville, OR, 97070, USA",,266,45.276291,-122.853799
+320,Miller's Vineyard,,"1420 70th Ave SE, Salem, OR, 97317, USA",,267,44.9117481,-122.9168774
+321,High Pass Winery,(541) 998-1447,"24757 Lavell Rd, Junction City, OR, 97448, USA",http://www.highpasswinery.com/,268,44.22381180000001,-123.3734926
+322,Mad Violets Wine Co.,(503) 487-7692,"17429 NE Hillside Dr, Newberg, OR, 97132, USA",http://madvioletswineco.com/,8,45.3432948,-123.0178854
+323,Don Carlo Vineyard,(509) 540-5784,"52874 County Rd, Milton-Freewater, OR, 97862, USA",,75,45.95000569999999,-118.4262853
+324,Fullerton Wines,(503) 477-7848,"1966 NW Pettygrove St, Portland, OR, 97209, USA",https://www.fullertonwines.com/,269,45.5326737,-122.6919956
+325,Paschal Winery and Vineyard,(541) 535-7957,"1122 Suncrest Rd, Talent, OR, 97540, USA",http://www.paschalwinery.com/,270,42.2533405,-122.775692
+326,Noble Estate Winery,(541) 338-3007,"560 Commercial St Unit F, Eugene, OR, 97402, USA",https://nobleestatewinery.com/about/,271,44.0534966,-123.1676695
+327,ROCO Winery,(503) 538-7625,"13260 NE Red Hills Rd, Newberg, OR, 97132, USA",http://rocowinery.com/,272,45.3124975,-123.0164376
+328,Tumwater Vineyard,(503) 454-0208,"375 SW Barrel House Wy, West Linn, OR, 97068, USA",http://tumwatervineyard.com/,273,45.3349294,-122.6793569
+329,Greyhorse Vineyard,(503) 474-2517,"4451 NW Hill Rd, McMinnville, OR, 97128, USA",http://greyhorsevineyard.com/,274,45.248803,-123.233355
+330,Sidereus Vineyard & Winery,(503) 992-1196,"5195 SW Hergert Rd, Cornelius, OR, 97113, USA",https://www.sidereuswinery.com/,275,45.48297089999999,-123.0768525
+331,Watermill Winery,(541) 938-5575,"235 E Broadway Ave #1807, Milton-Freewater, OR, 97862, USA",http://www.watermillwinery.com/,276,45.9379787,-118.391477
+332,Poco Vineyards,,"20465 SE Poco Ln, Amity, OR, 97101, USA",https://pocovineyards.business.site/,277,45.111724,-123.138839
+333,Bethel Heights Vineyard,(503) 581-2262,"6060 Bethel Heights Rd NW, Salem, OR, 97304, USA",http://www.bethelheights.com/,278,45.037171,-123.152666
+334,Sokol Blosser Winery,(503) 864-2282,"5000 NE Sokol Blosser Ln, Dayton, OR, 97114, USA",http://sokolblosser.com/,279,45.2517024,-123.0496769
+335,Cornucopia Vineyards Ltd,(503) 852-7788,"12020 NE Stag Hollow Rd, Carlton, OR, 97111, USA",,280,45.3022132,-123.1330157
+336,12 Ranch Wines,(541) 545-1204,"4550 Burgdorf Rd, Bonanza, OR, 97623, USA",http://www.12ranchwines.com/,8,42.1851119,-121.462801
+337,Cricket Hill Winery,(541) 899-7264,"2131 Little Applegate Rd, Jacksonville, OR, 97530, USA",http://www.crickethillwinery.com/,281,42.182804,-123.010557
+338,Pudding River Wine Cellars,(503) 365-0391,"9374 Sunnyview Rd NE, Salem, OR, 97317, USA",http://puddingriver.com/,282,44.95783319999999,-122.8684826
+339,Roserock Vineyard,,"4350 Gibson Rd NW, Salem, OR, 97304, USA",,283,44.9842044,-123.117956
+340,Pete's Mountain Vineyard and Winery,(503) 656-2130,"28101 SW Petes Mountain Rd, West Linn, OR, 97068, USA",http://www.petesmountainvineyard.com/,284,45.31652699999999,-122.679991
+341,Chateau Nonchalant Vineyard,(541) 679-2394,"1329 Larson Rd, Roseburg, OR, 97471, USA",http://www.chateaunonchalantvineyards.com/,285,43.15674780000001,-123.5306094
+342,Eola Hills Wine Cellars,(503) 623-2405,"501 S Pacific Hwy W, Rickreall, OR, 97371, USA",https://eolahillswinery.com/,286,44.9266499,-123.2293178
+343,Benedetto Vineyards,(971) 301-2807,"14020 Orchard Knob Rd, Dallas, OR, 97338, USA",http://www.benedettovineyards.com/,287,44.9508342,-123.3170928
+344,Andante Vineyard,(971) 273-3872,"3855 Morris Rd, Dallas, OR, 97338, USA",https://andantevineyard.com/,288,44.9899746,-123.2723332
+345,Zenith Vineyard,(503) 932-3540,"5657 Zena Rd NW, Salem, OR, 97304, USA",http://www.zenithvineyard.com/,289,45.0241135,-123.1439069
+346,Arborbrook by Cooper Mountain Vineyards,(503) 538-0959,"17770 NE Calkins Ln, Newberg, OR, 97132, USA",http://www.arborbrookwines.com/,290,45.3445125,-123.0479938
+347,Abbey Creek: The Crick PDX,(503) 389-0619,"912 SW Morrison St, Portland, OR, 97205, USA",http://www.abbeycreekvineyard.com/,133,45.51972889999999,-122.6815531
+348,J.L. Kiff Vineyard,(971) 237-6745,"13546 NW Willis Rd, McMinnville, OR, 97128, USA",http://www.jlkiffvineyard.com/,291,45.250075,-123.243255
+349,Coeur De Terre Vineyard,(503) 883-4111,"21000 SW Eagle Point Rd, McMinnville, OR, 97128, USA",http://cdtvineyard.com/,292,45.1805222,-123.3314922
+350,LaShelle Wines,(425) 298-3415,"19501 144th Ave NE C700, Woodinville, WA, 98072, USA",https://lashellewines.com/,8,47.7693523,-122.1502683
+351,Lady Hill Winery,(503) 678-1240,"8400 Champoeg Rd NE, St Paul, OR, 97137, USA",http://ladyhill.com/,293,45.2456244,-122.8880483
+352,Slagle Creek Vineyards,(541) 450-2692,"8555 OR-238, Jacksonville, OR, 97530, USA",,294,42.23299669999999,-123.0559789
+353,Carabella Vineyard,(503) 925-0972,"16707 SW Edminston Rd, Wilsonville, OR, 97070, USA",http://www.carabellawine.com/,295,45.2878696,-122.8473959
+354,Olsen Run Winery,(541) 583-0572,"32900 Diamond Hill Rd, Harrisburg, OR, 97446, USA",https://olsenrun.com/,296,44.2797574,-123.0635493
+355,Soter Vineyards Tasting Room,(503) 662-5600,"10880 NE Mineral Springs Rd, Carlton, OR, 97111, USA",http://www.sotervineyards.com/,297,45.29535239999999,-123.1348772
+356,Bracken Vineyard,(707) 540-1847,"5887 Orchard Heights Rd NW, Salem, OR, 97304, USA",http://www.perkinsharter.com/,298,44.9811398,-123.1525208
+357,Three Rivers Winery,(509) 526-9463,"5641 US-12, Walla Walla, WA, 99362, USA",http://www.threeriverswinery.com/,299,46.0504766,-118.457516
+358,Ferraro Cellar,(503) 758-0557,"8400 Champoeg Rd NE, St Paul, OR, 97137, USA",http://ferrarocellar.com/,300,45.2456244,-122.8880483
+359,Airlie Winery,(503) 838-6013,"15305 Dunn Forest Rd, Monmouth, OR, 97361, USA",http://www.airliewinery.com/,301,44.7276144,-123.3445028
+360,Croft Vineyards,(503) 364-3085,"5475 River Rd S, Salem, OR, 97302, USA",http://croftvineyards.com/,127,44.87651899999999,-123.1423833
+361,Gran Moraine Winery,(503) 662-5454,"17090 NE Woodland Loop Rd, Yamhill, OR, 97148, USA",http://www.granmoraine.com/,302,45.3378954,-123.133961
+362,The Carlton Winemakers Studio,(503) 852-6100,"801 N Scott St, Carlton, OR, 97111, USA",http://www.winemakersstudio.com/,8,45.30019859999999,-123.18258
+363,Remy Wines Tasting Room,(503) 864-8777,"17495 NE McDougall Rd, Dayton, OR, 97114, USA",https://remywines.com/,303,45.2427378,-123.0580027
+364,Garnier Vineyards,(541) 478-2217,"8467 Highway 30 West, Mosier, OR, 97040, USA",http://www.garniervineyards.com/,304,45.69001129999999,-121.3766698
+365,David Hamilton Winery,(541) 932-4567,"191 W Main St, Mt Vernon, OR, 97865, USA",https://davidhamiltonwinery.com/,305,44.4175946,-119.1137732
+366,Erath Winery Tasting Room,(503) 538-3318,"1439 NW Marshall St, Portland, OR, 97209, USA",https://www.erath.com/,306,45.5308628,-122.6863239
+367,Hood Crest Winery and Distillers,(541) 716-0140,"1900 Orchard Rd, Hood River, OR, 97031, USA",http://www.hoodcrestwinery.com/,307,45.66870350000001,-121.5429986
+368,Alexana Winery,(503) 537-3100,"12001 NE Worden Hill Rd, Newberg, OR, 97132, USA",http://www.alexanawinery.com/,308,45.3023854,-123.0743735
+369,Raptor Ridge Winery,(503) 628-8463,"18700 SW Hillsboro Hwy, Newberg, OR, 97132, USA",https://www.raptorridgewinery.com/,309,45.3852286,-122.9492007
+370,Kristin Hill Winery,(503) 502-4463,"3336 SE Amity Dayton Hwy, Amity, OR, 97101, USA",http://www.kristinhillwinery.com/,310,45.13447959999999,-123.2060904
+371,Willow Wine Cellars,(541) 400-8613,"10481 Cook-Underwood Rd, Underwood, WA, 98651, USA",http://willowwinecellars.com/,311,45.7250677,-121.5806291
+372,Trust Cellars,(509) 301-5847,"760 C St, Walla Walla, WA, 99362, USA",http://www.trustcellars.com/,312,46.0918968,-118.271548
+373,Seufert Winery Tasting Room,(503) 864-2946,"303 Main St #1B, Dayton, OR, 97114, USA",http://www.seufertwinery.com/,313,45.2215923,-123.0769483
+374,Terra Vina Wines Tasting Room,(503) 474-6777,"585 NE 3rd St, McMinnville, OR, 97128, USA",http://www.terravinawines.com/,8,45.210138,-123.1935137
+375,Walla Walla Vintners,(509) 525-4724,"225 Vineyard Ln, Walla Walla, WA, 99362, USA",http://www.wallawallavintners.com/,8,46.088215,-118.20394
+376,Castillo de Feliciana Vineyard and Winery,(541) 558-3656,"85728 Telephone Pole Rd, Milton-Freewater, OR, 97862, USA",http://castillodefeliciana.com/,8,45.9989441,-118.3672369
+377,Eugene Wine Cellars,(541) 342-2600,"255 Madison St, Eugene, OR, 97402, USA",https://www.eugenewinecellars.com/,314,44.0569949,-123.1031308
+378,Alloro Vineyard,(503) 625-1978,"22185 SW Lebeau Rd, Sherwood, OR, 97140, USA",https://www.allorovineyard.com/,315,45.3719357,-122.9104019
+379,Pebblestone Cellars,(541) 512-1655,"1670 Pioneer Rd, Talent, OR, 97540, USA",http://www.pebblestonecellars.wine/,316,42.2610851,-122.824971
+380,Walter Scott Wines,(971) 209-7786,"6130 Bethel Heights Rd NW, Salem, OR, 97304, USA",https://www.walterscottwines.com/,317,45.033815,-123.151444
+381,Lumos Wine Co.,(541) 929-3519,"845 NE 5th St, McMinnville, OR, 97128, USA",http://www.lumoswine.com/,318,45.21157729999999,-123.1901348
+382,Chehalem Winery Tasting Room & Wine Bar,(503) 538-4700,"106 S Center St, Newberg, OR, 97132, USA",https://www.chehalemwines.com/,38,45.299895,-122.969343
+383,Purple Cow Vineyards Winery,(971) 259-8269,"3336 SE Amity Dayton Hwy, Amity, OR, 97101, USA",http://www.purplecowvineyards.com/,319,45.13447959999999,-123.2060904
+384,Björnson Vineyard,(503) 687-3016,"3635 Bethel Heights Rd NW, Salem, OR, 97304, USA",https://bjornsonwine.com/,320,45.058595,-123.1054435
+385,Six Peaks Winery,(503) 341-3618,"19495 SW Vista Hill Dr, Hillsboro, OR, 97123, USA",http://www.sixpeakswine.com/,321,45.3940333,-123.0371389
+386,Lundeen Wines,(503) 472-3215,"475 NE 17th St, McMinnville, OR, 97128, USA",http://www.lundeenwines.com/,322,45.2202293,-123.1948645
+387,Red Ridges Vineyard,(541) 849-3122,"11937 Elkhead Rd, Oakland, OR, 97462, USA",,323,43.53892099999999,-123.211883
+388,Evening Land - Seven Springs Vineyard,(503) 538-4110,"4180 Lone Star Rd NW, Salem, OR, 97304, USA",https://elvwines.com/,324,45.0687832,-123.1137591
+389,Sarver Winery,(541) 935-2979,"25600 Mayola Ln, Eugene, OR, 97402, USA",http://www.sarverwinery.com/,325,44.0104627,-123.3320229
+390,Rosella's Vineyard & Winery And Home Of SPRETZELS,(541) 846-6372,"184 Missouri Flat Rd, Grants Pass, OR, 97527, USA",http://www.rosellasvineyard.com/,326,42.3164848,-123.2352547
+391,Durant Olive Mill,(503) 864-2000,"5700 NE Breyman Orchards Rd, Dayton, OR, 97114, USA",http://durantoregon.com/,190,45.2566361,-123.0590346
+392,Canoe Ridge Vineyard Tasting Room,(509) 525-1843,"45 E Main St, Walla Walla, WA, 99362, USA",http://www.canoeridgevineyard.com/,327,46.0676647,-118.3381224
+393,Nicholas Family Vineyards,,"9380 NE Worden Hill Rd, Dundee, OR, 97115, USA",,328,45.2846205,-123.0545932
+394,Pike Road Wines,(503) 852-3185,"701 NE 3rd St, McMinnville, OR, 97128, USA",https://www.pikeroadwines.com/About,329,45.2101607,-123.1918213
+395,Foris Vineyards,(541) 592-3752,"654 Kendall Rd, Cave Junction, OR, 97523, USA",http://www.foriswine.com/,330,42.118373,-123.550604
+396,Utopia Vineyards,(503) 687-1671,"17445 NE Ribbon Ridge Rd, Newberg, OR, 97132, USA",http://www.utopiawine.com/,331,45.34209799999999,-123.0800474
+397,Force Majeure Vineyards,(541) 833-3051,"52274 Pleasant View Rd, Milton-Freewater, OR, 97862, USA",http://www.forcemajeurevineyards.com/,332,45.9617933,-118.4452343
+398,Sno Road Winery,(541) 376-0421,"111 W Main St, Echo, OR, 97826, USA",http://www.snoroadwinery.com/,333,45.74255769999999,-119.1968165
+399,Houston Vineyards Inc,(541) 747-4681,"86187 Hoya Ln, Eugene, OR, 97405, USA",https://www.houstonvineyards.com/,334,44.0048714,-122.9884298
+400,Cerulean Wine,(503) 308-9137,"304 Oak St, Hood River, OR, 97031, USA",http://www.ceruleanwine.com/,8,45.70906069999999,-121.5136455
+401,Quady North,(541) 702-2123,"9800 OR-238, Jacksonville, OR, 97530, USA",http://quadynorth.com/,335,42.2414666,-123.0745101
+402,Amaranth RIdge Vineyard,,,http://amaranthridge.com/,336,43.4674943,-123.196398
+403,John Michael Champagne Cellars,,"1425 Humbug Creek Rd, Jacksonville, OR, 97530, USA",,337,42.2684387,-123.1394642
+404,Sailor Vineyard,(503) 781-0225,"5525 Mill Creek Rd, The Dalles, OR, 97058, USA",https://www.sailorwinery.com/,338,45.573403,-121.2608319
+405,Evening Land Vineyards,(503) 538-4110,"1326 OR-99W # 100, Dundee, OR, 97115, USA",http://www.eveninglandvineyards.com/,339,45.2724729,-123.0161062
+406,Northstar Winery,(509) 525-6100,"1736 J B George Rd, Walla Walla, WA, 99362, USA",http://www.northstarwinery.com/,340,46.0121642,-118.3645695
+407,Red Lily Vineyards,(541) 846-6800,"11777 OR-238, Jacksonville, OR, 97530, USA",https://redlilyvineyards.com/,341,42.2384124,-123.1153793
+408,Maison Bleue Winery,(509) 525-9084,"20N N 2nd Ave, Walla Walla, WA, 99362, USA",https://www.maisonbleuewinery.com/?utm_source=gmb&utm_medium=yext,342,46.0674441,-118.3398067
+409,Villa Trio,(503) 376-7150,"16225 NE Wilkerson Way, Newberg, OR, 97132, USA",http://villatrio.com/,8,45.33344919999999,-122.9585673
+410,Stag's Hollow Winery,(250) 497-6162,"2237 Sun Valley Way, Okanagan Falls, BC, V0H, Canada",http://www.stagshollowwinery.com/,343,49.3206881,-119.55462
+411,Domaine Serene Winery,(503) 864-4600,"6555 NE Hilltop Ln, Dayton, OR, 97114, USA",http://domaineserene.com/,344,45.2704073,-123.0685637
+412,McKinlay Vineyards,,"7120 NE Earlwood Rd, Newberg, OR, 97132, USA",,345,45.267537,-122.867312
+413,Dusted Valley Tasting Room Walla Walla,(509) 525-1337,"1248 Old Milton Hwy, Walla Walla, WA, 99362, USA",http://dustedvalley.com/,8,46.0243322,-118.3512597
+414,de Lancellotti Estate Tasting House,(503) 804-3352,"18409 NE Calkins Ln #6505, Newberg, OR, 97132, USA",http://www.delancellottifamilyvineyards.com/,346,45.34979979999999,-123.0495295
+415,Pepper Bridge Winery,(509) 525-6502,"1704 J B George Rd, Walla Walla, WA, 99362, USA",http://www.pepperbridge.com/,347,46.01271999999999,-118.370401
+416,DANCIN Vineyards,(541) 245-1133,"4477 S Stage Rd, Medford, OR, 97501, USA",https://www.dancin.com/,348,42.304285,-122.945455
+417,Spring Valley Vineyard Tasting Room,(509) 525-1506,"2 E Rose St, Walla Walla, WA, 99362, USA",https://www.springvalleyvineyard.com/,18,46.067392,-118.339795
+418,Hillcrest Winery,(541) 673-3709,"240 Vineyard Ln, Roseburg, OR, 97471, USA",http://www.hillcrestvineyard.com/,349,43.270681,-123.4980038
+419,Stag Hollow Wines - by appointment,(503) 662-5609,"7930 NE Blackburn Rd, Yamhill, OR, 97148, USA",https://staghollow.com/,8,45.3246331,-123.1528034
+420,Spire Mountain Cellars,(541) 580-1999,"774 Hidden Meadows Ln, Oakland, OR, 97462, USA",http://spiremountaincellars.com/,350,43.3989786,-123.4545027
+421,Yellowhawk Resort and Sparkling House,(509) 522-0200,"2901 Old Milton Hwy, Walla Walla, WA, 99362, USA",http://www.yellowhawkresort.com/,8,46.0176661,-118.395933
+422,Woven Wineworks Tasting Room,(503) 307-4800,"614 SW Dakota St, Portland, OR, 97239, USA",http://www.wovenwineworks.com/,8,45.4777784,-122.672637
+423,Andrew Rich Wines,(503) 852-6100,"801 N Scott St, Carlton, OR, 97111, USA",http://andrewrichwines.com/,351,45.300025,-123.182698
+424,DAnu Tasting Room & Wine Bar Hillsboro,(503) 746-4773,"173 NE 3rd Ave Suite #107, Hillsboro, OR, 97124, USA",https://danuwines.com/,8,45.5236908,-122.9867704
+425,Paul O'Brien Winery,(541) 673-2280,"609 SE Pine St, Roseburg, OR, 97470, USA",http://www.paulobrienwines.com/,352,43.209336,-123.3466343
+426,Grosgrain Vineyards,(509) 876-4045,"2158 Half Acre Ln, Walla Walla, WA, 99362, USA",http://grosgrainvineyards.com/,353,46.02515220000001,-118.3906377
+427,LaVelle Vineyards,(541) 935-9406,"89697 Sheffler Rd, Elmira, OR, 97437, USA",https://www.lavellevineyards.com/,354,44.0929459,-123.3705393
+428,Purple Hands Winery and Urban Tasting Room,(503) 538-9095,"1200 OR-99W, Dundee, OR, 97115, USA",http://www.purplehandswine.com/,355,45.2736648,-123.0149788
+429,Troon Vineyard,(541) 846-9900,"1475 Kubli Rd, Grants Pass, OR, 97527, USA",http://www.troonvineyard.com/,74,42.305454,-123.2205078
+430,Va Piano Vineyards Tasting Room,(541) 797-6363,"425 SW Powerhouse Dr #301, Bend, OR, 97702, USA",http://vapianovineyards.com/,54,44.0457169,-121.3157951
+431,Van Duzer Vineyards,(800) 884-1927,"11975 Smithfield Rd, Dallas, OR, 97338, USA",http://www.vanduzer.com/,356,44.98580250000001,-123.2786768
+432,La Dolce Vita Vineyards,(503) 902-6553,"6505 SW Old Highway 47, Gaston, OR, 97119, USA",http://www.ladolcevitavineyards.com/,357,45.4738341,-123.1423017
+433,Panther Creek Cellars,(425) 892-2153,"14455 Redmond - Woodinville Rd NE Suite B, Woodinville, WA, 98072, USA",http://www.panthercreekcellars.com/,358,47.7314361,-122.1421813
+434,Canoe Ridge Vineyard,,"1116 W Cherry St, Walla Walla, WA, 99362, USA",,327,46.0676174,-118.3573237
+435,The Eyrie Vineyards,(503) 472-6315,"935 NE 10th Ave, McMinnville, OR, 97128, USA",http://www.eyrievineyards.com/,359,45.214049,-123.1878306
+436,Ardiri Winery and Vineyards,(510) 421-2279,"35040 SW Unger Rd, Cornelius, OR, 97113, USA",http://ardiriwine.com/,360,45.4470814,-123.036578
+437,Paradis Vineyards,(503) 873-9463,"17627 Abiqua Rd NE, Silverton, OR, 97381, USA",http://paradiswine.com/,361,45.0196058,-122.701045
+438,Anderson Family Vineyard,(503) 554-5541,"20120 NE Herring Ln, Newberg, OR, 97132, USA",https://www.andersonfamilyvineyard.com/,362,45.307989,-123.030099
+439,House of Smith Jet City Winery,(206) 745-7456,"1136 S Albro Pl, Seattle, WA, 98108, USA",https://houseofsmith.com/visit-us/#JC,8,47.5463221,-122.3169222
+440,Daisy Creek Vineyard,(541) 899-8329,"675 Shafer Ln, Jacksonville, OR, 97530, USA",http://www.daisycreekwine.com/,363,42.320584,-122.95276
+441,La Chouette Vineyard,(503) 990-4974,"189 Ankeny Hill Rd SE A, Jefferson, OR, 97352, USA",http://www.lachouettevineyard.com/,364,44.7958568,-123.0618305
+442,Torii Mor Winery,(425) 908-7111,"14525 148th Ave NE Suite 114, Woodinville, WA, 98072, USA",http://www.toriimorwinery.com/,50,47.7336617,-122.1425173
+443,Plaisance Ranch,(541) 846-7175,"16955 Water Gap Rd, Williams, OR, 97544, USA",http://www.plaisanceranch.com/,365,42.24195460000001,-123.2720098
+444,Alpine Vineyards,(541) 424-5851,"25904 Green Peak Rd, Monroe, OR, 97456, USA",,366,44.339433,-123.4036648
+445,Pinot Vista Tasting Lounge,(503) 474-6361,"448 NE 3rd St, McMinnville, OR, 97128, USA",https://www.pinotvistavineyards.com/?gmaps,367,45.20981,-123.194719
+446,Redgate Winery,(503) 428-7115,"8175 Buena Vista Rd, Independence, OR, 97351, USA",http://redgatevineyard.com/,368,44.81533,-123.158737
+447,Freja Cellars,(503) 628-0337,"16691 SW McFee Pl, Hillsboro, OR, 97123, USA",http://www.frejacellars.com/,369,45.4002287,-123.0191681
+448,Teutonic Wine Company,(503) 235-5053,"3303 SE 20th Ave, Portland, OR, 97202, USA",https://teutonicwines.com/,8,45.4991123,-122.6459046
+449,Syncline Winery,(509) 365-4361,"111 Balch Rd, Lyle, WA, 98635, USA",http://www.synclinewine.com/,370,45.71811499999999,-121.3319
+450,Durant Vineyards Tasting Room,(503) 864-2000,"5430 NE Breyman Orchards Rd, Dayton, OR, 97114, USA",http://durantoregon.com/,190,45.256041,-123.056529
+451,Bryn Mawr Vineyards,(503) 581-4286,"5935 Bethel Heights Rd NW, Salem, OR, 97304, USA",http://www.brynmawrvineyards.com/,371,45.04542069999999,-123.1560137
+452,Sunshine Mill,(541) 978-9588,"901 E 2nd St, The Dalles, OR, 97058, USA",http://www.sunshinemill.com/,8,45.59713759999999,-121.1714856
+453,Le Cadeau Tasting Room,(503) 625-2777,"1326 OR-99W Suite 101, Dundee, OR, 97115, USA",http://www.lecadeauvineyard.com/,372,45.2725028,-123.0161155
+454,Treveri Cellars,(509) 877-0925,"71 Gangl Rd, Wapato, WA, 98951, USA",http://www.trevericellars.com/,373,46.51239309999999,-120.4494989
+455,Anahata Vineyard,,"5900 Zena Rd NW, Salem, OR, 97304, USA",https://www.atthejoy.com/anahata-vineyard,374,45.028619,-123.1549271
+456,Phelps Creek Signature Tasting on the Vineyard,(541) 399-7928,"1808 Country Club Rd, Hood River, OR, 97031, USA",https://www.phelpscreekvineyards.com/winecountryexperiences,92,45.6777516,-121.5923023
+457,Kriselle Cellars,(541) 830-8466,"12956 Modoc Rd, White City, OR, 97503, USA",http://www.krisellecellars.com/,375,42.49640569999999,-122.8628295
+458,Furioso Vineyards,(844) 387-4676,"8415 NE Worden Hill Rd, Dundee, OR, 97115, USA",http://furiosovineyards.com/,376,45.27898099999999,-123.033569
+459,Anne Amie Vineyards,(503) 864-2991,"6580 NE Mineral Springs Rd, Carlton, OR, 97111, USA",http://www.anneamie.com/,377,45.2630092,-123.1275075
+460,Wy'East Vineyards,(541) 386-1277,"3189 OR-35, Hood River, OR, 97031, USA",http://www.wyeastvineyards.com/,378,45.6334844,-121.5116874
+461,Ducleaux Cellars,(206) 419-1975,"54211 County 552 Rd, Milton-Freewater, OR, 97862, USA",http://www.ducleauxcellars.com/,379,45.9594209,-118.3730035
+462,Penner-Ash Wine Cellars,(503) 554-5545,"15771 NE Ribbon Ridge Rd, Newberg, OR, 97132, USA",http://www.pennerash.com/,380,45.33231989999999,-123.0956794
+463,Honeywood Winery,(503) 362-4111,"1350 Hines St SE, Salem, OR, 97302, USA",http://www.honeywoodwinery.com/,381,44.9262902,-123.028373
+464,J Rallison Cellars,(503) 347-9173,"16079 SW Railroad St, Sherwood, OR, 97140, USA",http://www.jrallisoncellars.com/,382,45.35607650000001,-122.8409602
+465,J. Scott Cellars,(541) 255-0207,"207 E 5th Ave Ste 105, Eugene, OR, 97401, USA",http://jscottcellars.com/,383,44.0544288,-123.0892628
+466,Noble Knob Vineyards,(541) 517-3251,"1350 Pleasant View Dr, Cottage Grove, OR, 97424, USA",http://www.nobleknobvineyards.com/,384,43.7825666,-123.0519507
+467,Bergström Wines Tasting Room,(503) 554-0468,"8115 NE Worden Hill Rd, Dundee, OR, 97115, USA",https://www.bergstromwines.com/,385,45.27882719999999,-123.0276541
+468,Silvan Ridge Winery,(541) 345-1945,"27012 Briggs Hill Rd, Eugene, OR, 97405, USA",http://silvanridge.com/,386,43.9569919,-123.2644798
+469,"Archer Vineyard, Winery & Tasting Room",(503) 702-0537,"32230 NE Old Parrett Mountain Rd, Newberg, OR, 97132, USA",http://www.archervineyard.com/,387,45.31458099999999,-122.9096222
+470,South Stage Cellars,(541) 899-9120,"125 S 3rd St, Jacksonville, OR, 97530, USA",http://www.southstagecellars.com/,388,42.3138072,-122.9677313
+471,Evoke Winery - Hood River,(541) 386-3700,"708 Oak St, Hood River, OR, 97031, USA",https://www.evokewinery.com/,389,45.70899439999999,-121.5177869
+472,The Four Graces Winery,(800) 245-2950,"9605 NE Fox Farm Rd, Dundee, OR, 97115, USA",https://www.thefourgraces.com/,390,45.28578359999999,-123.0047975
+473,Sage Hayward Vineyards,(250) 791-0380,"Saturna Beach Estates, Saturna, BC, V0N, Canada",https://sagehaywardvineyards.com/,391,48.7753278,-123.1893594
+474,Cor Cellars,(509) 365-2744,"151 Old Hwy 8, Lyle, WA, 98635, USA",http://www.corcellars.com/,392,45.7114068,-121.3015009
+475,Cooper Mountain Vineyards,(503) 649-0027,"20121 SW Leonardo Ln, Beaverton, OR, 97007, USA",http://www.coopermountainwine.com/,393,45.4505291,-122.88362
+476,Girardet Wine Cellar,(541) 679-7252,"895 Reston Rd, Roseburg, OR, 97471, USA",http://www.girardetwine.com/,394,43.0984625,-123.575232
+477,Borgo Pass Vineyards,,"23964 Hawley Creek Rd, Monroe, OR, 97456, USA",http://www.borgowines.com/,395,44.331665,-123.407654
+478,R Stuart & Co Winery,(503) 472-6990,"845 NE 5th St, McMinnville, OR, 97128, USA",http://www.rstuartandco.com/,396,45.2115446,-123.1904276
+479,Southeast Wine Collective,(503) 208-2061,"201 SE 3rd Ave, Portland, OR, 97214, USA",http://ouilikefoodandwine.com/,8,45.5213279,-122.6628761
+480,"Boedecker Cellars Winery, Tasting Room + Bottle Shop",(503) 224-5778,"2621 NW 30th Ave, Portland, OR, 97210, USA",http://boedeckercellars.com/,397,45.54069880000001,-122.7128257
+481,Dukes Family Vineyards,(503) 835-0620,"7845 SE Amity Rd, Amity, OR, 97101, USA",https://www.dukesfamilyvineyards.com/,398,45.1205122,-123.1576193
+482,EdenVale Winery,(541) 512-2955,"2310 Voorhies Rd, Medford, OR, 97501, USA",http://www.edenvalleyorchards.com/,399,42.2892167,-122.8469099
+483,Nehalem Bay Winery,(503) 368-9463,"34965 OR-53, Nehalem, OR, 97131, USA",http://www.nehalembaywinery.com/,400,45.707775,-123.863922
+484,ADEA Wine Co,(503) 662-4509,"26421 OR-47, Gaston, OR, 97119, USA",http://www.adeawine.com/,8,45.40758599999999,-123.124291
+485,Shumaker Vineyards,(503) 913-2050,"13615 NW Mason Hill Rd, North Plains, OR, 97133, USA",http://www.shumakervineyards.com/,401,45.61870880000001,-122.9592487
+486,Keeler Estate Vineyard,(503) 687-2618,"5100 SE Rice Ln, Amity, OR, 97101, USA",http://www.keelerestatevineyard.com/,402,45.1194271,-123.1838574
+487,Methven Family Vineyards - Dundee Tasting Room,(971) 832-8665,"130 SW 7th St, Dundee, OR, 97115, USA",http://methvenfamilyvineyards.com/,99,45.2789631,-123.0111547
+488,Flying Dutchman Winery,(541) 765-2553,"915 1st St, Otter Rock, OR, 97369, USA",http://www.dutchmanwinery.com/,403,44.7474403,-124.0641708
+489,Hanson Vineyards,(971) 338-9760,"34948 S Barlow Rd, Woodburn, OR, 97071, USA",http://www.hansonwine.com/,404,45.098494,-122.742848
+490,Colene Clemens Vineyards,(503) 662-4687,"22501 NE Dopp Rd, Newberg, OR, 97132, USA",http://www.coleneclemens.com/,405,45.3836997,-123.0774577
+491,Delfino Winery,(541) 673-7575,"3829 Colonial Rd, Roseburg, OR, 97471, USA",http://www.delfinovineyards.com/,216,43.2264822,-123.4658524
+492,Laurel Ridge,(503) 852-7050,"13301 NE Kuehne Rd, Carlton, OR, 97111, USA",http://www.laurelridgewinery.com/,8,45.3130763,-123.0930302
+493,GC Wines (Valley),(503) 835-0208,"9360 SE Eola Hills Rd, Amity, OR, 97101, USA",http://www.gcwines.com/,406,45.1048739,-123.1422369
+494,Terra Pacem,(541) 513-8127,"590 Pearl St Ste 103, Eugene, OR, 97401, USA",https://terrapacem.com/,8,44.0533316,-123.0900093
+495,Maison Noir Wines,(503) 217-4001,"1271 OR-99W, McMinnville, OR, 97128, USA",https://maisonnoirwines.com/contact/,8,45.2266755,-123.1859827
+496,Atticus Wine,(503) 662-3485,"20501 NW Russell Creek Rd, Yamhill, OR, 97148, USA",http://www.atticuswine.com/,407,45.362803,-123.171857
+497,Hip Chicks do Wine,(503) 234-3790,"4510 SE 23rd Ave, Portland, OR, 97202, USA",https://hipchicksdowine.com/,408,45.48979500000001,-122.6420206
+498,Campbell Lane Winery,(503) 479-8671,"27411 SW Campbell Ln, West Linn, OR, 97068, USA",http://clwinery.com/,409,45.32134489999999,-122.6833729
+499,Kason Vineyards,(503) 537-3070,"7200 NW Bony Rd, Yamhill, OR, 97148, USA",http://www.kasonvineyards.com/,410,45.3518222,-123.1886186
+500,SeVein Vineyards,,,,411,45.9317295,-118.4593742
+501,Goodfellow Family Cellars,(503) 939-1308,"888 NE 8th St, McMinnville, OR, 97128, USA",https://goodfellowfamilycellars.com/,412,45.2126487,-123.190487
+502,Bennett Vineyards & Wine Company,(541) 998-3336,"25974 OR-36, Cheshire, OR, 97419, USA",http://www.bennettvineyardsor.com/,413,44.1745532,-123.3221863
+503,Trella Vineyards,(541) 671-2018,"646 SE Jackson St, Roseburg, OR, 97470, USA",http://trellavineyards.com/,414,43.20843929999999,-123.3447581
+504,David Hill Vineyards & Winery,(503) 992-8545,"46350 NW David Hill Rd, Forest Grove, OR, 97116, USA",http://www.davidhillwinery.com/,415,45.54759300000001,-123.1572525
+505,Cardwell Hill Cellars,(541) 929-9463,"24241 Cardwell Hill Dr, Philomath, OR, 97370, USA",http://www.cardwellhillwine.com/,416,44.60107099999999,-123.407959
+506,Ancient Cellars,(503) 437-4827,"1242 SE Maple St, Dundee, OR, 97115, USA",,417,45.2725445,-123.0139036
+507,Reynvaan Family Vineyards,(509) 525-3462,"6309 Cottonwood Rd, Walla Walla, WA, 99362, USA",http://www.reynvaanfamilyvineyards.com/,418,46.01332969999999,-118.2239252
+508,Becker Vineyard,(541) 677-0288,"360 Klahowya Ln, Roseburg, OR, 97471, USA",http://www.beckerwine.com/,419,43.2984953,-123.4274499
+509,Cameron Winery,(503) 538-0336,"8200 NE Worden Hill Rd, Dundee, OR, 97115, USA",http://cameronwines.com/,420,45.2810097,-123.0274352
+510,Mt. Hood Winery,(541) 386-8333,"2882 Van Horn Dr, Hood River, OR, 97031, USA",http://www.mthoodwinery.com/,421,45.6546306,-121.5102377
+511,Namaste Vineyards Inc,(503) 623-4150,"5600 Van Well Rd, Dallas, OR, 97338, USA",http://www.namastevineyards.com/,422,45.0172034,-123.3159061
+512,Patricia Green Cellars,(503) 554-0821,"15225 NE North Valley Rd, Newberg, OR, 97132, USA",http://www.patriciagreencellars.com/,423,45.3460224,-123.0914728
+513,Idiot's Grace Wines,(541) 399-5259,"8450 US-30, Mosier, OR, 97040, USA",http://www.idiotsgrace.com/,8,45.6885917,-121.3783343
+514,Browne Family Vineyards Tasting Room,(509) 522-1261,"31 E Main St, Walla Walla, WA, 99362, USA",http://brownefamilyvineyards.com/,424,46.0672954,-118.3384066
+515,Brittan Vineyards,(971) 241-8228,"829 NE 5th St #700, McMinnville, OR, 97128, USA",http://www.brittanvineyards.com/,425,45.2122035,-123.1902834
+516,Evoke Winery,(541) 386-3700 ext. 0,"330 SW Powerhouse Dr #110, Bend, OR, 97702, USA",http://www.evokewinery.com/,389,44.0474085,-121.3146084
+517,Gelardi Vineyard,(541) 998-3435,"92945 Kinser Ln, Cheshire, OR, 97419, USA",,426,44.1832287,-123.2985837
+518,Ridgecrest Vineyard,(503) 789-4350,"20440 NE Ribbon Ridge Rd, Newberg, OR, 97132, USA",http://www.ribbonridgewinery.com/,427,45.364332,-123.079328
+519,Cellar 503,(503) 897-8013,"4407 S Corbett Ave, Portland, OR, 97239, USA",http://www.cellar503.com/,8,45.4915007,-122.6764125
+520,Dion Vineyard,(503) 407-8598,"33155 SW Riedweg Rd, Cornelius, OR, 97113, USA",https://www.dionvineyard.com/,428,45.459381,-123.020885
+521,Bravuro Cellars,(503) 822-5116,"108 S College St, Newberg, OR, 97132, USA",https://www.bravurocellars.com/,22,45.29982,-122.9726638
+522,Adelsheim Vineyard,(503) 538-3652,"16800 NE Calkins Ln, Newberg, OR, 97132, USA",http://www.adelsheim.com/,429,45.3385536,-123.0496957
+523,Coleman Vineyard,(503) 437-6071,"22734 SW Latham Rd, McMinnville, OR, 97128, USA",http://colemanwine.com/,430,45.1226769,-123.3500068
+524,Zerba Cellars Woodinville,(425) 806-2749,"14525 148th Ave NE, Woodinville, WA, 98072, USA",http://www.zerbacellars.com/,431,47.733666,-122.142702
+525,White Rose Estate,(503) 864-2328,"6250 NE Hilltop Ln, Dayton, OR, 97114, USA",http://www.whiteroseestate.com/,432,45.2616612,-123.0671705
+526,Trinity Vineyards,(503) 371-6977,"1031 Wahl Ln S, Salem, OR, 97306, USA",http://www.trinityvineyards.com/,433,44.8403528,-123.0660667
+527,Amalie Robert Estate,(503) 551-9978,"13531 Bursell Rd, Dallas, OR, 97338, USA",http://www.amalierobert.com/,434,44.8775244,-123.3009208
+528,Cliff Creek Cellars in Newberg,(503) 487-6692,"214 E 1st St, Newberg, OR, 97132, USA",http://www.cliffcreek.com/,264,45.300106,-122.9772978
+529,Valley View Winery,(800) 781-9463,"1000 Upper Applegate Rd, Jacksonville, OR, 97530, USA",http://valleyviewwinery.com/,435,42.2250726,-123.0494419
+530,Ken Wright Cellars,(503) 852-7010,"120 N Pine St, Carlton, OR, 97111, USA",http://www.kenwrightcellars.com/,436,45.2944564,-123.1768455
+531,Prive Vineyard,(503) 554-0464,"28155 NE Bell Rd, Newberg, OR, 97132, USA",http://www.privevineyard.com/,437,45.33280999999999,-122.9477427
+532,Benza Vineyards,(503) 452-8577,"16740 SW Pinot Pl, Hillsboro, OR, 97123, USA",http://www.benza.com/,438,45.39870699999999,-122.987948
+533,Buddha Kat Tasting Room,(503) 739-7023,"37 N Edgewood St, Seaside, OR, 97138, USA",http://www.buddhakatwinery.com/,8,45.9934565,-123.925858
+534,Zerba Cellars,(541) 938-9463,"85530 OR-11, Milton-Freewater, OR, 97862, USA",http://www.zerbacellars.com/,431,45.9952473,-118.3881891
+535,Los Rocosos Vineyards-The Rocks District of Milton Freewater,(541) 306-1290,"500 East Broadway, Milton-Freewater, OR, 97862, USA",http://losrocosos.com/,439,45.9529381,-118.3820919
+536,Sweet Cheeks Winery,(541) 349-9463,"27007 Briggs Hill Rd, Eugene, OR, 97405, USA",http://www.sweetcheekswinery.com/,440,43.9566698,-123.2791353
+537,Bacus Vineyards,(503) 858-5975,"18605 NE Calkins Ln, Newberg, OR, 97132, USA",http://bacusvineyards.com/,441,45.3521825,-123.0487758
+538,Olea Vineyards,(503) 805-9551,"17406 SW Parrett Mountain Rd, Sherwood, OR, 97140, USA",http://oleavineyards.com/,442,45.32015430000001,-122.8552303
+539,Lemelson Vineyards,(503) 852-6619,"12020 NE Stag Hollow Rd, Carlton, OR, 97111, USA",http://www.lemelsonvineyards.com/,443,45.3019553,-123.1315071
+540,Harris Bridge Vineyard LLC,(541) 929-3053,"22937 Harris Rd, Philomath, OR, 97370, USA",http://www.harrisbridgevineyard.com/,444,44.5787982,-123.4597742
+541,Bella Union Restaurant,(541) 899-1770,"170 W California St #9237, Jacksonville, OR, 97530, USA",http://www.bellau.com/,8,42.314552,-122.9681864
+542,iOTA Cellars,(503) 507-8063,"7895 SE Amity Rd, Amity, OR, 97101, USA",http://www.iotacellars.com,445,45.1217368,-123.1553812
+543,Weitman Vineyards & Winery,(541) 942-5958,"80520 Old Lorane Rd, Eugene, OR, 97405, USA",,446,43.8443057,-123.2374215
+544,Pine Grove Vineyards,(541) 387-3556,"2143 Wells Dr, Hood River, OR, 97031, USA",,447,45.648756,-121.484358
+545,Gorge Crest Vineyards,(541) 238-7486,"341 Kollock Knapp Rd, Underwood, WA, 98651, USA",http://www.gorgecrest.com/,448,45.731947,-121.594287
+546,Season Cellars,(541) 784-7831,"305 Melrose Rd, Roseburg, OR, 97471, USA",http://www.seasoncellars.com/,449,43.24152099999999,-123.397627
+547,Elton Vineyards,(503) 868-7376,"22500 Ingram Ln NW, Salem, OR, 97304, USA",https://www.eltonwines.com/,450,45.0998266,-123.114346
+548,Hyland Estates,(503) 554-4200,"20980 NE Niederberger Rd, Dundee, OR, 97115, USA",http://www.hylandestateswinery.com/,451,45.2694459,-123.0218664
+549,WillaKenzie Estate,(503) 662-3280,"19143 NE Laughlin Rd, Yamhill, OR, 97148, USA",http://www.willakenzie.com/,452,45.3591443,-123.1349562
+550,Antiquum Farm Tasting Room,(541) 998-3153,"25075 Jaeg Rd, Junction City, OR, 97448, USA",http://antiquumfarm.com/,453,44.2372963,-123.3602122
+551,Soloro Vineyard,(541) 862-2693,"9110 N Applegate Rd, Grants Pass, OR, 97527, USA",http://solorovineyard.wordpress.com/2010/06/07/about-the-applegate-wine-trail/,454,42.3383302,-123.2875828
+552,Pfeiffer Winery & Tasting Room,(541) 998-2828,"25040 Jaeg Rd, Junction City, OR, 97448, USA",https://pfeifferwinery.com/,139,44.2371023,-123.3640069
+553,Illahe Vineyards and Winery,(503) 831-1248,"3275 Ballard Rd, Dallas, OR, 97338, USA",http://www.illahevineyards.com/,455,44.8891693,-123.2725554
+554,Territorial Vineyards & Wine Company,(541) 684-9463,"907 W 3rd Ave, Eugene, OR, 97402, USA",http://territorialvineyards.com/,456,44.0567226,-123.1067273
+555,North Valley Vineyards,(503) 435-8265,"1326 OR-99W #104, Dundee, OR, 97115, USA",http://northvalleyvineyards.com/,457,45.2724899,-123.0160877
+556,Saffron Fields Vineyard,(503) 662-5323,"18748 NE Laughlin Rd, Yamhill, OR, 97148, USA",http://saffronfields.com/,458,45.3509099,-123.1382918
+557,Evensong Winery,(541) 530-3551,"981 Old Garden Valley Rd, Roseburg, OR, 97471, USA",https://evensongwinery.com/,459,43.273947,-123.427194
+558,Bells Up Winery,(503) 537-1328,"27895 NE Bell Rd, Newberg, OR, 97132, USA",http://www.bellsupwinery.com/,460,45.33367399999999,-122.95075
+559,Jachter Vineyard llc,(971) 205-8301,"18615 NE Tykeson Rd, Newberg, OR, 97132, USA",https://www.jachterwine.com/Contact-Us/Sign-up-for-an-Account,461,45.3733037,-123.0466169
+560,Beacon Hill Winery & Vineyard,(503) 662-5212,"22251 NE Laughlin Rd, Gaston, OR, 97119, USA",http://www.beaconhillwinery.com/,462,45.3762628,-123.1106869
+561,Gramercy Cellars,(509) 876-2427,"635 N 13th Ave, Walla Walla, WA, 99362, USA",http://www.gramercycellars.com/,463,46.0670236,-118.35699
+562,Villa Catalana Cellars,(503) 683-3888,"11900 S Criteser Rd, Oregon City, OR, 97045, USA",http://www.villacatalanacellars.com/,464,45.3000715,-122.623914
+563,Winter's Hill Estate,(503) 864-4592,"6451 NE Hilltop Ln, Dayton, OR, 97114, USA",https://wintershillwine.com/,465,45.258571,-123.0746667
+564,River's Edge Winery,(541) 584-2357,"1395 River Dr, Elkton, OR, 97436, USA",http://www.riversedgewinery.com/,466,43.6402358,-123.5749082
+565,Seven Bridges Winery,(503) 203-2583,"2303 N Harding Ave, Portland, OR, 97227, USA",http://www.sevenbridgeswinery.com/,467,45.53948899999999,-122.6783716
+566,Isenhower Cellars,(509) 526-7896,"3471 Pranger Rd, Walla Walla, WA, 99362, USA",http://www.isenhowercellars.com/,468,46.022924,-118.3600492
+567,Ghost Hill Cellars,(503) 883-3064,"12220 NE Bayliss Rd, Carlton, OR, 97111, USA",http://www.ghosthillcellars.com/,469,45.2823915,-123.1126445
+568,Champoeg Wine Cellars Inc,(503) 678-2144,"10375 Champoeg Rd NE, Aurora, OR, 97002, USA",http://www.champoegwine.com/,470,45.2503708,-122.850278
+569,Chateau Lorane,(541) 942-8028,"27415 Siuslaw Rd, Lorane, OR, 97451, USA",https://www.chateaulorane.com/,8,43.8474309,-123.2501551
+570,Marcella Terrace Vineyard LLC,(509) 525-1615,"406 Lower Dry Creek Rd, Walla Walla, WA, 99362, USA",,471,46.0574889,-118.577829
+571,Eagles Nest Reserve Vineyard and Winery,(425) 213-2787,"12995 NW Bishop Rd, Hillsboro, OR, 97124, USA",https://eaglesnestreserve.com/,8,45.6081834,-122.9195239
+572,2Hawk Vineyard & Winery,(541) 779-9463,"2335 N Phoenix Rd, Medford, OR, 97504, USA",https://www.2hawk.wine/,472,42.2963678,-122.8143261
+573,Hood River Vineyards and Winery,(541) 386-3772,"4693 Westwood Dr, Hood River, OR, 97031, USA",http://hoodrivervineyardsandwinery.com/,473,45.6983696,-121.5799266
+574,RR Winery,(503) 789-4350,"801 N Scott St, Carlton, OR, 97111, USA",http://www.ribbonridgewinery.com/,474,45.30006319999999,-123.1826367
+575,Forgeron Cellars Winery & Tasting Room,(509) 522-9463,"33 W Birch St, Walla Walla, WA, 99362, USA",http://www.forgeroncellars.com/,475,46.063531,-118.338192
+576,REX HILL,(503) 538-0666,"30835 OR-99W, Newberg, OR, 97132, USA",http://www.rexhill.com/,8,45.3145624,-122.9205731
+577,Aramenta Cellars,(503) 538-7230,"17979 NE Lewis Rogers Ln, Newberg, OR, 97132, USA",http://www.aramentacellars.com/,476,45.3458547,-123.0722172
+578,Bluebird Hill Cellars,(541) 424-2478,"25059 Larson Rd, Monroe, OR, 97456, USA",http://www.bluebirdhillcellars.wine/,477,44.3427984,-123.3662486
+579,Quady North at RiverCrest,(541) 702-2123,"8127 Upper Applegate Rd, Jacksonville, OR, 97530, USA",http://www.quadynorth.com/,335,42.1377079,-123.0635673
+580,CAVU Cellars,(509) 540-6352,"175 E Aeronca Ave, Walla Walla, WA, 99362, USA",http://www.cavucellars.com/,478,46.087563,-118.279806
+581,Ponzi Vineyards,(503) 628-1227,"19500 SW Mountain Home Rd, Sherwood, OR, 97140, USA",http://www.ponzivineyards.com/,479,45.3797401,-122.9363463
+582,Haden Fig,,"3795 Wallace Rd NW, Salem, OR, 97304, USA",https://hadenfig.com/,8,44.98906,-123.0765572
+583,Cathedral Ridge Winery,(503) 537-9977,"974 OR-99W, Dundee, OR, 97115, USA",http://www.cathedralridgewinery.com/,156,45.2758826,-123.0130905
+584,R Stuart & Co. Tasting Room & Wine Bar,(503) 472-4477,"528 NE 3rd St, McMinnville, OR, 97128, USA",http://www.rstuartandco.com/,8,45.20989519999999,-123.193814
+585,Stoller Family Estate,(503) 864-3404,"16161 NE McDougall Rd, Dayton, OR, 97114, USA",http://www.stollerfamilyestate.com/,480,45.2414043,-123.0693683
+586,Styring Vineyards,(503) 866-6741,"19960 NE Ribbon Ridge Rd, Newberg, OR, 97132, USA",http://www.styringvineyards.com/,481,45.3604858,-123.0727789
+587,Retour Winery,(971) 237-4757,"336 NE Davis St, McMinnville, OR, 97128, USA",https://www.retourwines.com/Tasting-Experience,482,45.210649,-123.1954995
+588,Whitetail Ridge Vineyard,(541) 580-3340,"5920 Flournoy Valley Rd, Roseburg, OR, 97471, USA",http://whitetailridgevineyard.com/,483,43.183132,-123.5230922
+589,Brian Carter Cellars,(425) 806-9463,"17140 135th Ave NE STE 1030, Woodinville, WA, 98072, USA",http://www.briancartercellars.com/,484,47.7513624,-122.158421
+590,Cayuse Vineyards Production Studio,(509) 526-0686,"Sunnyside Rd, Milton-Freewater, OR, 97862, USA",http://www.cayusevineyards.com/,485,45.962039,-118.423948
+591,Willamette Valley Vineyards McMinnville Tasting Room,(503) 883-9013,"300 NE 3rd St, McMinnville, OR, 97128, USA",https://www.wvv.com/McMinnville,5,45.2098269,-123.1966257
+592,Horsepower Vineyard,(509) 526-1515,"17 E Main St, Walla Walla, WA, 99362, USA",https://horsepowervineyards.com/,486,46.067169,-118.338774
+593,Armstrong Family Winery - Downtown Walla Walla Tasting Room,(509) 524-8494,"14 W Main St, Walla Walla, WA, 99362, USA",http://www.armstrongwinery.com/,487,46.0666361,-118.340063
+594,Domaine Divio,(503) 334-0903,"16435 NE Lewis Rogers Ln, Newberg, OR, 97132, USA",http://domainedivio.com/,488,45.33507899999999,-123.067052
+595,Savage Grace Wines,(206) 920-4206,"442 Kramer Rd, Underwood, WA, 98651, USA",http://savagegracewines.com/,8,45.7384932,-121.5580406
+596,WooHoo Winery Tasting Room,(509) 888-7225,"725 Front St, Leavenworth, WA, 98826, USA",http://www.woohoowinery.com/,489,47.5947426,-120.6627167
+597,Lewman Vineyard,(503) 365-8859,"6080 Bethel Heights Rd NW, Salem, OR, 97304, USA",https://www.lewman-vineyard.com/,490,45.035018,-123.146932
+598,Tempest Sol Winery,(425) 246-1419,"19495 144th Ave NE, Woodinville, WA, 98072, USA",http://www.tempestsol.com/,491,47.7687019,-122.150285
+599,Red Hills Cellars,(503) 332-3639,"2190 Joseph St, Medford, OR, 97501, USA",http://www.redhillscellars.com/,492,42.34968199999999,-122.901806
+600,King Estate Winery,(541) 685-5189,"80854 Territorial Hwy, Eugene, OR, 97405, USA",https://kingestate.com/,493,43.8609479,-123.2506801
+601,Domaine Drouhin Oregon,(503) 864-2700,"6750 NE Breyman Orchards Rd, Dayton, OR, 97114, USA",http://www.domainedrouhin.com/,494,45.2655399,-123.0556336
+602,Crooked Acres Vineyard,,"422 King Rd, Underwood, WA, 98651, USA",http://www.crookedacresvineyard.com/,495,45.73102209999999,-121.6079312
+603,FIGGINS Winery,(509) 522-7808,"2900 Melrose St, Walla Walla, WA, 99362, USA",http://www.figginswine.com/,496,46.0797309,-118.2902771
+604,Johan Vineyards,(503) 623-8642,"4285 N Pacific Hwy W, Rickreall, OR, 97371, USA",http://www.johanvineyards.com/,497,45.0069708,-123.2183039
+605,RoxyAnn Winery,(541) 776-2315,"3283 Hillcrest Rd, Medford, OR, 97504, USA",http://www.roxyann.com/,498,42.33128960000001,-122.820383
+606,Gresser Vineyard,(503) 679-3497,"37245 SW Nature Dr, Cornelius, OR, 97113, USA",,499,45.444671,-123.0610661
+607,Bradley Vineyards,(541) 584-2888,"1000 Azalea Dr, Elkton, OR, 97436, USA",http://www.bradleyvineyards.com/,500,43.622191,-123.557884
+608,Bledsoe Family Winery,(541) 797-6502,"550 SW Industrial Way Suite 198, Bend, OR, 97702, USA",http://bledsoefamilywinery.com/,15,44.0513203,-121.3144476
+609,Kolb Vineyards,(408) 306-3579,"19100 NE Williamson Rd, Newberg, OR, 97132, USA",http://kolbvineyards.com/,501,45.30198049999999,-123.0461704
+610,Amity Vineyards,(503) 835-2362,"18150 SE Amity Vineyards Rd, Amity, OR, 97101, USA",http://www.amityvineyards.com/,502,45.127916,-123.193621
+611,Three Feathers Estate Vineyard,(503) 538-1202,"19569 SW Finnigan Hill Rd, Hillsboro, OR, 97123, USA",https://threefeathersestate.com/,503,45.37868439999999,-123.035577
+612,Eola Hills Legacy Estate Vineyard,(503) 362-1546,"1600 Oak Grove Rd, Salem, OR, 97304, USA",https://eolahillswinery.com/legacy-estate-vineyard/,504,44.959366,-123.147962
+613,Carlton Hill Wine Company,(503) 852-7060,"11511 NW Cummins Rd, Carlton, OR, 97111, USA",http://www.carltonhillwines.com/,505,45.3112207,-123.2355909
+614,Shea Wine Cellars,(503) 241-6527,"12321 NE Hwy 240, Newberg, OR, 97132, USA",http://www.sheawinecellars.com/,506,45.33192500000001,-123.106774
+615,Fairsing Vineyard,(503) 560-8266,"20881 NE Laughlin Rd, Yamhill, OR, 97148, USA",http://www.fairsingvineyard.com/,507,45.3736946,-123.123814
+616,Ayoub Wines,(503) 805-2154,"9650 NE Keyes Ln, Dundee, OR, 97115, USA",http://ayoubwines.com/,508,45.2862225,-123.0297364
+617,Lumos Wine Co.,(541) 929-3519,"24000 Cardwell Hill Dr, Philomath, OR, 97370, USA",http://www.lumoswine.com/,318,44.5994797,-123.4193273
+618,Anacréon Winery,(503) 550-8461,"17571 NE Calkins Ln, Newberg, OR, 97132, USA",http://www.anacreonwinery.com/,509,45.3437569,-123.0541053
+619,Cowhorn Vineyard & Garden,(541) 899-6876,"1665 Eastside Rd, Jacksonville, OR, 97530, USA",http://cowhornwine.com/,510,42.15375299999999,-123.046164
+620,Christopher Bridge Wines,(503) 263-6267,"12770 S Casto Rd, Oregon City, OR, 97045, USA",http://christopherbridgewines.com/,8,45.2634553,-122.6056565
+621,Legacy Estate Vineyard,(503) 362-1546,"1600 Oak Grove Rd, Salem, OR, 97304, USA",https://www.exploretock.com/legacyestatevineyards/,511,44.9570853,-123.1521693
+622,Melrose Vineyards,(541) 672-6080,"885 Melqua Rd, Roseburg, OR, 97471, USA",http://www.melrosevineyards.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=a412376d-a057-404b-90ab-6d8c6a497b52,512,43.25769500000001,-123.4553905
+623,"Lachini Winery & Tasting Bar ~ Tualatin, OR",(503) 864-4553,"19930 SW 112th Ave, Tualatin, OR, 97062, USA",https://www.lachinivineyards.com/,241,45.3754782,-122.7932443
+624,Schultz Wines,(541) 414-8448,"755 Slagle Creek Rd, Grants Pass, OR, 97527, USA",http://www.schultzwines.com/,513,42.30208189999999,-123.2051009
+625,King's Raven Winery,(503) 505-6873,"11603 S New Era Rd, Oregon City, OR, 97045, USA",http://kingsravenwine.com/,514,45.2966315,-122.6275625
