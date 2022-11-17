@@ -125,11 +125,11 @@ def welcome():
 
 
 
-        return render_template('home.html', data=response, form=form)
+        return render_template('home.html', data=response, form=form, result_count=len(response))
 
 
     else:
-        return render_template('home.html', data=response, form=form)
+        return render_template('home.html', data=response, form=form, result_count=len(response))
 
 
 @app.route("/api/v1.0/")
