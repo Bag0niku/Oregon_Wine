@@ -1,21 +1,25 @@
+import pandas as pd
 from flask import render_template, url_for, flash, redirect, jsonify, request
 from oregonwine import app, engine
 from oregonwine.forms import WineFilter
-import pandas as pd
+from oregonwine.build_map import *
 
 
-def sql_query(statement, table):
-    if table == 'wine_reviews':
-        columns = ['winery','vintage','variety','designation',
-                       'score','category','title','ava','region',
-                       'province','country','release_price','review_source','brand_id', 'review_id']
-    elif table == 'vineyards':
-        columns = [ 'place_id','name','business_status','formatted_phone_number','formatted_address','gmaps_url',
-                    'website','rating','total_ratings', 'street_address','city','province','zipcode','country','brand_id',
-                      'center_lat','center_lon','northeast_lat','northeast_lon','southwest_lat','southwest_lon']                       
 
-    elif table == 'brand':    
-        columns = ['brand_id', 'brand_name']                      
+def sql_query(statement, table, columns='*'):
+    if columns == '*':
+        if table == 'wine_reviews':
+                columns = ['winery','vintage','variety','designation','score','category','title','ava','region',
+                        'province','country','release_price','review_source','brand_id', 'review_id']
+        elif table == 'vineyards':
+                columns = [ 'place_id','name','business_status','formatted_phone_number','formatted_address', "",
+                        'website','rating','total_ratings', 'street_address','city','province','zipcode','country', "", 
+                        'center_lat','center_lon','northeast_lat','northeast_lon','southwest_lat','southwest_lon''brand_id', 'gmaps_url']                       
+
+        elif table == 'brand':    
+                columns = ['brand_id', 'brand_name']                      
+    else:
+        pass
 
     conn = engine.connect()
     response = [x for x in conn.execute(statement)]
@@ -25,9 +29,12 @@ def sql_query(statement, table):
         wine = dict()
         for i, col in enumerate(row):
             wine[columns[i]] = col
+        
+        if table == 'wine_reviews':
+            wine['checkbox_id'] = str(wine['review_id']) + "_" + str(wine['brand_id'])
+        
         reviews.append(wine)
     return reviews
-
 
 
 @app.route("/", methods=['GET','POST'])
@@ -37,8 +44,10 @@ def welcome():
     form = WineFilter()
 
     
-    response = sql_query(statement="SELECT * FROM wine_reviews ;", table='wine_reviews')
-    
+    select_wine = "SELECT * FROM wine_reviews WHERE province = 'Oregon' ;"
+    select_vineyards = "SELECT"
+
+    response = sql_query(statement=select_wine, table='wine_reviews')
     df = pd.DataFrame(response)
 
     form.winery_select.choices = list(df['winery'].dropna().unique())
@@ -62,9 +71,6 @@ def welcome():
 
     if request.method == 'POST':
         select = "SELECT * FROM wine_reviews WHERE (province = 'Oregon') "
-        spam = [form.min_price_bool.data, form.max_price_bool.data, form.min_score_bool.data, form.max_score_bool.data, 
-                form.category_bool.data, form.variety_bool.data, form.vintage_bool.data, form.region_bool.data ]
-
 
         if form.min_price_bool.data and form.max_price_bool.data:
             if form.min_price_select.data != form.max_price_select.data:
@@ -123,8 +129,6 @@ def welcome():
         ## New SQL Query with the search filter applied.
         response = sql_query(statement=select, table='wine_reviews')
 
-
-
         return render_template('home.html', data=response, form=form, result_count=len(response))
 
 
@@ -132,35 +136,49 @@ def welcome():
         return render_template('home.html', data=response, form=form, result_count=len(response))
 
 
-@app.route("/api/v1.0/")
-def api():
-
-    wine_review_columns = ['winery','vintage','variety','designation',
-                       'score','category','title','ava','region',
-                       'province','country','release_price','review_source','brand_id', 'review_id']
-    conn = engine.connect()
-    response = [x for x in conn.execute("SELECT * FROM wine_reviews limit 15;")]
-    conn.close()
-    reviews = list()
-    for row in response:
-        wine = dict()
-        for i, col in enumerate(row):
-            wine[wine_review_columns[i]] = col
-        reviews.append(wine)
-
-    df = pd.DataFrame(reviews)
-    return jsonify(data= reviews) # df.to_json())
+@app.route("/map/<filter>")
+def show_map(filter=None):
+    columns = ['name','formatted_phone_number','formatted_address', 'website',
+               'center_lat','center_lon', 'brand_id', 'gmaps_url']
 
 
-@app.route("/update")
-def update():
-    region = request.args['region'].get()
-    category = request.args['category'].get()
-    variety = request.args['variety'].get()
-    vintage = request.args['vintage'].get()
+    select_vineyards = """Select name, formatted_phone_number, formatted_address, website,
+                                 center_lat, center_lon, brand_id, gmaps_url
+                          FROM vineyards
+                          WHERE (province = 'OR') """
 
-    return str([region, category, variety, vintage] )
+    if filter != None:
+        select_vineyards += " " + filter
+    else:
+        pass
 
-
-
+    select_vineyards += " ;"
+    # response = sql_query(statement=select_vineyards, table='vineyards', columns=columns )
     
+    conn = engine.connect()
+    response = [x for x in conn.execute(select_vineyards)]
+    print(response[:5])
+    conn.close()
+    # reviews = list()
+    # for row in response:
+    #     wine = dict()
+    #     for i, col in enumerate(row):
+    #         wine[columns[i]] = col
+    #     reviews.append(wine)
+    df = pd.read_sql(select_vineyards, con=engine, columns=columns)
+    # df = pd.DataFrame(reviews)
+    print(df.info())
+    print(df.head())
+    map = make_map(df)
+    markers = make_markers(df)
+    markers.add_to(map)
+
+    return map._repr_html_()
+
+
+
+
+def veiw_map(brand_list):
+    ## turn the brand_list into a SQL WHERE clasue to add to a the show map filter 
+
+    return redirect(url_for('found', filter=filter))
