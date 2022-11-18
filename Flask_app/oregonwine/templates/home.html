@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-md-1">
                     {{form.filter_submit(class="btn-secondary")}}
-                    <p><a class="btn btn-warning btn-lg" href="/" role="button" style="color:#705132"> <b>View Officail Tasting Locations </b></a></p>
+                    <p><a class="btn btn-warning btn-lg" href="{{ url_for('show_map', filter=brand_list) }}" role="button" style="color:#705132"> <b>View Officail Tasting Locations </b></a></p>
                 </div>
             </form>
           
@@ -82,6 +82,7 @@
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
+                        <th class="table-head"> </th>
                         <th class="table-head">Title</th>
                         <th class="table-head">Vintage</th>
                         <th class="table-head">Score</th>
@@ -105,6 +106,7 @@
                 </thead>
         {% for row in data %}
         <tr>
+            <td><input id="{{row.checkbox_id}}" name="{{row.checkbox_id}}" type="checkbox" value="y"></td>
             <td>{{row.title}}</td>
             <td>{{row.vintage}}</td>
             <td>{{row.score}}</td>

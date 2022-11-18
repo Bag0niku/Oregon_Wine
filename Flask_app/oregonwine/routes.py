@@ -128,8 +128,11 @@ def welcome():
 
         ## New SQL Query with the search filter applied.
         response = sql_query(statement=select, table='wine_reviews')
+        brand_list = list(pd.DataFrame(response)['brand_id'].unique())
+        # brand_list = list(set(brand_list))
+        print(brand_list)
 
-        return render_template('home.html', data=response, form=form, result_count=len(response))
+        return render_template('home.html', data=response, form=form, result_count=len(response), brand_list=brand_list)
 
 
     else:
@@ -138,6 +141,9 @@ def welcome():
 
 @app.route("/map/<filter>")
 def show_map(filter=None):
+    print(filter[1:-1].split(", "))
+    
+    filter = filter[1:-1].split(", ")
     columns = ['name','formatted_phone_number','formatted_address', 'website',
                'center_lat','center_lon', 'brand_id', 'gmaps_url']
 
@@ -148,25 +154,21 @@ def show_map(filter=None):
                           WHERE (province = 'OR') """
 
     if filter != None:
-        select_vineyards += " " + filter
+
+        brand = " AND ("
+        for i, x in enumerate(filter):
+            if i >0:
+                brand += " OR "
+            
+            brand += f"(brand_id = {x})"
+        
+        select_vineyards += " " + brand + ')'
     else:
         pass
 
     select_vineyards += " ;"
     # response = sql_query(statement=select_vineyards, table='vineyards', columns=columns )
-    
-    conn = engine.connect()
-    response = [x for x in conn.execute(select_vineyards)]
-    print(response[:5])
-    conn.close()
-    # reviews = list()
-    # for row in response:
-    #     wine = dict()
-    #     for i, col in enumerate(row):
-    #         wine[columns[i]] = col
-    #     reviews.append(wine)
     df = pd.read_sql(select_vineyards, con=engine, columns=columns)
-    # df = pd.DataFrame(reviews)
     print(df.info())
     print(df.head())
     map = make_map(df)
