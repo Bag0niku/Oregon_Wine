@@ -25,6 +25,6 @@ class WineFilter(FlaskForm):
     max_price_select = SelectField('Maximum Price', choices=[])
     max_price_bool = BooleanField()
 
-    filter_submit = SubmitField("Search")
+    filter_submit = SubmitField("Apply Search Parameters")
 
 
