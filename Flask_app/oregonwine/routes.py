@@ -38,14 +38,14 @@ def sql_query(statement, table, columns='*'):
 
 
 @app.route("/", methods=['GET','POST'])
-@app.route("/home", methods=['GET','POST'])
-def welcome():
+@app.route("/wine", methods=['GET','POST'])
+def wine_list():
 
     form = WineFilter()
 
     
     select_wine = "SELECT * FROM wine_reviews WHERE province = 'Oregon' ;"
-    select_vineyards = "SELECT"
+    
 
     response = sql_query(statement=select_wine, table='wine_reviews')
     df = pd.DataFrame(response)
@@ -129,21 +129,20 @@ def welcome():
         ## New SQL Query with the search filter applied.
         response = sql_query(statement=select, table='wine_reviews')
         brand_list = list(pd.DataFrame(response)['brand_id'].unique())
-        # brand_list = list(set(brand_list))
-        print(brand_list)
+        brand_list = str(brand_list)[1:-1].replace(", ", ",")
 
-        return render_template('home.html', data=response, form=form, result_count=len(response), brand_list=brand_list)
-
+        return render_template('wine.html', data=response, form=form, result_count=len(response), brand_list=brand_list)
 
     else:
-        return render_template('home.html', data=response, form=form, result_count=len(response))
+        brand_list = list(pd.DataFrame(response)['brand_id'].unique())
+        brand_list = str(brand_list)[1:-1].replace(", ", ",")
+        return render_template('wine.html', data=response, form=form, result_count=len(response), brand_list=brand_list)
 
 
 @app.route("/map/<filter>")
 def show_map(filter=None):
-    print(filter[1:-1].split(", "))
-    
-    filter = filter[1:-1].split(", ")
+        
+    filter = filter.split(",")
     columns = ['name','formatted_phone_number','formatted_address', 'website',
                'center_lat','center_lon', 'brand_id', 'gmaps_url']
 
@@ -169,8 +168,6 @@ def show_map(filter=None):
     select_vineyards += " ;"
     # response = sql_query(statement=select_vineyards, table='vineyards', columns=columns )
     df = pd.read_sql(select_vineyards, con=engine, columns=columns)
-    print(df.info())
-    print(df.head())
     map = make_map(df)
     markers = make_markers(df)
     markers.add_to(map)
