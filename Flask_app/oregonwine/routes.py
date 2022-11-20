@@ -13,7 +13,7 @@ def sql_query(statement, table, columns='*'):
                         'province','country','release_price','review_source','brand_id', 'review_id']
         elif table == 'vineyards':
                 columns = [ 'place_id','name','business_status','formatted_phone_number','formatted_address', "",
-                        'website','rating','total_ratings', 'street_address','city','province','zipcode','country', "", 
+                        'website','rating','total_ratings', 'street_address','city','province','zipcode','country', "location_name", 
                         'center_lat','center_lon','northeast_lat','northeast_lon','southwest_lat','southwest_lon''brand_id', 'gmaps_url']                       
 
         elif table == 'brand':    
@@ -36,6 +36,10 @@ def sql_query(statement, table, columns='*'):
         reviews.append(wine)
     return reviews
 
+
+
+def welcome():
+    return render_template('index.html')
 
 @app.route("/", methods=['GET','POST'])
 @app.route("/wine", methods=['GET','POST'])
