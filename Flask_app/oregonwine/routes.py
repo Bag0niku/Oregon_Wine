@@ -132,15 +132,18 @@ def wine_list():
 
         ## New SQL Query with the search filter applied.
         response = sql_query(statement=select, table='wine_reviews')
+        review_brand = [x for x in pd.DataFrame(response)['checkbox_id']]
         brand_list = list(pd.DataFrame(response)['brand_id'].unique())
         brand_list = str(brand_list)[1:-1].replace(", ", ",")
 
-        return render_template('wine.html', data=response, form=form, result_count=len(response), brand_list=brand_list)
+        return render_template('wine.html', data=response, form=form, result_count=len(response), review_brand=review_brand, brand_list=brand_list)
 
     else:
         brand_list = list(pd.DataFrame(response)['brand_id'].unique())
         brand_list = str(brand_list)[1:-1].replace(", ", ",")
-        return render_template('wine.html', data=response, form=form, result_count=len(response), brand_list=brand_list)
+        review_brand = [x for x in pd.DataFrame(response)['checkbox_id']]
+        # review_brand = str(review_brand)[1:-1].replace(", ", ",")
+        return render_template('wine.html', data=response, form=form, result_count=len(response), review_brand=review_brand, brand_list=brand_list)
 
 
 @app.route("/map/<filter>")

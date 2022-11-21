@@ -14,6 +14,43 @@
             }
         </style>
 
+        <script>
+            let checkbox_id = {{review_brand | tojson}};
+            let all_results = "{{ url_for('show_map', filter=brand_list) }}";
+            
+            function find_selected_wines(checked_results, results){  
+                // checked_results is meant for the checkbox_ids
+                // results is meant for the show_map url + brand_list variable from flask
+                let x = 0;
+                let selected_results = [];
+                for (let i =0; i < checked_results.length; i++) {
+                    id = checked_results[i];
+                    box = document.getElementById(id);
+                    if (box.checked) {
+                        id_array = id.split("_")
+                        console.log(id_array);
+                        console.log(box.checked);
+                        selected_results[x] = id_array[1];
+                        x += 1;
+                        }
+                    } 
+                if (selected_results.length == 0) {
+                    window.location.href = results;
+                    
+                } else {
+                    let brand_results = [];
+                    let unique = new Set(selected_results);
+                    let x = 0;
+                    unique.forEach(element => {
+                        brand_results[x] = element;
+                        x += 1;
+                    });
+
+                    window.location.href = "/map/" + brand_results.join(",");
+                }
+            }
+        </script>
+
 
         <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='main.css')}}">
         <title></title>
@@ -72,7 +109,8 @@
                 <h1> Your search returned {{result_count}} results. </h1> <p> </p>
                 </div>
                 <div class="col-md-4">
-                <p class="text-right"><a class="btn btn-warning btn-lg mr-0" href="{{ url_for('show_map', filter=brand_list) }}" role="button" style="color:#705132"> <b>Map Officail Tasting Locations </b></a></p>
+                <p class="text-right"><input class="btn btn-warning btn-lg mr-0" type="button" onClick="find_selected_wines(checkbox_id, all_results)" style="color:#705132" value='Map Officail Tasting Locations'></p>
+                
                 </div>
 
             </div>
