@@ -49,6 +49,66 @@
                     window.location.href = "/map/" + brand_results.join(",");
                 }
             }
+
+
+
+            // function sortTable(n) {
+            //     var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+            //     table = document.getElementById("wineTable");
+            //     switching = true;
+            //     // Set the sorting direction to ascending:
+            //     dir = "asc";
+            //     /* Make a loop that will continue until
+            //     no switching has been done: */
+            //     while (switching) {
+            //         // Start by saying: no switching is done:
+            //         switching = false;
+            //         rows = table.rows;
+            //         /* Loop through all table rows (except the
+            //         first, which contains table headers): */
+            //         for (i = 1; i < (rows.length - 1); i++) {
+            //         // Start by saying there should be no switching:
+            //         shouldSwitch = false;
+            //         /* Get the two elements you want to compare,
+            //         one from current row and one from the next: */
+            //         x = rows[i].getElementsByTagName("TD")[n];
+            //         y = rows[i + 1].getElementsByTagName("TD")[n];
+            //         /* Check if the two rows should switch place,
+            //         based on the direction, asc or desc: */
+            //         if (dir == "asc") {
+            //             if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+            //             // If so, mark as a switch and break the loop:
+            //             shouldSwitch = true;
+            //             break;
+            //             }
+            //         } else if (dir == "desc") {
+            //             if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+            //             // If so, mark as a switch and break the loop:
+            //             shouldSwitch = true;
+            //             break;
+            //             }
+            //         }
+            //         }
+            //         if (shouldSwitch) {
+            //         /* If a switch has been marked, make the switch
+            //         and mark that a switch has been done: */
+            //         rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            //         switching = true;
+            //         // Each time a switch is done, increase this count by 1:
+            //         switchcount ++;
+            //         } else {
+            //         /* If no switching has been done AND the direction is "asc",
+            //         set the direction to "desc" and run the while loop again. */
+            //         if (switchcount == 0 && dir == "asc") {
+            //             dir = "desc";
+            //             switching = true;
+            //         }
+            //         }
+            //     }
+            //     }
+
+
+
         </script>
 
 
@@ -63,100 +123,101 @@
                 <div class="jumbotron text-center" >
                     <h1 class="display-4" style="color:white">Choose Your Wine</h1>
                 </div>
-            <div class="row col-md-12">    
-                <h3>Mark the checkbox to activate a search parameter: </h3>
-            </div>
+                <div class="row col-md-12">    
+                    <h3>Mark the checkbox to activate a search parameter: </h3>
+                </div>
                 
-            <div class="row col-md-12">  
-                <div class=" col-md-4">  
                 <form method="POST">
-                    
-                    {{form.csrf_token}}
-                    <p>{{form.winery_bool}} {{form.winery_select.label(class="form-control-label")}}
-                        {{form.winery_select(class="form-control")}} </p>           
-                    <p>{{form.min_price_bool}} {{form.min_price_select.label(class="form-control-label")}}
-                    {{form.min_price_select(class="form-control")}} </p>           
-                    <p>{{form.max_price_bool}} {{form.max_price_select.label(class="form-control-label")}}
-                    {{form.max_price_select(class="form-control")}} </p>    
-                </div>
-                <div class="col-md-4">
-                    <p>{{form.category_bool}} {{form.category_select.label(class="form-control-label")}}
-                    {{form.category_select(class="form-control")}}</p>
-                    <p>{{form.variety_bool}} {{form.variety_select.label(class="form-control-label")}}
-                    {{form.variety_select(class="form-control")}}</p>
-                    <p>{{form.vintage_bool}} {{form.vintage_select.label(class="form-control-label")}}
-                    {{form.vintage_select(class="form-control")}}</p>
-                    
-                </div>
-                <div class="col-md-4">
-                    <p>{{form.region_bool}} {{form.region_select.label(class="form-control-label")}}
-                    {{form.region_select(class="form-control")}}</p>
-                    <p>{{form.min_score_bool}} {{form.min_score_select.label(class="form-control-label")}}
-                    {{form.min_score_select(class="form-control")}}</p>
-                    <p>{{form.max_score_bool}} {{form.max_score_select.label(class="form-control-label")}}
-                    {{form.max_score_select(class="form-control")}}</p>
-           
-                </div>
-                <div class="col-md-1">
-                    {{form.filter_submit(class="btn-secondary btn-lg")}}
-                    
-                </div>
-            </form>
+                    <div class="row col-md-12">  
+                        <div class=" col-md-4">  
+                                        
+                            {{form.csrf_token}}
+                            <p>{{form.winery_bool}} {{form.winery_select.label(class="form-control-label")}}
+                                {{form.winery_select(class="form-control")}} </p>           
+                            <p>{{form.min_price_bool}} {{form.min_price_select.label(class="form-control-label")}}
+                            {{form.min_price_select(class="form-control")}} </p>           
+                            <p>{{form.max_price_bool}} {{form.max_price_select.label(class="form-control-label")}}
+                            {{form.max_price_select(class="form-control")}} </p>    
+                        </div>
+                        <div class="col-md-4">
+                            <p>{{form.category_bool}} {{form.category_select.label(class="form-control-label")}}
+                            {{form.category_select(class="form-control")}}</p>
+                            <p>{{form.variety_bool}} {{form.variety_select.label(class="form-control-label")}}
+                            {{form.variety_select(class="form-control")}}</p>
+                            <p>{{form.vintage_bool}} {{form.vintage_select.label(class="form-control-label")}}
+                            {{form.vintage_select(class="form-control")}}</p>
+                            
+                        </div>
+                        <div class="col-md-4">
+                            <p>{{form.region_bool}} {{form.region_select.label(class="form-control-label")}}
+                            {{form.region_select(class="form-control")}}</p>
+                            <p>{{form.min_score_bool}} {{form.min_score_select.label(class="form-control-label")}}
+                            {{form.min_score_select(class="form-control")}}</p>
+                            <p>{{form.max_score_bool}} {{form.max_score_select.label(class="form-control-label")}}
+                            {{form.max_score_select(class="form-control")}}</p>
+                
+                        </div>
+                        
+                    </div>
+                    <div class="row col-md-12">  
+                        <div class="col-md-4">
+                            <p>{{form.sort_by.label(class="form-control-label")}}<br>
+                            {{form.sort_by(class="form-control")}}</p>
+
+                            <p>{{form.sort_by_bool}}
+                            {{form.sort_by_bool.label(class="form-control-label")}}<br>
+                            {{form.sort_desc_bool}}
+                            {{form.sort_desc_bool.label(class="form-control-label")}}</p>
+
+                        </div>
+                        <div class="col-md-4" style="margin:auto 0">
+                            {{form.filter_submit(class="btn-secondary btn-lg")}}
+                            
+                        </div>
+                    </div>    
+                </form>
           
-        </div>
+            
             <div class="row col-md-12">
                 <div class="col-md-8">
                 <h1> Your search returned {{result_count}} results. </h1> <p> </p>
                 </div>
                 <div class="col-md-4">
-                <p class="text-right"><input class="btn btn-warning btn-lg mr-0" type="button" onClick="find_selected_wines(checkbox_id, all_results)" style="color:#705132" value='Map Officail Tasting Locations'></p>
+                <p class="text-right"><input class="btn btn-warning btn-lg mr-0" type="button" onClick="find_selected_wines(checkbox_id, all_results)" style="color:#705132;font-weight: bold;" value='Map Officail Tasting Locations'></p>
                 
                 </div>
 
             </div>
 
-         <!-- diplay table of filtered Data-->
-         <div class="col-md-12">
-            <table class="table table-striped table-hover">
-                <thead>
+            <!-- diplay table of filtered Data-->
+            <div class="col-md-12">
+            <table id="wineTable" class="table table-striped table-hover">
+                <tbody>
                     <tr>
                         <th class="table-head"> </th>
-                        <th class="table-head">Title</th>
-                        <th class="table-head">Vintage</th>
-                        <th class="table-head">Score</th>
-                        <th class="table-head">Release Price</th>
-                        <th class="table-head">Category</th>
-                        <th class="table-head">Region</th>
-                        <th class="table-head">Review Source</th>
-<!--                         
-                        <th class="table-head">winery</th>
-                        <th class="table-head">ava</th>
-                        
-                        <th class="table-head">province</th>
-                        <th class="table-head">country</th>
-                        <th class="table-head">designation</th>
-                        <th class="table-head">variety</th>                       
-
-                        <th class="table-head">brand_id</th>
-                        <th class="table-head">review_id</th> -->
-
+                        <th class="table-head" >Title</th>
+                        <th class="table-head" >Vintage</th>
+                        <th class="table-head" >Score</th>
+                        <th class="table-head" >Release Price</th>
+                        <th class="table-head" >Category</th>
+                        <th class="table-head" >Region</th>
+                        <th class="table-head" >Review Source</th>
                     </tr>
-                </thead>
-        {% for row in data %}
-        <tr>
-            <td><input id="{{row.checkbox_id}}" name="{{row.checkbox_id}}" type="checkbox" value="y"></td>
-            <td>{{row.title}}</td>
-            <td>{{row.vintage}}</td>
-            <td>{{row.score}}</td>
-            <td>{{row.release_price}}</td>
-            <td>{{row.category}}</td>
-            <td>{{row.region}}</td>
-            <td>{{row.review_source}}</td>
-        </tr>
+                {% for row in data %}
+                    <tr>
+                        <td><input id="{{row.checkbox_id}}" name="{{row.checkbox_id}}" type="checkbox" value="y"></td>
+                        <td>{{row.title}}</td>
+                        <td>{{row.vintage}}</td>
+                        <td>{{row.score}}</td>
+                        <td>{{row.release_price}}</td>
+                        <td>{{row.category}}</td>
+                        <td>{{row.region}}</td>
+                        <td>{{row.review_source}}</td>
+                    </tr>
 
-        {%endfor%}
-        
-</table>
+                {%endfor%}
+                </tbody>
+            </table>
          </div><!--container-->
          </div> <!--wrapper-->
 

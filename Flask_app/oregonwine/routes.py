@@ -37,43 +37,7 @@ def sql_query(statement, table, columns='*'):
     return reviews
 
 
-
-def welcome():
-    return render_template('index.html')
-
-@app.route("/", methods=['GET','POST'])
-@app.route("/wine", methods=['GET','POST'])
-def wine_list():
-
-    form = WineFilter()
-
-    
-    select_wine = "SELECT * FROM wine_reviews WHERE province = 'Oregon' ;"
-    
-
-    response = sql_query(statement=select_wine, table='wine_reviews')
-    df = pd.DataFrame(response)
-
-    form.winery_select.choices = list(df['winery'].dropna().unique())
-    form.winery_select.choices.sort()
-    form.vintage_select.choices = [int(x) for x in df['vintage'].dropna().unique()]
-    form.vintage_select.choices.sort(reverse=True)
-    form.category_select.choices = list(df['category'].dropna().unique()) # list(set([row['category'] for row in reviews]))   
-    form.category_select.choices.sort()
-    form.min_score_select.choices = [int(x) for x in df['score'].dropna().unique()]
-    form.min_score_select.choices.sort()
-    form.max_score_select.choices = [int(x) for x in df['score'].dropna().unique()]
-    form.max_score_select.choices.sort(reverse=True)
-    form.region_select.choices = [x for x in df['region'].dropna().unique()] # list(set([row['region'] for row in reviews]))   
-    form.region_select.choices.sort()
-    form.min_price_select.choices = [int(x) for x in df['release_price'].dropna().unique()]
-    form.min_price_select.choices.sort()
-    form.variety_select.choices = list(df['variety'].dropna().value_counts().index) # list(set([row['variety'] for row in reviews]))   
-    form.variety_select.choices.sort()
-    form.max_price_select.choices = [int(x) for x in df['release_price'].dropna().unique()]
-    form.max_price_select.choices.sort(reverse=True)
-
-    if request.method == 'POST':
+def convert_search_paramaters(form):
         select = "SELECT * FROM wine_reviews WHERE (province = 'Oregon') "
 
         if form.min_price_bool.data and form.max_price_bool.data:
@@ -127,11 +91,58 @@ def wine_list():
         else:
             pass
 
+        if form.sort_by_bool.data:
+            select += f" ORDER BY {form.sort_by.data} "
+        elif form.sort_desc_bool.data:
+            select += f" ORDER BY {form.sort_by.data} DESC "
+
         ## End of checking for filters to apply
         select += " ;"
 
+        return select
+
+
+
+def welcome():
+    return render_template('index.html')
+
+@app.route("/", methods=['GET','POST'])
+@app.route("/wine", methods=['GET','POST'])
+def wine_list():
+
+    form = WineFilter()
+
+    
+    select_wine = "SELECT * FROM wine_reviews WHERE province = 'Oregon' ;"
+    
+    response = sql_query(statement=select_wine, table='wine_reviews')
+    df = pd.DataFrame(response)
+
+    form.winery_select.choices = list(df['winery'].dropna().unique())
+    form.winery_select.choices.sort()
+    form.vintage_select.choices = [int(x) for x in df['vintage'].dropna().unique()]
+    form.vintage_select.choices.sort(reverse=True)
+    form.category_select.choices = list(df['category'].dropna().unique()) # list(set([row['category'] for row in reviews]))   
+    form.category_select.choices.sort()
+    form.min_score_select.choices = [int(x) for x in df['score'].dropna().unique()]
+    form.min_score_select.choices.sort()
+    form.max_score_select.choices = [int(x) for x in df['score'].dropna().unique()]
+    form.max_score_select.choices.sort(reverse=True)
+    form.region_select.choices = [x for x in df['region'].dropna().unique()] # list(set([row['region'] for row in reviews]))   
+    form.region_select.choices.sort()
+    form.min_price_select.choices = [int(x) for x in df['release_price'].dropna().unique()]
+    form.min_price_select.choices.sort()
+    form.variety_select.choices = list(df['variety'].dropna().value_counts().index) # list(set([row['variety'] for row in reviews]))   
+    form.variety_select.choices.sort()
+    form.max_price_select.choices = [int(x) for x in df['release_price'].dropna().unique()]
+    form.max_price_select.choices.sort(reverse=True)
+
+    if request.method == 'POST':
+
+        select_wine = convert_search_paramaters(form=form)
+
         ## New SQL Query with the search filter applied.
-        response = sql_query(statement=select, table='wine_reviews')
+        response = sql_query(statement=select_wine, table='wine_reviews')
         review_brand = [x for x in pd.DataFrame(response)['checkbox_id']]
         brand_list = list(pd.DataFrame(response)['brand_id'].unique())
         brand_list = str(brand_list)[1:-1].replace(", ", ",")
@@ -142,7 +153,7 @@ def wine_list():
         brand_list = list(pd.DataFrame(response)['brand_id'].unique())
         brand_list = str(brand_list)[1:-1].replace(", ", ",")
         review_brand = [x for x in pd.DataFrame(response)['checkbox_id']]
-        # review_brand = str(review_brand)[1:-1].replace(", ", ",")
+
         return render_template('wine.html', data=response, form=form, result_count=len(response), review_brand=review_brand, brand_list=brand_list)
 
 

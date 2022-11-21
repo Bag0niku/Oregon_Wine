@@ -4,8 +4,7 @@ from wtforms import SelectField, BooleanField, SubmitField
 
 class WineFilter(FlaskForm):
     
-
-
+##  The wine filter parameters
     winery_select = SelectField('Winery', choices=[])
     winery_bool = BooleanField()
     region_select = SelectField('Region', choices=[])
@@ -24,6 +23,11 @@ class WineFilter(FlaskForm):
     min_price_bool = BooleanField()
     max_price_select = SelectField('Maximum Price', choices=[])
     max_price_bool = BooleanField()
+
+## The sort results parameters
+    sort_by = SelectField("How would you like the results sorted?", choices=["release_price", "score", "region", "vintage", "variety", "winery", "category"])
+    sort_by_bool = BooleanField("Ascending")
+    sort_desc_bool = BooleanField("Descending")
 
     filter_submit = SubmitField("Apply Search Parameters")
 
