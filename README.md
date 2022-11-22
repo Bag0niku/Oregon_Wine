@@ -1,4 +1,4 @@
-# Oregon_Wine
+# Oregon Wine
 
 
 ## Overview
@@ -27,76 +27,79 @@ This project was created with the sole purpose in mind of helping those continui
 - Winery and Vineyard loactions pulled from the Google Places API
 - Oregon Wine industry information from 
 
-## Goals for the Final Product:
+## Instructions
+Notes to know before you get started using the web app <a href=http://www.oregonvineyards.wine/>http://www.oregonvineyards.wine/ </a> : 
+- By no means does this dataset include all wine, or all wine rated from the review sources we gathered from, however it has alot of wine and the data will expand in the future to include future published reviews; a process not yet automated. The same goes for the vineyards and wineries in our data. There are several I know of and have been to but are not within the dataset. Their data will be added in the future.
+- Currently the only filter parameter upon intial load is wine made in Oregon because wine is made all over the world and it was inevitable for some of it to wind up in our data retrieval.
+- The checkbox next to the title of the search filter parameter must be checked to be applied to the search results. 
+- The "Map Official Tasting Locations" button will load a map of offical tasting locations based on the search results. If you select a checkbox for any wines, only those will be mapped.
+- The oregon wine industry "about" web page is hosted here on github and also available on the web app.
+
+## How the project went:
+
+### Goals for the Final Product:
+- Estimated completion time 4 weeks.
 - Wine reviews page that can be filtered based on wines.
 - Vineyard/Tasting Room Locator Map based on filtered results
 - About Us Page
 - Wine FAQ and FYI Page
 - Data will be hosted on AWS cloud service
-- Once finished website will be hosted on AWS S3 with the domain:  http://www.oregonvineyards.wine/
+- Once finished website will be hosted on AWS S3 with the domain:  <a href=http://www.oregonvineyards.wine/>http://www.oregonvineyards.wine/</a>
 
 ### First Tasks
 To get off start and form a clearer picture of our goal we need data. A list of Oregon vineyards was found during a brainstorming session on the <a href=https://oregontails.org/things-to-do/eat-drink/oregon-wineries-list/>OregonTails.gov</a> website.  
-- Wine FAQ and FYI will be gathered by MichaylaGilchrist
-- Wine Reviews will be gathered by Shaobobei and DarrinM37
-- Vineyard and Winery locations will be gathered by Bag0niku (myself)
-    - Raw data from the google api maps search is saved in 2 csv files. The files will need cleaned before we can use them, only a small portion of each record looks usable to us at first glance.
-
+- MichaylaGilchrist
+    - Gather Wine FAQ and FYI
+- Shaobobei and DarrinM37
+    - Gather Wine Reviews
+- Bag0niku (myself)
+    - Gather Vineyard and Winery 
+    - Clean the data that has been gathered by everyone.
 
 ### Second Tasks
-Some data has been gathered. Enough to start building mock-ups of the different systems we will be using.
+Gathering data has been troublesome, however some data has been gathered. Enough to start building mock-ups of the different systems we will be using.
 - Bag0niku (me)
-    - Webpage to view and filter the data in a table.  
+    - Build SQL database and host on AWS with current data.
+    - Build the Flask App to connect the sql database on AWS
 - DarrinM37    
-    - Webpage to visualize the vineyard locations on a map. 
+    - Start building the webpage to visualize the vineyard locations on a map. 
 - MichaylaGilchrist
-    - Decide on the specific content that will be on the Wine FYI/FAQ 
+    - Decide on the specific Oregon Wine Industry content that will be on the Wine FYI/FAQ 
 - Shaobobei
     - Continue gathering wine information and reviews
 
 
-
 ### Third Tasks
-
+Progress has been frustrating and slow. Next tasks are to complete the remaining pieces of previously assigned tasks and start the following:
 - MichaylaGilchrist
     - Finish Oregon wine industry analysis
-    - work with Shaobobei to get visualize the information on a webpage
+    - work with Shaobobei to visualize the oregon wine industry information on a webpage
 - Shaobobei
     - Create an About Us webpage
     - Work with MichaylaGilchrist
 - Darrin
     - finish the maping visualization of the wineries and vineyards
 - Bag0niku
-    - Build the Flask App to connect the sql database on aws
-
-
+    - Build Webpage to view and filter the wine list data in a table.  
+    
 ### Fourth Tasks
 - Connect the webpages together into one working unit
-
 - Bag0niku
     - Live hosting of the web app on AWS at http://www.oregonvineyards.wine
 
 
-
-
-## Instructions
-Notes to know before you get started: 
-- By no means does this dataset include all wine, or all wine rated from the review sources we gathered from, however it has alot of wine and the data will expand in the future to include future published reviews; a process not yet automated. The same goes for the vineyards and wineries in our data. There are several I know of and have been to but are not within the dataset. Their data will be added in the future.
-- Currently the only filter parameter upon intial load is wine made in Oregon because wine is made all over the world and it was inevitable for some of it to wind up in our data retrieval.
-- The checkbox next to the title of the search filter parameter must be checked to be applied to the search results. 
-- The "Map Official Tasting Locations" button will load a map of offical tasting locations based on the search results. If you select a checkbox for any wines, only those will be mapped.
-
-
 ## Future Features
-Next Basic Features:
-- map directions to tasting rooms
-- user login to keep preferences and or history
-- track wines tried/liked/disliked
-- track tasting rooms visited/liked/disliked
-- user notes/reviews of tasting rooms and wines
-    - system logistics: "notes" is an unpublished review and may remain that way for as long as the user wishes
+This project will continue to be built out and gain more features as time progresses. It is meant to help people with their wine adventures.
 
-More Advanced Features sometime later:
-- Ability to build itinerary plan for visiting multiple vineyards, and possibly share
-- map directions to vineyards in the area without a filtered search
-- which wineries you are a wine club member of
+- Next Basic Features:
+    - map directions to tasting rooms.
+    - user login to keep preferences and or history.
+    - track wines tried/liked/disliked.
+    - track tasting rooms visited/liked/disliked.
+    - user notes/reviews of tasting rooms and wines.
+        - system logistics: "notes" is an unpublished review and may remain that way for as long as the user wishes.
+
+- More Advanced Features sometime later:
+    - Ability to build itinerary plan for visiting multiple vineyards, and possibly share.
+    - map directions to vineyards in the area without a filtered search.
+    - which wineries you are a wine club member of.
