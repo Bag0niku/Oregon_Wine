@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+            integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+            crossorigin="anonymous" />
+        <style>
+            .jumbotron {
+                background-image: url("{{url_for('static', filename='wine_bottle_headerv2.jpg')}}");
+            }
+        </style>
+
+        <script>
+            let checkbox_id = {{review_brand | tojson}};
+            let all_results = "{{ url_for('show_map', filter=brand_list) }}";
+            
+            function find_selected_wines(checked_results, results){  
+                // checked_results is meant for the checkbox_ids
+                // results is meant for the show_map url + brand_list variable from flask
+                let x = 0;
+                let selected_results = [];
+                for (let i =0; i < checked_results.length; i++) {
+                    id = checked_results[i];
+                    box = document.getElementById(id);
+                    if (box.checked) {
+                        id_array = id.split("_")
+                        console.log(id_array);
+                        console.log(box.checked);
+                        selected_results[x] = id_array[1];
+                        x += 1;
+                        }
+                    } 
+                if (selected_results.length == 0) {
+                    window.location.href = results;
+                    
+                } else {
+                    let brand_results = [];
+                    let unique = new Set(selected_results);
+                    let x = 0;
+                    unique.forEach(element => {
+                        brand_results[x] = element;
+                        x += 1;
+                    });
+
+                    window.location.href = "/map/" + brand_results.join(",");
+                }
+            }
+
+
+        </script>
+
+
+        <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='main.css')}}">
+        <title></title>
+    
+    </head>
+    <body>
+        
+        <div class="wrapper">
+            <div class="container">
+                <div class="jumbotron text-center" >
+                    <h1 class="display-4" style="color:white">Choose Your Wine</h1>
+                </div>
+                <div class="row col-md-12">    
+                    <h3>Mark the checkbox to activate a search parameter: </h3>
+                </div>
+                
+                <form method="POST">
+                    <div class="row col-md-12">  
+                        <div class=" col-md-4">  
+                                        
+                            {{form.csrf_token}}
+                            <p>{{form.winery_bool}} {{form.winery_select.label(class="form-control-label")}}
+                                {{form.winery_select(class="form-control")}} </p>           
+                            <p>{{form.min_price_bool}} {{form.min_price_select.label(class="form-control-label")}}
+                            {{form.min_price_select(class="form-control")}} </p>           
+                            <p>{{form.max_price_bool}} {{form.max_price_select.label(class="form-control-label")}}
+                            {{form.max_price_select(class="form-control")}} </p>    
+                        </div>
+                        <div class="col-md-4">
+                            <p>{{form.category_bool}} {{form.category_select.label(class="form-control-label")}}
+                            {{form.category_select(class="form-control")}}</p>
+                            <p>{{form.variety_bool}} {{form.variety_select.label(class="form-control-label")}}
+                            {{form.variety_select(class="form-control")}}</p>
+                            <p>{{form.vintage_bool}} {{form.vintage_select.label(class="form-control-label")}}
+                            {{form.vintage_select(class="form-control")}}</p>
+                            
+                        </div>
+                        <div class="col-md-4">
+                            <p>{{form.region_bool}} {{form.region_select.label(class="form-control-label")}}
+                            {{form.region_select(class="form-control")}}</p>
+                            <p>{{form.min_score_bool}} {{form.min_score_select.label(class="form-control-label")}}
+                            {{form.min_score_select(class="form-control")}}</p>
+                            <p>{{form.max_score_bool}} {{form.max_score_select.label(class="form-control-label")}}
+                            {{form.max_score_select(class="form-control")}}</p>
+                
+                        </div>
+                        
+                    </div>
+                    <div class="row col-md-12">  
+                        <div class="col-md-4">
+                            <p>{{form.sort_by.label(class="form-control-label")}}<br>
+                            {{form.sort_by(class="form-control")}}</p>
+
+                            <p>{{form.sort_by_bool}}
+                            {{form.sort_by_bool.label(class="form-control-label")}}<br>
+                            {{form.sort_desc_bool}}
+                            {{form.sort_desc_bool.label(class="form-control-label")}}</p>
+
+                        </div>
+                        <div class="col-md-4" style="margin:auto 0">
+                            {{form.filter_submit(class="btn-secondary btn-lg")}}
+                            
+                        </div>
+                    </div>    
+                </form>
+          
+            
+            <div class="row col-md-12">
+                <div class="col-md-8">
+                <h1> Your search returned {{result_count}} results. </h1> <p> </p>
+                </div>
+                <div class="col-md-4">
+                <p class="text-right"><input class="btn btn-warning btn-lg mr-0" type="button" onClick="find_selected_wines(checkbox_id, all_results)" style="color:#705132;font-weight: bold;" value='Map Officail Tasting Locations'></p>
+                
+                </div>
+
+            </div>
+
+            <!-- diplay table of filtered Data-->
+            <div class="col-md-12">
+            <table id="wineTable" class="table table-striped table-hover">
+                <tbody>
+                    <tr>
+                        <th class="table-head"> </th>
+                        <th class="table-head" >Title</th>
+                        <th class="table-head" >Vintage</th>
+                        <th class="table-head" >Score</th>
+                        <th class="table-head" >Release Price</th>
+                        <th class="table-head" >Category</th>
+                        <th class="table-head" >Region</th>
+                        <th class="table-head" >Review Source</th>
+                    </tr>
+                {% for row in data %}
+                    <tr>
+                        <td><input id="{{row.checkbox_id}}" name="{{row.checkbox_id}}" type="checkbox" value="y"></td>
+                        <td>{{row.title}}</td>
+                        <td>{{row.vintage}}</td>
+                        <td>{{row.score}}</td>
+                        <td>{{row.release_price}}</td>
+                        <td>{{row.category}}</td>
+                        <td>{{row.region}}</td>
+                        <td>{{row.review_source}}</td>
+                    </tr>
+
+                {%endfor%}
+                </tbody>
+            </table>
+         </div><!--container-->
+         </div> <!--wrapper-->
+
+    
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>

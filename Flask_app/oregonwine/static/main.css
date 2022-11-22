@@ -1,0 +1,8 @@
+.jumbotron {
+    /* background-image: url("{{url_for('static', filename='wine_bottle_headerv2.jpg')}}"); */
+    background-size: 100% 100%;
+    text-align: center;
+}
+div {
+    padding: 10px
+}

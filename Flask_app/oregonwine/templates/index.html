@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .jumbotron{
+            background-image: url("{{url_for('static', filename='cork_header.jpg')}}");
+            background-size: 100% 100%;
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="wrapper">
+        <div class="jumbotron text-center" >
+            <h1 class="display-4" style="color:white">Are you ready for your wine adventure?</h1>
+        </div>
+    <div class="container">
+        
+        <div>
+        <p> Wine is passion in a glass, just as food is passion on a plate. Every wine has a story that makes it unique, from the weather and environment of the growing season that changes from year to year, the winemaker's goal and choices during fermentation and storage, and if you are paying enough attention even your mood and environment while you are drinking the wine will cause each bottle to taste different. </p>
+        <p>There are two important pieces of information about the wine industry most people do not know. The First is: the wine you can buy in the grocery store is but a tiny fraction of the wine available and finding it is only as adventurous as you make it. For every winery you see on those shelves there are more than a thousand others making wine worthy of their passion. You could choose to only have the wine from the shelves at the grocery store, or you can look for and visit those with a passion for wine not on the shelves. </p>
+        <p> The Second is: wine on those shelves are meant to attract you to their winery's Tasting Room where they keep the higher quality wine they reserve for their wine club members, and deliberately keep off the grocery store shelves. The quality of wine on those shelves is not the best you can find, nor is it the worst. The quality is meant to be good enough to grab attention and pique your interest to investigate more of their wines, but also a low enough quality they do not want to keep it in their own inventory. You read that correctly, wineries tend to keep the better wines in their inventory and make them available exclusively to those that visit the tasting rooms and wine club members.</p>
+        <p>This site was created with the sole purpose in mind of helping to plan a wine adventure, How you chose to be a part of the next bottle's story is up to you. </p>
+        <p class="text-Center"><a class="btn btn-warning btn-lg" href="{{ url_for('wine_list') }}" role="button" style="color:#705132"> <b>View Wine Database</b></a></p>
+        </div>
+    </div>
+    </div>
+</body>
+</html>
