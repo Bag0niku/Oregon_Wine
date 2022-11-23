@@ -42,7 +42,7 @@ def convert_search_paramaters(form):
 
         if form.min_price_bool.data and form.max_price_bool.data:
             if form.min_price_select.data != form.max_price_select.data:
-                # BETWEEN KEYWORD NOT WORKING "Error: No operator matches the given name and argument types "
+                # SQL KEYWORD BETWEEN NOT WORKING "Error: No operator matches the given name and argument types "
                 # select += f" AND (release_price BETWEEN {form.min_price_select.data} AND {form.max_price_select.data} ) "
                 select += f" AND ((release_price >= {form.min_price_select.data}) AND (release_price <= {form.max_price_select.data} )) "
             else:
@@ -50,19 +50,20 @@ def convert_search_paramaters(form):
         elif form.min_price_bool.data:
             select += f" AND (release_price >= {form.min_price_select.data})"
         elif form.max_price_bool.data:
-            select += f" AND (release_price <= {form.min_price_select.data})"
+            select += f" AND (release_price <= {form.max_price_select.data})"
         else:
             pass
 
         if form.min_score_bool.data and form.max_score_bool.data:
             if form.min_score_select.data != form.max_score_select.data:
-                select += f" AND (score BETWEEN {form.min_score_select.data} AND {form.max_score_select.data} ) "
+                # SQL KEYWORD BETWEEN STILL NOT WORKING "Error: No operator matches the given name and argument types "
+                select += f" AND ((score >= {form.min_score_select.data}) AND (score <= {form.max_score_select.data} )) "
             else:
-                select += f" AND (score = {form.min_price_select.data})"
+                select += f" AND (score = {form.min_score_select.data})"
         elif form.min_score_bool.data:
-            select += f" AND (score >= {form.min_price_select.data})"
+            select += f" AND (score >= {form.min_score_select.data})"
         elif form.max_score_bool.data:
-            select += f" AND (score <= {form.min_price_select.data})"
+            select += f" AND (score <= {form.max_score_select.data})"
         else:
             pass
 
@@ -103,8 +104,11 @@ def convert_search_paramaters(form):
 
 
 
-def welcome():
-    return render_template('index.html')
+@app.route("/about")
+def about():
+    return render_template('about.html')
+
+
 
 @app.route("/", methods=['GET','POST'])
 @app.route("/wine", methods=['GET','POST'])
