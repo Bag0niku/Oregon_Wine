@@ -106,7 +106,7 @@ def convert_search_paramaters(form):
 
 @app.route("/about")
 def about():
-    return render_template('about.html')
+    return redirect('https://bag0niku.github.io/Oregon_Wine/')
 
 
 
