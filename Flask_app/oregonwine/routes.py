@@ -147,6 +147,8 @@ def wine_list():
 
         ## New SQL Query with the search filter applied.
         response = sql_query(statement=select_wine, table='wine_reviews')
+        if len(response) == 0 :
+            return render_template("no-results.html", form=form)
         review_brand = [x for x in pd.DataFrame(response)['checkbox_id']]
         brand_list = list(pd.DataFrame(response)['brand_id'].unique())
         brand_list = str(brand_list)[1:-1].replace(", ", ",")
