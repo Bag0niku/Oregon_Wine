@@ -29,7 +29,7 @@ def popup_html(df, i):
                     <tr>
                         <td style ="padding:10px;width:150px;background-color: {left_col_color};"><span style ="color: #ffffff;">Winery URL</span>
                         </td>
-                        <td style ="padding:10px;width:150px;background-color:{right_col_color};" ><a href="{winery_url}">{winery_url}</a></td>
+                        <td style ="padding:10px;width:150px;background-color:{right_col_color};" ><a href="{winery_url}" target="_blank">{winery_url}</a></td>
                     </tr>
                      <tr>
                         <td style ="padding:10px;width:150px;background-color: {left_col_color};"><span style ="color: #ffffff;">Winery phone</span></td>
@@ -41,7 +41,7 @@ def popup_html(df, i):
                     </tr>
                     <tr >
                         <td style ="padding:10px;width:150px;background-color: {left_col_color}"><span style ="color: #ffffff;">Google Maps location:</span></td>
-                        <td style ="padding:10px;width: 150px;background-color: {right_col_color};"><a href="{winery_gmaps}">{winery_gmaps}</a></td>
+                        <td style ="padding:10px;width: 150px;background-color: {right_col_color};"><a href="{winery_gmaps}" target="_blank">{winery_gmaps}</a></td>
                     </tr>
 
                 </tbody>

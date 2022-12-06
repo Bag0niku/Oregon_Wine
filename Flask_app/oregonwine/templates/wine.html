@@ -36,7 +36,7 @@
                         }
                     } 
                 if (selected_results.length == 0) {
-                    window.location.href = results;
+                    window.open(results, "_blank");
                     
                 } else {
                     let brand_results = [];
@@ -46,8 +46,10 @@
                         brand_results[x] = element;
                         x += 1;
                     });
-
-                    window.location.href = "/map/" + brand_results.join(",");
+                    
+                    new_link = "/map/" + brand_results.join(",");
+                    // window.location.href = "/map/" + brand_results.join(",");
+                    window.open(new_link, "_blank");
                 }
             }
 
@@ -134,7 +136,7 @@
                 <h3> Your search returned {{result_count}} results. </h3> <p> </p>
                 </div>
                 <div class="col-md-4">
-                <p class="text-right"><input class="btn btn-warning btn-lg mr-0" type="button" onClick="find_selected_wines(checkbox_id, all_results)" style="color: rgb(92, 5, 5);font-weight: bold;" value='Map Official Tasting Locations'></p>
+                <p class="text-right"><input class="btn btn-warning btn-lg mr-0" type="button" onClick="find_selected_wines(checkbox_id, all_results)" traget="_blank" style="color: rgb(92, 5, 5);font-weight: bold;" value='Map Official Tasting Locations'></p>
                 
                 </div>
 

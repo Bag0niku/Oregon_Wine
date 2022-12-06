@@ -198,10 +198,3 @@ def show_map(filter=None):
 
     return map._repr_html_()
 
-
-
-
-def veiw_map(brand_list):
-    ## turn the brand_list into a SQL WHERE clasue to add to a the show map filter 
-
-    return redirect(url_for('found', filter=filter))
