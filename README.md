@@ -28,7 +28,7 @@ This project was created with the sole purpose in mind of helping those continui
 - Oregon Wine industry information from 
 
 ## Instructions
-Notes to know before you get started using the web app <a href=http://www.oregonvineyards.wine/>http://www.oregonvineyards.wine/ </a> : 
+Notes to know before you get started using the web app: 
 - By no means does this dataset include all wine, or all wine rated from the review sources we gathered from, however it has alot of wine and the data will expand in the future to include future published reviews; a process not yet automated. The same goes for the vineyards and wineries in our data. There are several I know of and have been to but are not within the dataset. Their data will be added in the future.
 - Currently the only filter parameter upon intial load is wine made in Oregon because wine is made all over the world and it was inevitable for some of it to wind up in our data retrieval.
 - The checkbox next to the title of the search filter parameter must be checked to be applied to the search results. 
@@ -44,7 +44,7 @@ Notes to know before you get started using the web app <a href=http://www.oregon
 - About Us Page
 - Wine FAQ and FYI Page
 - Data will be hosted on AWS cloud service
-- Once finished website will be hosted on AWS S3 with the domain:  <a href=http://www.oregonvineyards.wine/>http://www.oregonvineyards.wine/</a>
+- Once finished the website will be hosted AWS for 1 year with the domain:  <a href=http://www.oregonvineyards.wine/>http://www.oregonvineyards.wine/</a>
 
 ### First Tasks
 To get off start and form a clearer picture of our goal we need data. A list of Oregon vineyards was found during a brainstorming session on the <a href=https://oregontails.org/things-to-do/eat-drink/oregon-wineries-list/>OregonTails.gov</a> website.  
